@@ -1,0 +1,3539 @@
+cancer	patient_ID	drug_name	response
+ACC	TCGA-OU-A5PI	Bevacizumab	Stable Disease
+ACC	TCGA-OU-A5PI	Carboplatin	Stable Disease
+ACC	TCGA-OU-A5PI	Cisplatin	Stable Disease
+ACC	TCGA-OU-A5PI	Doxorubicin	Stable Disease
+ACC	TCGA-OU-A5PI	Etoposide	Stable Disease
+ACC	TCGA-OR-A5JM	Ketoconazole	Clinical Progressive Disease
+ACC	TCGA-OU-A5PI	Mitotane	Stable Disease
+ACC	TCGA-PK-A5HB	Sorafenib	Clinical Progressive Disease
+ACC	TCGA-OU-A5PI	Streptozocin	Stable Disease
+ACC	TCGA-OR-A5JM	Sunitinib	Clinical Progressive Disease
+BLCA	TCGA-CF-A47T	Fluorouracil	Clinical Progressive Disease
+BLCA	TCGA-E5-A2PC	Doxorubicin	Complete Response
+BLCA	TCGA-G2-A2EF	Doxorubicin	Partial Response
+BLCA	TCGA-FD-A3SJ	Doxorubicin	Stable Disease
+BLCA	TCGA-XF-AAN0	Doxorubicin	Clinical Progressive Disease
+BLCA	TCGA-G2-A2EC	Bevacizumab	Partial Response
+BLCA	TCGA-CF-A47S	BCG	Complete Response
+BLCA	TCGA-BL-A0C8	BCG	Clinical Progressive Disease
+BLCA	TCGA-XF-A9SV	BCG	Clinical Progressive Disease
+BLCA	TCGA-XF-AAMZ	BCG	Clinical Progressive Disease
+BLCA	TCGA-XF-A9SK	BCG	Partial Response
+BLCA	TCGA-BT-A2LD	Carboplatin	Clinical Progressive Disease
+BLCA	TCGA-CF-A47T	Carboplatin	Clinical Progressive Disease
+BLCA	TCGA-DK-A3IU	Carboplatin	Clinical Progressive Disease
+BLCA	TCGA-FD-A62S	Carboplatin	Clinical Progressive Disease
+BLCA	TCGA-GU-A42R	Carboplatin	Clinical Progressive Disease
+BLCA	TCGA-XF-A9SY	Carboplatin	Clinical Progressive Disease
+BLCA	TCGA-XF-AAME	Carboplatin	Clinical Progressive Disease
+BLCA	TCGA-XF-AAMF	Carboplatin	Clinical Progressive Disease
+BLCA	TCGA-BT-A2LA	Carboplatin	Complete Response
+BLCA	TCGA-BT-A42E	Carboplatin	Complete Response
+BLCA	TCGA-DK-AA6T	Carboplatin	Complete Response
+BLCA	TCGA-GC-A3YS	Carboplatin	Complete Response
+BLCA	TCGA-XF-AAMY	Carboplatin	Complete Response
+BLCA	TCGA-C4-A0EZ	Carboplatin	Partial Response
+BLCA	TCGA-GV-A3JW	Carboplatin	Partial Response
+BLCA	TCGA-KQ-A41P	Carboplatin	Partial Response
+BLCA	TCGA-BT-A3PJ	Carboplatin	Stable Disease
+BLCA	TCGA-FD-A3SJ	Carboplatin	Stable Disease
+BLCA	TCGA-GV-A3QF	Carboplatin	Stable Disease
+BLCA	TCGA-K4-A83P	Carboplatin	Clinical Progressive Disease
+BLCA	TCGA-GV-A3QH	Cisplatin	Clinical Progressive Disease
+BLCA	TCGA-BT-A20T	Cisplatin	Clinical Progressive Disease
+BLCA	TCGA-BT-A42B	Cisplatin	Clinical Progressive Disease
+BLCA	TCGA-DK-A3IV	Cisplatin	Clinical Progressive Disease
+BLCA	TCGA-DK-A3WX	Cisplatin	Clinical Progressive Disease
+BLCA	TCGA-DK-AA6S	Cisplatin	Clinical Progressive Disease
+BLCA	TCGA-FD-A3SO	Cisplatin	Clinical Progressive Disease
+BLCA	TCGA-FJ-A871	Cisplatin	Clinical Progressive Disease
+BLCA	TCGA-G2-A3IB	Cisplatin	Clinical Progressive Disease
+BLCA	TCGA-G2-A3IE	Cisplatin	Clinical Progressive Disease
+BLCA	TCGA-G2-AA3C	Cisplatin	Clinical Progressive Disease
+BLCA	TCGA-GV-A40E	Cisplatin	Clinical Progressive Disease
+BLCA	TCGA-XF-A9SU	Cisplatin	Clinical Progressive Disease
+BLCA	TCGA-XF-A9SV	Cisplatin	Clinical Progressive Disease
+BLCA	TCGA-XF-A9T4	Cisplatin	Clinical Progressive Disease
+BLCA	TCGA-XF-AAN7	Cisplatin	Clinical Progressive Disease
+BLCA	TCGA-CU-A3YL	Cisplatin	Complete Response
+BLCA	TCGA-DK-A1AC	Cisplatin	Complete Response
+BLCA	TCGA-DK-A3WW	Cisplatin	Complete Response
+BLCA	TCGA-DK-A3WY	Cisplatin	Complete Response
+BLCA	TCGA-DK-A6B5	Cisplatin	Complete Response
+BLCA	TCGA-DK-A6B6	Cisplatin	Complete Response
+BLCA	TCGA-DK-AA6U	Cisplatin	Complete Response
+BLCA	TCGA-DK-AA76	Cisplatin	Complete Response
+BLCA	TCGA-E5-A2PC	Cisplatin	Complete Response
+BLCA	TCGA-FD-A3B4	Cisplatin	Complete Response
+BLCA	TCGA-FD-A43S	Cisplatin	Complete Response
+BLCA	TCGA-FD-A43U	Cisplatin	Complete Response
+BLCA	TCGA-FD-A5BS	Cisplatin	Complete Response
+BLCA	TCGA-FD-A5C1	Cisplatin	Complete Response
+BLCA	TCGA-FJ-A3Z7	Cisplatin	Complete Response
+BLCA	TCGA-FJ-A3Z9	Cisplatin	Complete Response
+BLCA	TCGA-G2-AA3D	Cisplatin	Complete Response
+BLCA	TCGA-GC-A3YS	Cisplatin	Complete Response
+BLCA	TCGA-LT-A5Z6	Cisplatin	Complete Response
+BLCA	TCGA-SY-A9G5	Cisplatin	Complete Response
+BLCA	TCGA-XF-A9SZ	Cisplatin	Complete Response
+BLCA	TCGA-XF-A9T5	Cisplatin	Complete Response
+BLCA	TCGA-XF-AAMG	Cisplatin	Complete Response
+BLCA	TCGA-XF-AAMR	Cisplatin	Complete Response
+BLCA	TCGA-XF-AAN3	Cisplatin	Complete Response
+BLCA	TCGA-XF-AAN5	Cisplatin	Complete Response
+BLCA	TCGA-YC-A89H	Cisplatin	Complete Response
+BLCA	TCGA-ZF-AA51	Cisplatin	Complete Response
+BLCA	TCGA-ZF-AA53	Cisplatin	Complete Response
+BLCA	TCGA-DK-AA6M	Cisplatin	Partial Response
+BLCA	TCGA-G2-A2EC	Cisplatin	Partial Response
+BLCA	TCGA-G2-A2EF	Cisplatin	Partial Response
+BLCA	TCGA-G2-AA3F	Cisplatin	Partial Response
+BLCA	TCGA-K4-AAQO	Cisplatin	Partial Response
+BLCA	TCGA-XF-A9T4	Cisplatin	Partial Response
+BLCA	TCGA-XF-AAME	Cisplatin	Partial Response
+BLCA	TCGA-XF-AAN0	Cisplatin	Partial Response
+BLCA	TCGA-XF-AAN7	Cisplatin	Partial Response
+BLCA	TCGA-DK-A1A7	Cisplatin	Stable Disease
+BLCA	TCGA-DK-AA6P	Cisplatin	Stable Disease
+BLCA	TCGA-FD-A3SJ	Cisplatin	Stable Disease
+BLCA	TCGA-FD-A3SQ	Cisplatin	Stable Disease
+BLCA	TCGA-G2-A2EJ	Cisplatin	Stable Disease
+BLCA	TCGA-G2-A2EK	Cisplatin	Stable Disease
+BLCA	TCGA-UY-A78L	Cisplatin	Clinical Progressive Disease
+BLCA	TCGA-E5-A4U1	Docetaxel	Clinical Progressive Disease
+BLCA	TCGA-GD-A3OS	Docetaxel	Clinical Progressive Disease
+BLCA	TCGA-XF-A9SH	Docetaxel	Clinical Progressive Disease
+BLCA	TCGA-XF-AAN7	Docetaxel +/- Zactima	Clinical Progressive Disease
+BLCA	TCGA-CF-A47S	Doxorubicin	Complete Response
+BLCA	TCGA-FJ-A871	Doxorubicin	Clinical Progressive Disease
+BLCA	TCGA-G2-A3IB	Doxorubicin	Clinical Progressive Disease
+BLCA	TCGA-G2-A3IE	Doxorubicin	Clinical Progressive Disease
+BLCA	TCGA-XF-A9SH	Doxorubicin	Clinical Progressive Disease
+BLCA	TCGA-G2-AA3D	Doxorubicin	Complete Response
+BLCA	TCGA-C4-A0EZ	Doxorubicin	Partial Response
+BLCA	TCGA-G2-A2EC	Doxorubicin	Partial Response
+BLCA	TCGA-G2-A3IE	Doxorubicin	Partial Response
+BLCA	TCGA-G2-AA3F	Doxorubicin	Partial Response
+BLCA	TCGA-G2-A2EK	Doxorubicin	Stable Disease
+BLCA	TCGA-C4-A0EZ	Etoposide	Partial Response
+BLCA	TCGA-G2-A2EL	Etoposide	Stable Disease
+BLCA	TCGA-BT-A2LA	Etoposide	Complete Response
+BLCA	TCGA-BT-A42B	Gemcitabine	Clinical Progressive Disease
+BLCA	TCGA-DK-A3IU	Gemcitabine	Clinical Progressive Disease
+BLCA	TCGA-DK-A3IV	Gemcitabine	Clinical Progressive Disease
+BLCA	TCGA-DK-A3WX	Gemcitabine	Clinical Progressive Disease
+BLCA	TCGA-DK-A6B2	Gemcitabine	Clinical Progressive Disease
+BLCA	TCGA-FD-A3SO	Gemcitabine	Clinical Progressive Disease
+BLCA	TCGA-FD-A62S	Gemcitabine	Clinical Progressive Disease
+BLCA	TCGA-FJ-A871	Gemcitabine	Clinical Progressive Disease
+BLCA	TCGA-G2-AA3C	Gemcitabine	Clinical Progressive Disease
+BLCA	TCGA-GU-A42R	Gemcitabine	Clinical Progressive Disease
+BLCA	TCGA-GV-A3QH	Gemcitabine	Clinical Progressive Disease
+BLCA	TCGA-GV-A3QI	Gemcitabine	Clinical Progressive Disease
+BLCA	TCGA-K4-A83P	Gemcitabine	Clinical Progressive Disease
+BLCA	TCGA-UY-A78L	Gemcitabine	Clinical Progressive Disease
+BLCA	TCGA-XF-A9SU	Gemcitabine	Clinical Progressive Disease
+BLCA	TCGA-XF-A9SV	Gemcitabine	Clinical Progressive Disease
+BLCA	TCGA-XF-A9SX	Gemcitabine	Clinical Progressive Disease
+BLCA	TCGA-XF-A9SY	Gemcitabine	Clinical Progressive Disease
+BLCA	TCGA-XF-AAMF	Gemcitabine	Clinical Progressive Disease
+BLCA	TCGA-XF-AAN0	Gemcitabine	Clinical Progressive Disease
+BLCA	TCGA-CU-A3YL	Gemcitabine	Complete Response
+BLCA	TCGA-DK-A3WW	Gemcitabine	Complete Response
+BLCA	TCGA-DK-A3WY	Gemcitabine	Complete Response
+BLCA	TCGA-DK-A6B5	Gemcitabine	Complete Response
+BLCA	TCGA-DK-A6B6	Gemcitabine	Complete Response
+BLCA	TCGA-DK-AA6T	Gemcitabine	Complete Response
+BLCA	TCGA-DK-AA6U	Gemcitabine	Complete Response
+BLCA	TCGA-FD-A3B4	Gemcitabine	Complete Response
+BLCA	TCGA-FD-A43S	Gemcitabine	Complete Response
+BLCA	TCGA-FD-A43U	Gemcitabine	Complete Response
+BLCA	TCGA-FD-A5BS	Gemcitabine	Complete Response
+BLCA	TCGA-FD-A5C1	Gemcitabine	Complete Response
+BLCA	TCGA-FD-A6TC	Gemcitabine	Complete Response
+BLCA	TCGA-FJ-A3Z7	Gemcitabine	Complete Response
+BLCA	TCGA-FJ-A3Z9	Gemcitabine	Complete Response
+BLCA	TCGA-LT-A5Z6	Gemcitabine	Complete Response
+BLCA	TCGA-SY-A9G5	Gemcitabine	Complete Response
+BLCA	TCGA-XF-A9SZ	Gemcitabine	Complete Response
+BLCA	TCGA-XF-A9T5	Gemcitabine	Complete Response
+BLCA	TCGA-XF-AAMG	Gemcitabine	Complete Response
+BLCA	TCGA-XF-AAMJ	Gemcitabine	Complete Response
+BLCA	TCGA-XF-AAMR	Gemcitabine	Complete Response
+BLCA	TCGA-XF-AAN3	Gemcitabine	Complete Response
+BLCA	TCGA-XF-AAN5	Gemcitabine	Complete Response
+BLCA	TCGA-ZF-AA51	Gemcitabine	Complete Response
+BLCA	TCGA-ZF-AA53	Gemcitabine	Complete Response
+BLCA	TCGA-DK-AA6M	Gemcitabine	Partial Response
+BLCA	TCGA-G2-A3IE	Gemcitabine	Partial Response
+BLCA	TCGA-K4-AAQO	Gemcitabine	Partial Response
+BLCA	TCGA-KQ-A41P	Gemcitabine	Partial Response
+BLCA	TCGA-XF-A9T4	Gemcitabine	Partial Response
+BLCA	TCGA-XF-AAME	Gemcitabine	Partial Response
+BLCA	TCGA-XF-AAN0	Gemcitabine	Partial Response
+BLCA	TCGA-XF-AAN7	Gemcitabine	Partial Response
+BLCA	TCGA-DK-A3IQ	Gemcitabine	Stable Disease
+BLCA	TCGA-DK-AA6P	Gemcitabine	Stable Disease
+BLCA	TCGA-DK-AA6R	Gemcitabine	Stable Disease
+BLCA	TCGA-DK-AA6W	Gemcitabine	Stable Disease
+BLCA	TCGA-FD-A3SJ	Gemcitabine	Stable Disease
+BLCA	TCGA-FD-A3SQ	Gemcitabine	Stable Disease
+BLCA	TCGA-GV-A3QF	Gemcitabine	Stable Disease
+BLCA	TCGA-BT-A20T	Gemcitabine	Clinical Progressive Disease
+BLCA	TCGA-GV-A40E	Gemcitabine	Clinical Progressive Disease
+BLCA	TCGA-BT-A42E	Gemcitabine	Complete Response
+BLCA	TCGA-DK-AA76	Gemcitabine	Complete Response
+BLCA	TCGA-GC-A3YS	Gemcitabine	Complete Response
+BLCA	TCGA-XF-AAMY	Gemcitabine	Complete Response
+BLCA	TCGA-XF-AAN0	Gemcitabine	Complete Response
+BLCA	TCGA-YC-A89H	Gemcitabine	Complete Response
+BLCA	TCGA-GV-A3JW	Gemcitabine	Partial Response
+BLCA	TCGA-XF-A9SK	Gemcitabine	Partial Response
+BLCA	TCGA-XF-AAN0	E7389	Partial Response
+BLCA	TCGA-XF-A9SH	E7389	Stable Disease
+BLCA	TCGA-DK-AA6S	Ifosfamide	Clinical Progressive Disease
+BLCA	TCGA-XF-A9SH	Ifosfamide	Clinical Progressive Disease
+BLCA	TCGA-XF-A9T4	Ifosfamide	Clinical Progressive Disease
+BLCA	TCGA-XF-AAN7	Ifosfamide	Clinical Progressive Disease
+BLCA	TCGA-G2-A3IE	Ifosfamide	Partial Response
+BLCA	TCGA-XF-AAN0	Ifosfamide	Partial Response
+BLCA	TCGA-G2-A2EJ	Ifosfamide	Stable Disease
+BLCA	TCGA-XF-A9SH	Mycophenolic acid	Clinical Progressive Disease
+BLCA	TCGA-G2-A2EJ	Mycophenolic acid	Stable Disease
+BLCA	TCGA-FJ-A871	Methotrexate	Clinical Progressive Disease
+BLCA	TCGA-G2-A3IB	Methotrexate	Clinical Progressive Disease
+BLCA	TCGA-G2-A3IE	Methotrexate	Clinical Progressive Disease
+BLCA	TCGA-E5-A2PC	Methotrexate	Complete Response
+BLCA	TCGA-G2-AA3D	Methotrexate	Complete Response
+BLCA	TCGA-G2-A2EC	Methotrexate	Partial Response
+BLCA	TCGA-G2-A2EF	Methotrexate	Partial Response
+BLCA	TCGA-G2-AA3F	Methotrexate	Partial Response
+BLCA	TCGA-FD-A3SJ	Methotrexate	Stable Disease
+BLCA	TCGA-G2-A2EK	Methotrexate	Stable Disease
+BLCA	TCGA-XF-AAN0	Paclitaxel	Complete Response
+BLCA	TCGA-DK-AA6S	Paclitaxel	Clinical Progressive Disease
+BLCA	TCGA-XF-A9T4	Paclitaxel	Clinical Progressive Disease
+BLCA	TCGA-DK-A6B5	Paclitaxel	Complete Response
+BLCA	TCGA-G2-A2EJ	Paclitaxel	Stable Disease
+BLCA	TCGA-XF-AAN7	Paclitaxel	Stable Disease
+BLCA	TCGA-XF-A9SX	Platinum	Clinical Progressive Disease
+BLCA	TCGA-XF-AAMJ	Platinum	Complete Response
+BLCA	TCGA-G2-AA3D	Erlotinib	Complete Response
+BLCA	TCGA-BT-A2LD	Paclitaxel	Clinical Progressive Disease
+BLCA	TCGA-BT-A42B	Paclitaxel	Clinical Progressive Disease
+BLCA	TCGA-DK-A3WW	Paclitaxel	Complete Response
+BLCA	TCGA-XF-AAN0	Paclitaxel	Partial Response
+BLCA	TCGA-G2-A2EL	Paclitaxel	Stable Disease
+BLCA	TCGA-FJ-A871	Vinblastine	Clinical Progressive Disease
+BLCA	TCGA-G2-A3IB	Vinblastine	Clinical Progressive Disease
+BLCA	TCGA-G2-A3IE	Vinblastine	Clinical Progressive Disease
+BLCA	TCGA-E5-A2PC	Vinblastine	Complete Response
+BLCA	TCGA-G2-AA3D	Vinblastine	Complete Response
+BLCA	TCGA-G2-A2EC	Vinblastine	Partial Response
+BLCA	TCGA-G2-A2EF	Vinblastine	Partial Response
+BLCA	TCGA-G2-AA3F	Vinblastine	Partial Response
+BLCA	TCGA-FD-A3SJ	Vinblastine	Stable Disease
+BLCA	TCGA-G2-A2EK	Vinblastine	Stable Disease
+BRCA	TCGA-C8-A8HR	Fluorouracil	Complete Response
+BRCA	TCGA-C8-A12Z	Fluorouracil	Complete Response
+BRCA	TCGA-C8-A131	Fluorouracil	Complete Response
+BRCA	TCGA-C8-A134	Fluorouracil	Complete Response
+BRCA	TCGA-C8-A135	Fluorouracil	Complete Response
+BRCA	TCGA-C8-A26X	Fluorouracil	Complete Response
+BRCA	TCGA-C8-A27A	Fluorouracil	Complete Response
+BRCA	TCGA-C8-A27B	Fluorouracil	Complete Response
+BRCA	TCGA-C8-A8HP	Fluorouracil	Complete Response
+BRCA	TCGA-C8-A9FZ	Fluorouracil	Complete Response
+BRCA	TCGA-4H-AAAK	Fluorouracil	Complete Response
+BRCA	TCGA-A8-A06R	Fluorouracil	Complete Response
+BRCA	TCGA-A8-A07C	Fluorouracil	Complete Response
+BRCA	TCGA-A8-A07F	Fluorouracil	Complete Response
+BRCA	TCGA-A8-A07G	Fluorouracil	Complete Response
+BRCA	TCGA-A8-A07I	Fluorouracil	Complete Response
+BRCA	TCGA-A8-A07J	Fluorouracil	Complete Response
+BRCA	TCGA-A8-A082	Fluorouracil	Complete Response
+BRCA	TCGA-A8-A08B	Fluorouracil	Complete Response
+BRCA	TCGA-A8-A08C	Fluorouracil	Complete Response
+BRCA	TCGA-A8-A08F	Fluorouracil	Complete Response
+BRCA	TCGA-A8-A08G	Fluorouracil	Complete Response
+BRCA	TCGA-A8-A08I	Fluorouracil	Complete Response
+BRCA	TCGA-A8-A08P	Fluorouracil	Complete Response
+BRCA	TCGA-A8-A095	Fluorouracil	Complete Response
+BRCA	TCGA-A8-A0AB	Fluorouracil	Complete Response
+BRCA	TCGA-C8-A1HO	Fluorouracil	Complete Response
+BRCA	TCGA-E9-A1N3	Fluorouracil	Complete Response
+BRCA	TCGA-E9-A1NC	Fluorouracil	Complete Response
+BRCA	TCGA-E9-A1NE	Fluorouracil	Complete Response
+BRCA	TCGA-E9-A1NI	Fluorouracil	Complete Response
+BRCA	TCGA-E9-A2JS	Fluorouracil	Complete Response
+BRCA	TCGA-E9-A3HO	Fluorouracil	Complete Response
+BRCA	TCGA-E9-A3Q9	Fluorouracil	Complete Response
+BRCA	TCGA-E9-A3X8	Fluorouracil	Complete Response
+BRCA	TCGA-E9-A5FK	Fluorouracil	Complete Response
+BRCA	TCGA-AC-A2QI	Fluorouracil	Complete Response
+BRCA	TCGA-AC-A3YI	Fluorouracil	Complete Response
+BRCA	TCGA-GM-A4E0	Fluorouracil	Complete Response
+BRCA	TCGA-AC-A2FE	Paclitaxel	Clinical Progressive Disease
+BRCA	TCGA-AC-A2QJ	Paclitaxel	Clinical Progressive Disease
+BRCA	TCGA-BH-A0BZ	Paclitaxel	Complete Response
+BRCA	TCGA-LL-A8F5	Paclitaxel	Complete Response
+BRCA	TCGA-GM-A2DA	Paclitaxel	Stable Disease
+BRCA	TCGA-AC-A2QJ	Doxorubicin	Clinical Progressive Disease
+BRCA	TCGA-BH-A0C1	Doxorubicin	Clinical Progressive Disease
+BRCA	TCGA-BH-A0C3	Doxorubicin	Clinical Progressive Disease
+BRCA	TCGA-LL-A73Z	Doxorubicin	Clinical Progressive Disease
+BRCA	TCGA-5T-A9QA	Doxorubicin	Complete Response
+BRCA	TCGA-A2-A0CK	Doxorubicin	Complete Response
+BRCA	TCGA-A2-A0CR	Doxorubicin	Complete Response
+BRCA	TCGA-A2-A0EP	Doxorubicin	Complete Response
+BRCA	TCGA-A2-A3XS	Doxorubicin	Complete Response
+BRCA	TCGA-A2-A3XX	Doxorubicin	Complete Response
+BRCA	TCGA-A2-A3XY	Doxorubicin	Complete Response
+BRCA	TCGA-A2-A3Y0	Doxorubicin	Complete Response
+BRCA	TCGA-A2-A4RY	Doxorubicin	Complete Response
+BRCA	TCGA-A2-A4S2	Doxorubicin	Complete Response
+BRCA	TCGA-A7-A4SE	Doxorubicin	Complete Response
+BRCA	TCGA-AC-A23G	Doxorubicin	Complete Response
+BRCA	TCGA-AC-A2BK	Doxorubicin	Complete Response
+BRCA	TCGA-AC-A2FF	Doxorubicin	Complete Response
+BRCA	TCGA-AC-A2FK	Doxorubicin	Complete Response
+BRCA	TCGA-AC-A2QH	Doxorubicin	Complete Response
+BRCA	TCGA-AC-A3BB	Doxorubicin	Complete Response
+BRCA	TCGA-AQ-A54O	Doxorubicin	Complete Response
+BRCA	TCGA-BH-A0B0	Doxorubicin	Complete Response
+BRCA	TCGA-BH-A0B5	Doxorubicin	Complete Response
+BRCA	TCGA-BH-A0B7	Doxorubicin	Complete Response
+BRCA	TCGA-BH-A0BL	Doxorubicin	Complete Response
+BRCA	TCGA-BH-A0BS	Doxorubicin	Complete Response
+BRCA	TCGA-BH-A0BT	Doxorubicin	Complete Response
+BRCA	TCGA-BH-A0BW	Doxorubicin	Complete Response
+BRCA	TCGA-BH-A0C7	Doxorubicin	Complete Response
+BRCA	TCGA-BH-A0DG	Doxorubicin	Complete Response
+BRCA	TCGA-BH-A0DI	Doxorubicin	Complete Response
+BRCA	TCGA-BH-A0DT	Doxorubicin	Complete Response
+BRCA	TCGA-BH-A0DV	Doxorubicin	Complete Response
+BRCA	TCGA-BH-A0E9	Doxorubicin	Complete Response
+BRCA	TCGA-BH-A18H	Doxorubicin	Complete Response
+BRCA	TCGA-BH-A5IZ	Doxorubicin	Complete Response
+BRCA	TCGA-E9-A1R2	Doxorubicin	Complete Response
+BRCA	TCGA-E9-A6HE	Doxorubicin	Complete Response
+BRCA	TCGA-GM-A2DA	Doxorubicin	Complete Response
+BRCA	TCGA-GM-A2DD	Doxorubicin	Complete Response
+BRCA	TCGA-GM-A2DH	Doxorubicin	Complete Response
+BRCA	TCGA-GM-A3XG	Doxorubicin	Complete Response
+BRCA	TCGA-GM-A3XL	Doxorubicin	Complete Response
+BRCA	TCGA-GM-A3XN	Doxorubicin	Complete Response
+BRCA	TCGA-LL-A740	Doxorubicin	Complete Response
+BRCA	TCGA-LL-A7SZ	Doxorubicin	Complete Response
+BRCA	TCGA-OL-A5RW	Doxorubicin	Complete Response
+BRCA	TCGA-OL-A66I	Doxorubicin	Complete Response
+BRCA	TCGA-S3-A6ZH	Doxorubicin	Complete Response
+BRCA	TCGA-S3-AA14	Doxorubicin	Complete Response
+BRCA	TCGA-S3-AA15	Doxorubicin	Complete Response
+BRCA	TCGA-Z7-A8R6	Doxorubicin	Complete Response
+BRCA	TCGA-AC-A2FE	Doxorubicin	Partial Response
+BRCA	TCGA-MS-A51U	Doxorubicin	Stable Disease
+BRCA	TCGA-Z7-A8R5	Doxorubicin	Stable Disease
+BRCA	TCGA-A2-A3XW	Doxorubicin	Complete Response
+BRCA	TCGA-A7-A3RF	Anastrozole	Clinical Progressive Disease
+BRCA	TCGA-A8-A08O	Anastrozole	Clinical Progressive Disease
+BRCA	TCGA-S3-AA11	Anastrozole	Complete Response
+BRCA	TCGA-A2-A3XU	Anastrozole	Clinical Progressive Disease
+BRCA	TCGA-A2-A0EP	Anastrozole	Complete Response
+BRCA	TCGA-A2-A0EW	Anastrozole	Complete Response
+BRCA	TCGA-A2-A3Y0	Anastrozole	Complete Response
+BRCA	TCGA-AC-A23G	Anastrozole	Complete Response
+BRCA	TCGA-AC-A2FB	Anastrozole	Complete Response
+BRCA	TCGA-AC-A2FG	Anastrozole	Complete Response
+BRCA	TCGA-BH-A0W5	Anastrozole	Complete Response
+BRCA	TCGA-BH-A0W7	Anastrozole	Complete Response
+BRCA	TCGA-GM-A2DC	Anastrozole	Complete Response
+BRCA	TCGA-GM-A2DK	Anastrozole	Complete Response
+BRCA	TCGA-GM-A2DM	Anastrozole	Complete Response
+BRCA	TCGA-GM-A2DN	Anastrozole	Complete Response
+BRCA	TCGA-GM-A3XG	Anastrozole	Complete Response
+BRCA	TCGA-GM-A5PX	Anastrozole	Complete Response
+BRCA	TCGA-LL-A50Y	Anastrozole	Complete Response
+BRCA	TCGA-WT-AB41	Anastrozole	Complete Response
+BRCA	TCGA-GM-A2D9	Anastrozole	Stable Disease
+BRCA	TCGA-GM-A3NW	Anastrozole	Stable Disease
+BRCA	TCGA-GM-A2DA	Exemestane	Clinical Progressive Disease
+BRCA	TCGA-GM-A5PX	Exemestane	Complete Response
+BRCA	TCGA-GM-A2DA	Exemestane	Stable Disease
+BRCA	TCGA-A2-A3XS	Bevacizumab	Clinical Progressive Disease
+BRCA	TCGA-AC-A2BK	Bevacizumab	Complete Response
+BRCA	TCGA-BH-A0AZ	Bevacizumab	Complete Response
+BRCA	TCGA-A8-A08O	Bevacizumab	Clinical Progressive Disease
+BRCA	TCGA-A2-A3XY	Carboplatin	Clinical Progressive Disease
+BRCA	TCGA-AC-A2QJ	Carboplatin	Clinical Progressive Disease
+BRCA	TCGA-A2-A3XV	Carboplatin	Complete Response
+BRCA	TCGA-A2-A3XZ	Carboplatin	Complete Response
+BRCA	TCGA-A7-A4SF	Carboplatin	Complete Response
+BRCA	TCGA-AQ-A04H	Carboplatin	Complete Response
+BRCA	TCGA-BH-A0DD	Carboplatin	Complete Response
+BRCA	TCGA-BH-A0HY	Carboplatin	Complete Response
+BRCA	TCGA-BH-A202	Carboplatin	Complete Response
+BRCA	TCGA-AC-A23C	Chemo, NOS	Complete Response
+BRCA	TCGA-AC-A2B8	Chemo, NOS	Complete Response
+BRCA	TCGA-AC-A2FO	Chemo, NOS	Complete Response
+BRCA	TCGA-EW-A3U0	Cisplatin	Complete Response
+BRCA	TCGA-4H-AAAK	Cyclophosphamide	Complete Response
+BRCA	TCGA-A2-A0CR	Cyclophosphamide	Complete Response
+BRCA	TCGA-A2-A0EP	Cyclophosphamide	Complete Response
+BRCA	TCGA-A2-A3XW	Cyclophosphamide	Complete Response
+BRCA	TCGA-A2-A3XX	Cyclophosphamide	Complete Response
+BRCA	TCGA-A2-A3XY	Cyclophosphamide	Complete Response
+BRCA	TCGA-A7-A4SA	Cyclophosphamide	Complete Response
+BRCA	TCGA-A7-A4SB	Cyclophosphamide	Complete Response
+BRCA	TCGA-A7-A5ZV	Cyclophosphamide	Complete Response
+BRCA	TCGA-A7-A5ZW	Cyclophosphamide	Complete Response
+BRCA	TCGA-A7-A5ZX	Cyclophosphamide	Complete Response
+BRCA	TCGA-A7-A6VV	Cyclophosphamide	Complete Response
+BRCA	TCGA-A7-A6VW	Cyclophosphamide	Complete Response
+BRCA	TCGA-A7-A6VX	Cyclophosphamide	Complete Response
+BRCA	TCGA-A7-A6VY	Cyclophosphamide	Complete Response
+BRCA	TCGA-A8-A06R	Cyclophosphamide	Complete Response
+BRCA	TCGA-A8-A075	Cyclophosphamide	Complete Response
+BRCA	TCGA-A8-A07C	Cyclophosphamide	Complete Response
+BRCA	TCGA-A8-A07F	Cyclophosphamide	Complete Response
+BRCA	TCGA-A8-A07G	Cyclophosphamide	Complete Response
+BRCA	TCGA-A8-A07I	Cyclophosphamide	Complete Response
+BRCA	TCGA-A8-A07J	Cyclophosphamide	Complete Response
+BRCA	TCGA-A8-A082	Cyclophosphamide	Complete Response
+BRCA	TCGA-A8-A086	Cyclophosphamide	Complete Response
+BRCA	TCGA-A8-A08B	Cyclophosphamide	Complete Response
+BRCA	TCGA-A8-A08C	Cyclophosphamide	Complete Response
+BRCA	TCGA-A8-A08F	Cyclophosphamide	Complete Response
+BRCA	TCGA-A8-A08G	Cyclophosphamide	Complete Response
+BRCA	TCGA-A8-A08I	Cyclophosphamide	Complete Response
+BRCA	TCGA-A8-A08P	Cyclophosphamide	Complete Response
+BRCA	TCGA-A8-A08X	Cyclophosphamide	Complete Response
+BRCA	TCGA-A8-A092	Cyclophosphamide	Complete Response
+BRCA	TCGA-A8-A095	Cyclophosphamide	Complete Response
+BRCA	TCGA-A8-A097	Cyclophosphamide	Complete Response
+BRCA	TCGA-A8-A09D	Cyclophosphamide	Complete Response
+BRCA	TCGA-A8-A0A6	Cyclophosphamide	Complete Response
+BRCA	TCGA-A8-A0AB	Cyclophosphamide	Complete Response
+BRCA	TCGA-AC-A3W5	Cyclophosphamide	Complete Response
+BRCA	TCGA-AQ-A7U7	Cyclophosphamide	Complete Response
+BRCA	TCGA-BH-A0BZ	Cyclophosphamide	Complete Response
+BRCA	TCGA-BH-A5IZ	Cyclophosphamide	Complete Response
+BRCA	TCGA-C8-A12Z	Cyclophosphamide	Complete Response
+BRCA	TCGA-C8-A131	Cyclophosphamide	Complete Response
+BRCA	TCGA-C8-A134	Cyclophosphamide	Complete Response
+BRCA	TCGA-C8-A135	Cyclophosphamide	Complete Response
+BRCA	TCGA-C8-A1HM	Cyclophosphamide	Complete Response
+BRCA	TCGA-C8-A1HO	Cyclophosphamide	Complete Response
+BRCA	TCGA-C8-A26W	Cyclophosphamide	Complete Response
+BRCA	TCGA-C8-A26X	Cyclophosphamide	Complete Response
+BRCA	TCGA-C8-A27A	Cyclophosphamide	Complete Response
+BRCA	TCGA-C8-A27B	Cyclophosphamide	Complete Response
+BRCA	TCGA-C8-A8HP	Cyclophosphamide	Complete Response
+BRCA	TCGA-C8-A8HR	Cyclophosphamide	Complete Response
+BRCA	TCGA-C8-A9FZ	Cyclophosphamide	Complete Response
+BRCA	TCGA-E9-A1N3	Cyclophosphamide	Complete Response
+BRCA	TCGA-E9-A1NE	Cyclophosphamide	Complete Response
+BRCA	TCGA-E9-A2JS	Cyclophosphamide	Complete Response
+BRCA	TCGA-E9-A3HO	Cyclophosphamide	Complete Response
+BRCA	TCGA-E9-A5FK	Cyclophosphamide	Complete Response
+BRCA	TCGA-E9-A6HE	Cyclophosphamide	Complete Response
+BRCA	TCGA-EW-A3U0	Cyclophosphamide	Complete Response
+BRCA	TCGA-EW-A424	Cyclophosphamide	Complete Response
+BRCA	TCGA-OL-A5RU	Cyclophosphamide	Complete Response
+BRCA	TCGA-A2-A3XT	Cyclophosphamide	Partial Response
+BRCA	TCGA-B6-A402	Cyclophosphamide	Partial Response
+BRCA	TCGA-D8-A3Z6	Cyclophosphamide	Stable Disease
+BRCA	TCGA-E9-A1NC	Cyclophosphamide	Complete Response
+BRCA	TCGA-E9-A1NI	Cyclophosphamide	Complete Response
+BRCA	TCGA-E9-A3Q9	Cyclophosphamide	Complete Response
+BRCA	TCGA-E9-A3X8	Cyclophosphamide	Complete Response
+BRCA	TCGA-E9-A1N6	Cyclophosphamide	Stable Disease
+BRCA	TCGA-AC-A2QJ	Cyclophosphamide	Clinical Progressive Disease
+BRCA	TCGA-BH-A0C1	Cyclophosphamide	Clinical Progressive Disease
+BRCA	TCGA-BH-A0C3	Cyclophosphamide	Clinical Progressive Disease
+BRCA	TCGA-LL-A73Z	Cyclophosphamide	Clinical Progressive Disease
+BRCA	TCGA-5T-A9QA	Cyclophosphamide	Complete Response
+BRCA	TCGA-A2-A0CK	Cyclophosphamide	Complete Response
+BRCA	TCGA-A2-A3XS	Cyclophosphamide	Complete Response
+BRCA	TCGA-A2-A3Y0	Cyclophosphamide	Complete Response
+BRCA	TCGA-A2-A4RY	Cyclophosphamide	Complete Response
+BRCA	TCGA-A2-A4S2	Cyclophosphamide	Complete Response
+BRCA	TCGA-A7-A4SD	Cyclophosphamide	Complete Response
+BRCA	TCGA-A7-A4SE	Cyclophosphamide	Complete Response
+BRCA	TCGA-AC-A23G	Cyclophosphamide	Complete Response
+BRCA	TCGA-AC-A2BK	Cyclophosphamide	Complete Response
+BRCA	TCGA-AC-A2FE	Cyclophosphamide	Complete Response
+BRCA	TCGA-AC-A2FF	Cyclophosphamide	Complete Response
+BRCA	TCGA-AC-A2FK	Cyclophosphamide	Complete Response
+BRCA	TCGA-AC-A2QH	Cyclophosphamide	Complete Response
+BRCA	TCGA-AC-A2QI	Cyclophosphamide	Complete Response
+BRCA	TCGA-AC-A3BB	Cyclophosphamide	Complete Response
+BRCA	TCGA-AC-A3TM	Cyclophosphamide	Complete Response
+BRCA	TCGA-AC-A3YI	Cyclophosphamide	Complete Response
+BRCA	TCGA-AQ-A54O	Cyclophosphamide	Complete Response
+BRCA	TCGA-BH-A0AV	Cyclophosphamide	Complete Response
+BRCA	TCGA-BH-A0AZ	Cyclophosphamide	Complete Response
+BRCA	TCGA-BH-A0B0	Cyclophosphamide	Complete Response
+BRCA	TCGA-BH-A0B5	Cyclophosphamide	Complete Response
+BRCA	TCGA-BH-A0BL	Cyclophosphamide	Complete Response
+BRCA	TCGA-BH-A0BS	Cyclophosphamide	Complete Response
+BRCA	TCGA-BH-A0BT	Cyclophosphamide	Complete Response
+BRCA	TCGA-BH-A0BW	Cyclophosphamide	Complete Response
+BRCA	TCGA-BH-A0C7	Cyclophosphamide	Complete Response
+BRCA	TCGA-BH-A0DG	Cyclophosphamide	Complete Response
+BRCA	TCGA-BH-A0DI	Cyclophosphamide	Complete Response
+BRCA	TCGA-BH-A0DL	Cyclophosphamide	Complete Response
+BRCA	TCGA-BH-A0DT	Cyclophosphamide	Complete Response
+BRCA	TCGA-BH-A0DV	Cyclophosphamide	Complete Response
+BRCA	TCGA-BH-A0DX	Cyclophosphamide	Complete Response
+BRCA	TCGA-BH-A0E9	Cyclophosphamide	Complete Response
+BRCA	TCGA-BH-A0EA	Cyclophosphamide	Complete Response
+BRCA	TCGA-BH-A0H5	Cyclophosphamide	Complete Response
+BRCA	TCGA-BH-A0W7	Cyclophosphamide	Complete Response
+BRCA	TCGA-BH-A18F	Cyclophosphamide	Complete Response
+BRCA	TCGA-BH-A18H	Cyclophosphamide	Complete Response
+BRCA	TCGA-BH-A18I	Cyclophosphamide	Complete Response
+BRCA	TCGA-BH-A28O	Cyclophosphamide	Complete Response
+BRCA	TCGA-BH-A2L8	Cyclophosphamide	Complete Response
+BRCA	TCGA-BH-A8G0	Cyclophosphamide	Complete Response
+BRCA	TCGA-E2-A573	Cyclophosphamide	Complete Response
+BRCA	TCGA-E9-A1R2	Cyclophosphamide	Complete Response
+BRCA	TCGA-GM-A2DA	Cyclophosphamide	Complete Response
+BRCA	TCGA-GM-A2DB	Cyclophosphamide	Complete Response
+BRCA	TCGA-GM-A2DC	Cyclophosphamide	Complete Response
+BRCA	TCGA-GM-A2DD	Cyclophosphamide	Complete Response
+BRCA	TCGA-GM-A2DF	Cyclophosphamide	Complete Response
+BRCA	TCGA-GM-A2DH	Cyclophosphamide	Complete Response
+BRCA	TCGA-GM-A2DI	Cyclophosphamide	Complete Response
+BRCA	TCGA-GM-A2DM	Cyclophosphamide	Complete Response
+BRCA	TCGA-GM-A2DN	Cyclophosphamide	Complete Response
+BRCA	TCGA-GM-A3XG	Cyclophosphamide	Complete Response
+BRCA	TCGA-GM-A3XL	Cyclophosphamide	Complete Response
+BRCA	TCGA-GM-A3XN	Cyclophosphamide	Complete Response
+BRCA	TCGA-GM-A4E0	Cyclophosphamide	Complete Response
+BRCA	TCGA-GM-A5PV	Cyclophosphamide	Complete Response
+BRCA	TCGA-LL-A440	Cyclophosphamide	Complete Response
+BRCA	TCGA-LL-A441	Cyclophosphamide	Complete Response
+BRCA	TCGA-LL-A5YO	Cyclophosphamide	Complete Response
+BRCA	TCGA-LL-A740	Cyclophosphamide	Complete Response
+BRCA	TCGA-LL-A7SZ	Cyclophosphamide	Complete Response
+BRCA	TCGA-OL-A5D7	Cyclophosphamide	Complete Response
+BRCA	TCGA-OL-A5RV	Cyclophosphamide	Complete Response
+BRCA	TCGA-OL-A5RW	Cyclophosphamide	Complete Response
+BRCA	TCGA-OL-A5RZ	Cyclophosphamide	Complete Response
+BRCA	TCGA-OL-A66I	Cyclophosphamide	Complete Response
+BRCA	TCGA-OL-A66O	Cyclophosphamide	Complete Response
+BRCA	TCGA-OL-A66P	Cyclophosphamide	Complete Response
+BRCA	TCGA-OL-A6VO	Cyclophosphamide	Complete Response
+BRCA	TCGA-PE-A5DE	Cyclophosphamide	Complete Response
+BRCA	TCGA-S3-A6ZF	Cyclophosphamide	Complete Response
+BRCA	TCGA-S3-A6ZG	Cyclophosphamide	Complete Response
+BRCA	TCGA-S3-A6ZH	Cyclophosphamide	Complete Response
+BRCA	TCGA-S3-AA0Z	Cyclophosphamide	Complete Response
+BRCA	TCGA-S3-AA10	Cyclophosphamide	Complete Response
+BRCA	TCGA-S3-AA14	Cyclophosphamide	Complete Response
+BRCA	TCGA-S3-AA15	Cyclophosphamide	Complete Response
+BRCA	TCGA-WT-AB41	Cyclophosphamide	Complete Response
+BRCA	TCGA-XX-A899	Cyclophosphamide	Complete Response
+BRCA	TCGA-Z7-A8R6	Cyclophosphamide	Complete Response
+BRCA	TCGA-GM-A3NW	Cyclophosphamide	Stable Disease
+BRCA	TCGA-MS-A51U	Cyclophosphamide	Stable Disease
+BRCA	TCGA-Z7-A8R5	Cyclophosphamide	Stable Disease
+BRCA	TCGA-A2-A0EW	Denosumab	Clinical Progressive Disease
+BRCA	TCGA-A2-A3XY	Denosumab	Clinical Progressive Disease
+BRCA	TCGA-AC-A62V	Denosumab	Partial Response
+BRCA	TCGA-A2-A3XS	Docetaxel	Clinical Progressive Disease
+BRCA	TCGA-A2-A3XY	Docetaxel	Clinical Progressive Disease
+BRCA	TCGA-A8-A08O	Docetaxel	Clinical Progressive Disease
+BRCA	TCGA-A2-A3XV	Docetaxel	Complete Response
+BRCA	TCGA-A2-A3XZ	Docetaxel	Complete Response
+BRCA	TCGA-A2-A3Y0	Docetaxel	Complete Response
+BRCA	TCGA-A7-A4SB	Docetaxel	Complete Response
+BRCA	TCGA-A7-A4SF	Docetaxel	Complete Response
+BRCA	TCGA-A7-A6VX	Docetaxel	Complete Response
+BRCA	TCGA-A8-A075	Docetaxel	Complete Response
+BRCA	TCGA-A8-A07C	Docetaxel	Complete Response
+BRCA	TCGA-A8-A07I	Docetaxel	Complete Response
+BRCA	TCGA-A8-A07J	Docetaxel	Complete Response
+BRCA	TCGA-A8-A082	Docetaxel	Complete Response
+BRCA	TCGA-A8-A086	Docetaxel	Complete Response
+BRCA	TCGA-A8-A08F	Docetaxel	Complete Response
+BRCA	TCGA-A8-A08G	Docetaxel	Complete Response
+BRCA	TCGA-A8-A08P	Docetaxel	Complete Response
+BRCA	TCGA-A8-A097	Docetaxel	Complete Response
+BRCA	TCGA-AC-A3W5	Docetaxel	Complete Response
+BRCA	TCGA-BH-A0DD	Docetaxel	Complete Response
+BRCA	TCGA-EW-A424	Docetaxel	Complete Response
+BRCA	TCGA-OL-A5RU	Docetaxel	Complete Response
+BRCA	TCGA-A2-A3XT	Docetaxel	Partial Response
+BRCA	TCGA-B6-A402	Doxorubicin	Partial Response
+BRCA	TCGA-4H-AAAK	Doxorubicin	Complete Response
+BRCA	TCGA-A7-A4SA	Doxorubicin	Complete Response
+BRCA	TCGA-A7-A5ZV	Doxorubicin	Complete Response
+BRCA	TCGA-A7-A5ZX	Doxorubicin	Complete Response
+BRCA	TCGA-A7-A6VW	Doxorubicin	Complete Response
+BRCA	TCGA-A7-A6VY	Doxorubicin	Complete Response
+BRCA	TCGA-A8-A06R	Doxorubicin	Complete Response
+BRCA	TCGA-A8-A08P	Doxorubicin	Complete Response
+BRCA	TCGA-A8-A08X	Doxorubicin	Complete Response
+BRCA	TCGA-A8-A095	Doxorubicin	Complete Response
+BRCA	TCGA-A8-A09D	Doxorubicin	Complete Response
+BRCA	TCGA-A8-A0AB	Doxorubicin	Complete Response
+BRCA	TCGA-AQ-A7U7	Doxorubicin	Complete Response
+BRCA	TCGA-BH-A0AZ	Doxorubicin	Complete Response
+BRCA	TCGA-BH-A0BZ	Doxorubicin	Complete Response
+BRCA	TCGA-BH-A28O	Doxorubicin	Complete Response
+BRCA	TCGA-C8-A12Z	Doxorubicin	Complete Response
+BRCA	TCGA-C8-A131	Doxorubicin	Complete Response
+BRCA	TCGA-C8-A135	Doxorubicin	Complete Response
+BRCA	TCGA-C8-A1HM	Doxorubicin	Complete Response
+BRCA	TCGA-C8-A26W	Doxorubicin	Complete Response
+BRCA	TCGA-C8-A26X	Doxorubicin	Complete Response
+BRCA	TCGA-C8-A27A	Doxorubicin	Complete Response
+BRCA	TCGA-C8-A27B	Doxorubicin	Complete Response
+BRCA	TCGA-C8-A9FZ	Doxorubicin	Complete Response
+BRCA	TCGA-E9-A1N3	Doxorubicin	Complete Response
+BRCA	TCGA-E9-A1NC	Doxorubicin	Complete Response
+BRCA	TCGA-E9-A1NE	Doxorubicin	Complete Response
+BRCA	TCGA-E9-A1NI	Doxorubicin	Complete Response
+BRCA	TCGA-E9-A3X8	Doxorubicin	Complete Response
+BRCA	TCGA-EW-A3U0	Doxorubicin	Complete Response
+BRCA	TCGA-OL-A5RV	Doxorubicin	Complete Response
+BRCA	TCGA-OL-A5RZ	Doxorubicin	Complete Response
+BRCA	TCGA-S3-A6ZG	Doxorubicin	Complete Response
+BRCA	TCGA-S3-AA0Z	Doxorubicin	Complete Response
+BRCA	TCGA-A2-A3XT	Doxorubicin	Partial Response
+BRCA	TCGA-B6-A402	Doxorubicin	Partial Response
+BRCA	TCGA-E9-A1N6	Doxorubicin	Stable Disease
+BRCA	TCGA-A2-A0EW	Doxorubicin	Clinical Progressive Disease
+BRCA	TCGA-D8-A3Z6	Doxorubicin	Stable Disease
+BRCA	TCGA-A8-A07C	Epirubicin	Complete Response
+BRCA	TCGA-A8-A07F	Epirubicin	Complete Response
+BRCA	TCGA-A8-A07I	Epirubicin	Complete Response
+BRCA	TCGA-A8-A07J	Epirubicin	Complete Response
+BRCA	TCGA-A8-A082	Epirubicin	Complete Response
+BRCA	TCGA-A8-A08B	Epirubicin	Complete Response
+BRCA	TCGA-A8-A08C	Epirubicin	Complete Response
+BRCA	TCGA-A8-A08F	Epirubicin	Complete Response
+BRCA	TCGA-A8-A08G	Epirubicin	Complete Response
+BRCA	TCGA-A8-A08I	Epirubicin	Complete Response
+BRCA	TCGA-A8-A092	Epirubicin	Complete Response
+BRCA	TCGA-A8-A0A6	Epirubicin	Complete Response
+BRCA	TCGA-C8-A134	Epirubicin	Complete Response
+BRCA	TCGA-C8-A1HO	Epirubicin	Complete Response
+BRCA	TCGA-C8-A8HP	Epirubicin	Complete Response
+BRCA	TCGA-C8-A8HR	Epirubicin	Complete Response
+BRCA	TCGA-GM-A2DB	Epirubicin	Complete Response
+BRCA	TCGA-GM-A2DC	Epirubicin	Complete Response
+BRCA	TCGA-GM-A2DF	Epirubicin	Complete Response
+BRCA	TCGA-GM-A2DI	Epirubicin	Complete Response
+BRCA	TCGA-GM-A2DM	Epirubicin	Complete Response
+BRCA	TCGA-GM-A2DN	Epirubicin	Complete Response
+BRCA	TCGA-GM-A4E0	Epirubicin	Complete Response
+BRCA	TCGA-GM-A3NW	Epirubicin	Stable Disease
+BRCA	TCGA-A8-A075	Epirubicin	Complete Response
+BRCA	TCGA-A2-A0EW	Exemestane	Clinical Progressive Disease
+BRCA	TCGA-A8-A07I	Exemestane	Clinical Progressive Disease
+BRCA	TCGA-A8-A082	Exemestane	Complete Response
+BRCA	TCGA-A8-A0A6	Exemestane	Complete Response
+BRCA	TCGA-S3-AA11	Exemestane	Complete Response
+BRCA	TCGA-AC-A2QJ	Fulvestrant	Clinical Progressive Disease
+BRCA	TCGA-E2-A1IE	Fulvestrant	Clinical Progressive Disease
+BRCA	TCGA-LL-A73Z	Fulvestrant	Clinical Progressive Disease
+BRCA	TCGA-E2-A1IE	Letrozole	Clinical Progressive Disease
+BRCA	TCGA-A2-A3Y0	Letrozole	Complete Response
+BRCA	TCGA-AC-A2FK	Letrozole	Complete Response
+BRCA	TCGA-GM-A2DA	Fluorouracil	Complete Response
+BRCA	TCGA-GM-A2DB	Fluorouracil	Complete Response
+BRCA	TCGA-GM-A2DD	Fluorouracil	Complete Response
+BRCA	TCGA-GM-A2DF	Fluorouracil	Complete Response
+BRCA	TCGA-GM-A2DH	Fluorouracil	Complete Response
+BRCA	TCGA-GM-A2DI	Fluorouracil	Complete Response
+BRCA	TCGA-GM-A2DM	Fluorouracil	Complete Response
+BRCA	TCGA-GM-A2DN	Fluorouracil	Complete Response
+BRCA	TCGA-GM-A3XG	Fluorouracil	Complete Response
+BRCA	TCGA-GM-A3XL	Fluorouracil	Complete Response
+BRCA	TCGA-GM-A3XN	Fluorouracil	Complete Response
+BRCA	TCGA-GM-A3NW	Fluorouracil	Stable Disease
+BRCA	TCGA-A2-A3XY	Gemcitabine	Clinical Progressive Disease
+BRCA	TCGA-GM-A2D9	Gemcitabine	Clinical Progressive Disease
+BRCA	TCGA-A2-A0CL	Gemcitabine	Complete Response
+BRCA	TCGA-AC-A2QJ	Gemcitabine	Clinical Progressive Disease
+BRCA	TCGA-EW-A2FS	Goserelin	Stable Disease
+BRCA	TCGA-A7-A2KD	Trastuzumab	Complete Response
+BRCA	TCGA-AC-A2FB	Trastuzumab	Complete Response
+BRCA	TCGA-AC-A3W5	Trastuzumab	Complete Response
+BRCA	TCGA-AQ-A04H	Trastuzumab	Complete Response
+BRCA	TCGA-BH-A0HY	Trastuzumab	Complete Response
+BRCA	TCGA-LL-A9Q3	Trastuzumab	Complete Response
+BRCA	TCGA-OL-A5S0	Trastuzumab	Complete Response
+BRCA	TCGA-GM-A2DA	Trastuzumab	Stable Disease
+BRCA	TCGA-GM-A2DA	Ixabepilone	Clinical Progressive Disease
+BRCA	TCGA-GM-A2DA	Lapatinib	Stable Disease
+BRCA	TCGA-E9-A1N6	Letrozole	Clinical Progressive Disease
+BRCA	TCGA-GM-A2DA	Letrozole	Clinical Progressive Disease
+BRCA	TCGA-A2-A0EW	Letrozole	Complete Response
+BRCA	TCGA-GM-A2DC	Letrozole	Complete Response
+BRCA	TCGA-S3-AA11	Letrozole	Complete Response
+BRCA	TCGA-V7-A7HQ	Letrozole	Complete Response
+BRCA	TCGA-E9-A1RI	Leuprolide	Complete Response
+BRCA	TCGA-E9-A3HO	Leuprolide	Complete Response
+BRCA	TCGA-GM-A2DA	Megestrol acetate	Clinical Progressive Disease
+BRCA	TCGA-A8-A07G	Methotrexate	Complete Response
+BRCA	TCGA-AC-A2QI	Methotrexate	Complete Response
+BRCA	TCGA-AC-A3YI	Methotrexate	Complete Response
+BRCA	TCGA-BH-A0DX	Methotrexate	Complete Response
+BRCA	TCGA-E9-A2JS	Methotrexate	Complete Response
+BRCA	TCGA-E9-A3HO	Methotrexate	Complete Response
+BRCA	TCGA-E9-A5FK	Methotrexate	Complete Response
+BRCA	TCGA-GM-A2DA	Methotrexate	Complete Response
+BRCA	TCGA-E9-A3Q9	Mitoxantrone	Complete Response
+BRCA	TCGA-A2-A3XS	Vinorelbine	Clinical Progressive Disease
+BRCA	TCGA-GM-A2DA	Vinorelbine	Clinical Progressive Disease
+BRCA	TCGA-S3-A6ZF	Pegfilgrastim	Complete Response
+BRCA	TCGA-S3-A6ZG	Pegfilgrastim	Complete Response
+BRCA	TCGA-S3-A6ZH	Pegfilgrastim	Complete Response
+BRCA	TCGA-S3-AA0Z	Pegfilgrastim	Complete Response
+BRCA	TCGA-S3-AA10	Pegfilgrastim	Complete Response
+BRCA	TCGA-S3-AA14	Pegfilgrastim	Complete Response
+BRCA	TCGA-S3-AA15	Pegfilgrastim	Complete Response
+BRCA	TCGA-A2-A0CR	Paclitaxel	Complete Response
+BRCA	TCGA-A2-A0EP	Paclitaxel	Complete Response
+BRCA	TCGA-A2-A3XS	Paclitaxel	Complete Response
+BRCA	TCGA-A2-A3XX	Paclitaxel	Complete Response
+BRCA	TCGA-A2-A3XY	Paclitaxel	Complete Response
+BRCA	TCGA-A2-A4S2	Paclitaxel	Complete Response
+BRCA	TCGA-A7-A4SA	Paclitaxel	Complete Response
+BRCA	TCGA-A7-A5ZV	Paclitaxel	Complete Response
+BRCA	TCGA-A7-A5ZX	Paclitaxel	Complete Response
+BRCA	TCGA-A7-A6VY	Paclitaxel	Complete Response
+BRCA	TCGA-A8-A08X	Paclitaxel	Complete Response
+BRCA	TCGA-A8-A092	Paclitaxel	Complete Response
+BRCA	TCGA-A8-A09D	Paclitaxel	Complete Response
+BRCA	TCGA-A8-A09M	Paclitaxel	Complete Response
+BRCA	TCGA-E9-A6HE	Paclitaxel	Complete Response
+BRCA	TCGA-GM-A3XG	Paclitaxel	Complete Response
+BRCA	TCGA-GM-A3XL	Paclitaxel	Complete Response
+BRCA	TCGA-GM-A3XN	Paclitaxel	Complete Response
+BRCA	TCGA-OL-A5RV	Paclitaxel	Complete Response
+BRCA	TCGA-AC-A62V	Paclitaxel	Partial Response
+BRCA	TCGA-B6-A402	Paclitaxel	Partial Response
+BRCA	TCGA-EW-A1OY	Paclitaxel	Stable Disease
+BRCA	TCGA-EW-A1P3	Paclitaxel	Stable Disease
+BRCA	TCGA-EW-A2FR	Paclitaxel	Stable Disease
+BRCA	TCGA-MS-A51U	Paclitaxel	Stable Disease
+BRCA	TCGA-E9-A226	Pamidronate	Partial Response
+BRCA	TCGA-A8-A091	Pamidronate	Stable Disease
+BRCA	TCGA-E9-A243	Pamidronate	Stable Disease
+BRCA	TCGA-3C-AALI	Poly E	Complete Response
+BRCA	TCGA-A2-A0EW	Tamoxifen	Clinical Progressive Disease
+BRCA	TCGA-A2-A3XS	Tamoxifen	Clinical Progressive Disease
+BRCA	TCGA-D8-A73W	Tamoxifen	Clinical Progressive Disease
+BRCA	TCGA-GM-A2DA	Tamoxifen	Clinical Progressive Disease
+BRCA	TCGA-A2-A0CO	Tamoxifen	Complete Response
+BRCA	TCGA-A2-A0CR	Tamoxifen	Complete Response
+BRCA	TCGA-A7-A5ZX	Tamoxifen	Complete Response
+BRCA	TCGA-A8-A06R	Tamoxifen	Complete Response
+BRCA	TCGA-A8-A08B	Tamoxifen	Complete Response
+BRCA	TCGA-A8-A09D	Tamoxifen	Complete Response
+BRCA	TCGA-A8-A0A4	Tamoxifen	Complete Response
+BRCA	TCGA-AC-A2FF	Tamoxifen	Complete Response
+BRCA	TCGA-BH-A0W7	Tamoxifen	Complete Response
+BRCA	TCGA-C8-A26V	Tamoxifen	Complete Response
+BRCA	TCGA-C8-A26Z	Tamoxifen	Complete Response
+BRCA	TCGA-C8-A3M8	Tamoxifen	Complete Response
+BRCA	TCGA-E9-A1NC	Tamoxifen	Complete Response
+BRCA	TCGA-E9-A1NG	Tamoxifen	Complete Response
+BRCA	TCGA-GM-A2DL	Tamoxifen	Complete Response
+BRCA	TCGA-GM-A2DO	Tamoxifen	Complete Response
+BRCA	TCGA-GM-A3XG	Tamoxifen	Complete Response
+BRCA	TCGA-GM-A3XN	Tamoxifen	Complete Response
+BRCA	TCGA-A8-A091	Tamoxifen	Stable Disease
+BRCA	TCGA-EW-A1P3	Tamoxifen	Stable Disease
+BRCA	TCGA-GM-A2D9	Tamoxifen	Stable Disease
+BRCA	TCGA-LL-A73Z	Paclitaxel	Clinical Progressive Disease
+BRCA	TCGA-A2-A0CK	Paclitaxel	Complete Response
+BRCA	TCGA-A2-A3XW	Paclitaxel	Complete Response
+BRCA	TCGA-A7-A4SE	Paclitaxel	Complete Response
+BRCA	TCGA-A7-A6VW	Paclitaxel	Complete Response
+BRCA	TCGA-AC-A23G	Paclitaxel	Complete Response
+BRCA	TCGA-AC-A2BK	Paclitaxel	Complete Response
+BRCA	TCGA-AC-A2FF	Paclitaxel	Complete Response
+BRCA	TCGA-AQ-A54O	Paclitaxel	Complete Response
+BRCA	TCGA-BH-A0AZ	Paclitaxel	Complete Response
+BRCA	TCGA-BH-A0B5	Paclitaxel	Complete Response
+BRCA	TCGA-BH-A0B7	Paclitaxel	Complete Response
+BRCA	TCGA-BH-A0BL	Paclitaxel	Complete Response
+BRCA	TCGA-BH-A0C7	Paclitaxel	Complete Response
+BRCA	TCGA-BH-A0DI	Paclitaxel	Complete Response
+BRCA	TCGA-C8-A135	Paclitaxel	Complete Response
+BRCA	TCGA-C8-A1HM	Paclitaxel	Complete Response
+BRCA	TCGA-C8-A27A	Paclitaxel	Complete Response
+BRCA	TCGA-C8-A27B	Paclitaxel	Complete Response
+BRCA	TCGA-E2-A572	Paclitaxel	Complete Response
+BRCA	TCGA-GM-A2DB	Paclitaxel	Complete Response
+BRCA	TCGA-GM-A2DF	Paclitaxel	Complete Response
+BRCA	TCGA-GM-A2DH	Paclitaxel	Complete Response
+BRCA	TCGA-GM-A2DM	Paclitaxel	Complete Response
+BRCA	TCGA-GM-A2DN	Paclitaxel	Complete Response
+BRCA	TCGA-LL-A740	Paclitaxel	Complete Response
+BRCA	TCGA-OL-A5RW	Paclitaxel	Complete Response
+BRCA	TCGA-OL-A5S0	Paclitaxel	Complete Response
+BRCA	TCGA-OL-A66I	Paclitaxel	Complete Response
+BRCA	TCGA-S3-A6ZG	Paclitaxel	Complete Response
+BRCA	TCGA-S3-AA15	Paclitaxel	Complete Response
+BRCA	TCGA-Z7-A8R6	Paclitaxel	Complete Response
+BRCA	TCGA-AC-A2FE	Paclitaxel	Partial Response
+BRCA	TCGA-D8-A3Z6	Paclitaxel	Stable Disease
+BRCA	TCGA-Z7-A8R5	Paclitaxel	Stable Disease
+BRCA	TCGA-A2-A0CK	Docetaxel	Complete Response
+BRCA	TCGA-A2-A4RY	Docetaxel	Complete Response
+BRCA	TCGA-A7-A4SD	Docetaxel	Complete Response
+BRCA	TCGA-A7-A5ZW	Docetaxel	Complete Response
+BRCA	TCGA-A7-A6VV	Docetaxel	Complete Response
+BRCA	TCGA-AC-A2FB	Docetaxel	Complete Response
+BRCA	TCGA-AC-A2FK	Docetaxel	Complete Response
+BRCA	TCGA-AC-A3BB	Docetaxel	Complete Response
+BRCA	TCGA-AC-A3TM	Docetaxel	Complete Response
+BRCA	TCGA-BH-A0AV	Docetaxel	Complete Response
+BRCA	TCGA-BH-A0DG	Docetaxel	Complete Response
+BRCA	TCGA-BH-A0DL	Docetaxel	Complete Response
+BRCA	TCGA-BH-A0DT	Docetaxel	Complete Response
+BRCA	TCGA-BH-A0DV	Docetaxel	Complete Response
+BRCA	TCGA-BH-A0DX	Docetaxel	Complete Response
+BRCA	TCGA-BH-A0E9	Docetaxel	Complete Response
+BRCA	TCGA-BH-A0EA	Docetaxel	Complete Response
+BRCA	TCGA-BH-A0H5	Docetaxel	Complete Response
+BRCA	TCGA-BH-A0HY	Docetaxel	Complete Response
+BRCA	TCGA-BH-A0W7	Docetaxel	Complete Response
+BRCA	TCGA-BH-A18F	Docetaxel	Complete Response
+BRCA	TCGA-BH-A18H	Docetaxel	Complete Response
+BRCA	TCGA-BH-A18I	Docetaxel	Complete Response
+BRCA	TCGA-BH-A202	Docetaxel	Complete Response
+BRCA	TCGA-BH-A5IZ	Docetaxel	Complete Response
+BRCA	TCGA-BH-A8G0	Docetaxel	Complete Response
+BRCA	TCGA-E2-A573	Docetaxel	Complete Response
+BRCA	TCGA-E9-A1R2	Docetaxel	Complete Response
+BRCA	TCGA-E9-A227	Docetaxel	Complete Response
+BRCA	TCGA-EW-A3U0	Docetaxel	Complete Response
+BRCA	TCGA-GM-A2DC	Docetaxel	Complete Response
+BRCA	TCGA-GM-A2DI	Docetaxel	Complete Response
+BRCA	TCGA-GM-A4E0	Docetaxel	Complete Response
+BRCA	TCGA-GM-A5PV	Docetaxel	Complete Response
+BRCA	TCGA-LL-A440	Docetaxel	Complete Response
+BRCA	TCGA-LL-A441	Docetaxel	Complete Response
+BRCA	TCGA-LL-A5YO	Docetaxel	Complete Response
+BRCA	TCGA-OL-A5D7	Docetaxel	Complete Response
+BRCA	TCGA-OL-A66O	Docetaxel	Complete Response
+BRCA	TCGA-OL-A66P	Docetaxel	Complete Response
+BRCA	TCGA-OL-A6VO	Docetaxel	Complete Response
+BRCA	TCGA-PE-A5DE	Docetaxel	Complete Response
+BRCA	TCGA-S3-A6ZF	Docetaxel	Complete Response
+BRCA	TCGA-S3-AA10	Docetaxel	Complete Response
+BRCA	TCGA-WT-AB41	Docetaxel	Complete Response
+BRCA	TCGA-XX-A899	Docetaxel	Complete Response
+BRCA	TCGA-GM-A2DA	Docetaxel	Stable Disease
+BRCA	TCGA-LD-A74U	Docetaxel	Stable Disease
+BRCA	TCGA-LD-A7W5	Docetaxel	Stable Disease
+BRCA	TCGA-A2-A3XV	Trastuzumab	Complete Response
+BRCA	TCGA-A2-A3XZ	Trastuzumab	Complete Response
+BRCA	TCGA-A7-A4SF	Trastuzumab	Complete Response
+BRCA	TCGA-A8-A07I	Trastuzumab	Complete Response
+BRCA	TCGA-A8-A08B	Trastuzumab	Complete Response
+BRCA	TCGA-A8-A08P	Trastuzumab	Complete Response
+BRCA	TCGA-A8-A08X	Trastuzumab	Complete Response
+BRCA	TCGA-E2-A3DX	Trastuzumab	Complete Response
+BRCA	TCGA-S3-A6ZF	Trastuzumab	Complete Response
+BRCA	TCGA-GM-A2DA	Vinblastine	Complete Response
+BRCA	TCGA-AQ-A7U7	Vincristine	Complete Response
+BRCA	TCGA-A8-A08O	Vinorelbine	Clinical Progressive Disease
+BRCA	TCGA-A8-A08X	Vinorelbine	Complete Response
+BRCA	TCGA-A2-A3XS	Capecitabine	Clinical Progressive Disease
+BRCA	TCGA-A2-A3XU	Capecitabine	Clinical Progressive Disease
+BRCA	TCGA-AC-A2FE	Capecitabine	Clinical Progressive Disease
+BRCA	TCGA-GM-A2D9	Capecitabine	Clinical Progressive Disease
+BRCA	TCGA-GM-A2DA	Capecitabine	Clinical Progressive Disease
+BRCA	TCGA-GM-A2DC	Capecitabine	Complete Response
+BRCA	TCGA-GM-A4E0	Capecitabine	Complete Response
+BRCA	TCGA-GM-A2DA	Capecitabine	Stable Disease
+BRCA	TCGA-GM-A2DA	Trabectedin	Clinical Progressive Disease
+BRCA	TCGA-E9-A2JS	Goserelin	Clinical Progressive Disease
+BRCA	TCGA-E9-A3HO	Goserelin	Complete Response
+BRCA	TCGA-A2-A0EW	Zoledronate	Clinical Progressive Disease
+CESC	TCGA-C5-A1M6	Bleomycin	Clinical Progressive Disease
+CESC	TCGA-IR-A3LK	Carboplatin	Clinical Progressive Disease
+CESC	TCGA-HG-A2PA	Carboplatin	Partial Response
+CESC	TCGA-C5-A1BQ	Cisplatin	Complete Response
+CESC	TCGA-EK-A2H0	Cisplatin	Complete Response
+CESC	TCGA-FU-A23L	Cisplatin	Complete Response
+CESC	TCGA-FU-A3HZ	Cisplatin	Complete Response
+CESC	TCGA-IR-A3L7	Cisplatin	Complete Response
+CESC	TCGA-IR-A3LC	Cisplatin	Complete Response
+CESC	TCGA-IR-A3LH	Cisplatin	Complete Response
+CESC	TCGA-IR-A3LI	Cisplatin	Complete Response
+CESC	TCGA-IR-A3LK	Cisplatin	Complete Response
+CESC	TCGA-IR-A3LL	Cisplatin	Complete Response
+CESC	TCGA-C5-A1M6	Hydrocortisone	Clinical Progressive Disease
+CESC	TCGA-C5-A1M6	Mitomycin	Clinical Progressive Disease
+CESC	TCGA-IR-A3LK	Paclitaxel	Clinical Progressive Disease
+CESC	TCGA-IR-A3LI	Paclitaxel	Complete Response
+CESC	TCGA-EK-A2RL	Paclitaxel	Clinical Progressive Disease
+CESC	TCGA-HG-A2PA	Paclitaxel	Partial Response
+CESC	TCGA-IR-A3LI	Topotecan	Complete Response
+CESC	TCGA-C5-A1M6	Vincristine	Clinical Progressive Disease
+CHOL	TCGA-W5-AA36	Capecitabine	Stable Disease
+CHOL	TCGA-3X-AAV9	Cisplatin	Clinical Progressive Disease
+CHOL	TCGA-W5-AA2Z	Cisplatin	Clinical Progressive Disease
+CHOL	TCGA-ZH-A8Y5	Cisplatin	Partial Response
+CHOL	TCGA-3X-AAV9	Gemcitabine	Clinical Progressive Disease
+CHOL	TCGA-W5-AA2Z	Gemcitabine	Clinical Progressive Disease
+CHOL	TCGA-W5-AA2H	Gemcitabine	Complete Response
+CHOL	TCGA-W5-AA2T	Gemcitabine	Complete Response
+CHOL	TCGA-4G-AAZO	Gemcitabine	Stable Disease
+CHOL	TCGA-W5-AA36	Gemcitabine	Stable Disease
+CHOL	TCGA-ZH-A8Y4	Gemcitabine	Partial Response
+CHOL	TCGA-ZH-A8Y5	Gemcitabine	Partial Response
+COAD	TCGA-AZ-6606	Fluorouracil	Clinical Progressive Disease
+COAD	TCGA-AA-3680	Fluorouracil	Clinical Progressive Disease
+COAD	TCGA-AA-3692	Fluorouracil	Clinical Progressive Disease
+COAD	TCGA-AA-3844	Fluorouracil	Clinical Progressive Disease
+COAD	TCGA-AA-A02K	Fluorouracil	Clinical Progressive Disease
+COAD	TCGA-AA-3517	Fluorouracil	Complete Response
+COAD	TCGA-AA-3542	Fluorouracil	Complete Response
+COAD	TCGA-AA-3548	Fluorouracil	Complete Response
+COAD	TCGA-AA-3560	Fluorouracil	Complete Response
+COAD	TCGA-AA-3562	Fluorouracil	Complete Response
+COAD	TCGA-AA-3678	Fluorouracil	Complete Response
+COAD	TCGA-AA-3841	Fluorouracil	Complete Response
+COAD	TCGA-AA-3860	Fluorouracil	Complete Response
+COAD	TCGA-AA-3870	Fluorouracil	Complete Response
+COAD	TCGA-AA-3967	Fluorouracil	Complete Response
+COAD	TCGA-AA-3971	Fluorouracil	Complete Response
+COAD	TCGA-AA-3976	Fluorouracil	Complete Response
+COAD	TCGA-AA-A00Q	Fluorouracil	Complete Response
+COAD	TCGA-AA-A00U	Fluorouracil	Complete Response
+COAD	TCGA-AA-A010	Fluorouracil	Complete Response
+COAD	TCGA-AA-A01F	Fluorouracil	Complete Response
+COAD	TCGA-AA-A01K	Fluorouracil	Complete Response
+COAD	TCGA-AA-A01T	Fluorouracil	Complete Response
+COAD	TCGA-CA-5254	Fluorouracil	Complete Response
+COAD	TCGA-CA-5255	Fluorouracil	Complete Response
+COAD	TCGA-CA-5256	Fluorouracil	Complete Response
+COAD	TCGA-CA-5796	Fluorouracil	Complete Response
+COAD	TCGA-CA-6715	Fluorouracil	Complete Response
+COAD	TCGA-CA-6716	Fluorouracil	Complete Response
+COAD	TCGA-CA-6717	Fluorouracil	Complete Response
+COAD	TCGA-F4-6569	Fluorouracil	Complete Response
+COAD	TCGA-F4-6806	Fluorouracil	Complete Response
+COAD	TCGA-F4-6856	Fluorouracil	Complete Response
+COAD	TCGA-AA-3494	Fluorouracil	Partial Response
+COAD	TCGA-AA-3713	Fluorouracil	Partial Response
+COAD	TCGA-AA-3869	Fluorouracil	Partial Response
+COAD	TCGA-AA-A00F	Fluorouracil	Partial Response
+COAD	TCGA-AA-A00J	Fluorouracil	Partial Response
+COAD	TCGA-AA-A01R	Fluorouracil	Partial Response
+COAD	TCGA-AA-A02F	Fluorouracil	Partial Response
+COAD	TCGA-F4-6806	Fluorouracil	Partial Response
+COAD	TCGA-AA-3973	Fluorouracil	Stable Disease
+COAD	TCGA-AA-3972	Fluorouracil	Clinical Progressive Disease
+COAD	TCGA-A6-A565	Fluorouracil	Clinical Progressive Disease
+COAD	TCGA-AD-6965	Fluorouracil	Complete Response
+COAD	TCGA-AY-A8YK	Fluorouracil	Complete Response
+COAD	TCGA-A6-2671	Fluorouracil	Clinical Progressive Disease
+COAD	TCGA-AZ-4682	Fluorouracil	Clinical Progressive Disease
+COAD	TCGA-AZ-6600	Fluorouracil	Clinical Progressive Disease
+COAD	TCGA-NH-A6GA	Fluorouracil	Clinical Progressive Disease
+COAD	TCGA-SS-A7HO	Fluorouracil	Complete Response
+COAD	TCGA-RU-A8FL	Bevacizumab	Clinical Progressive Disease
+COAD	TCGA-A6-2671	Bevacizumab	Clinical Progressive Disease
+COAD	TCGA-NH-A50U	Bevacizumab	Clinical Progressive Disease
+COAD	TCGA-NH-A6GA	Bevacizumab	Clinical Progressive Disease
+COAD	TCGA-AZ-4308	Bevacizumab	Complete Response
+COAD	TCGA-F4-6806	Bevacizumab	Partial Response
+COAD	TCGA-A6-5664	Bevacizumab	Clinical Progressive Disease
+COAD	TCGA-AA-3692	Bevacizumab	Clinical Progressive Disease
+COAD	TCGA-AA-3844	Bevacizumab	Clinical Progressive Disease
+COAD	TCGA-AA-3972	Bevacizumab	Clinical Progressive Disease
+COAD	TCGA-AA-A01D	Bevacizumab	Clinical Progressive Disease
+COAD	TCGA-AA-A02K	Bevacizumab	Clinical Progressive Disease
+COAD	TCGA-NH-A50U	Bevacizumab	Clinical Progressive Disease
+COAD	TCGA-NH-A6GB	Bevacizumab	Clinical Progressive Disease
+COAD	TCGA-AA-3517	Bevacizumab	Complete Response
+COAD	TCGA-AY-A8YK	Bevacizumab	Complete Response
+COAD	TCGA-AA-3869	Bevacizumab	Partial Response
+COAD	TCGA-AA-A02F	Bevacizumab	Partial Response
+COAD	TCGA-NH-A8F7	Bevacizumab	Partial Response
+COAD	TCGA-AA-3973	Bevacizumab	Stable Disease
+COAD	TCGA-CM-4748	Bevacizumab	Stable Disease
+COAD	TCGA-AZ-4682	Irinotecan	Clinical Progressive Disease
+COAD	TCGA-F4-6806	Irinotecan	Partial Response
+COAD	TCGA-AA-3844	Capecitabine	Clinical Progressive Disease
+COAD	TCGA-AA-3930	Capecitabine	Clinical Progressive Disease
+COAD	TCGA-AA-3972	Capecitabine	Clinical Progressive Disease
+COAD	TCGA-AA-A01D	Capecitabine	Clinical Progressive Disease
+COAD	TCGA-NH-A50U	Capecitabine	Clinical Progressive Disease
+COAD	TCGA-AA-3955	Capecitabine	Complete Response
+COAD	TCGA-AA-3994	Capecitabine	Complete Response
+COAD	TCGA-F4-6806	Capecitabine	Complete Response
+COAD	TCGA-QG-A5YW	Capecitabine	Complete Response
+COAD	TCGA-AA-3662	Capecitabine	Partial Response
+COAD	TCGA-AA-3869	Capecitabine	Partial Response
+COAD	TCGA-AA-3494	Capecitabine	Stable Disease
+COAD	TCGA-RU-A8FL	Cetuximab	Clinical Progressive Disease
+COAD	TCGA-AA-3692	Cetuximab	Clinical Progressive Disease
+COAD	TCGA-A6-A56B	Cetuximab	Complete Response
+COAD	TCGA-AA-3869	Cetuximab	Partial Response
+COAD	TCGA-AA-3494	Cetuximab	Stable Disease
+COAD	TCGA-AZ-6600	Irinotecan	Clinical Progressive Disease
+COAD	TCGA-A6-2671	Cetuximab	Clinical Progressive Disease
+COAD	TCGA-A6-5664	Fluorouracil	Clinical Progressive Disease
+COAD	TCGA-A6-A566	Fluorouracil	Clinical Progressive Disease
+COAD	TCGA-NH-A50U	Fluorouracil	Clinical Progressive Disease
+COAD	TCGA-NH-A6GA	Fluorouracil	Clinical Progressive Disease
+COAD	TCGA-NH-A6GB	Fluorouracil	Clinical Progressive Disease
+COAD	TCGA-NH-A8F8	Fluorouracil	Clinical Progressive Disease
+COAD	TCGA-A6-A56B	Fluorouracil	Complete Response
+COAD	TCGA-A6-A5ZU	Fluorouracil	Complete Response
+COAD	TCGA-CK-4950	Fluorouracil	Complete Response
+COAD	TCGA-NH-A50V	Fluorouracil	Complete Response
+COAD	TCGA-NH-A8F7	Fluorouracil	Partial Response
+COAD	TCGA-AZ-6606	Folfiri	Clinical Progressive Disease
+COAD	TCGA-RU-A8FL	Folfiri	Clinical Progressive Disease
+COAD	TCGA-AD-6964	Folfox	Clinical Progressive Disease
+COAD	TCGA-AZ-4684	Folfox	Clinical Progressive Disease
+COAD	TCGA-RU-A8FL	FOLFOX	Clinical Progressive Disease
+COAD	TCGA-AZ-6605	FOLFOX	Stable Disease
+COAD	TCGA-AA-3680	Leucovorin	Clinical Progressive Disease
+COAD	TCGA-AA-3692	Leucovorin	Clinical Progressive Disease
+COAD	TCGA-AA-3844	Leucovorin	Clinical Progressive Disease
+COAD	TCGA-AA-3972	Leucovorin	Clinical Progressive Disease
+COAD	TCGA-AA-A02K	Leucovorin	Clinical Progressive Disease
+COAD	TCGA-AZ-4682	Leucovorin	Clinical Progressive Disease
+COAD	TCGA-AA-3517	Leucovorin	Complete Response
+COAD	TCGA-AA-3542	Leucovorin	Complete Response
+COAD	TCGA-AA-3548	Leucovorin	Complete Response
+COAD	TCGA-AA-3560	Leucovorin	Complete Response
+COAD	TCGA-AA-3562	Leucovorin	Complete Response
+COAD	TCGA-AA-3678	Leucovorin	Complete Response
+COAD	TCGA-AA-3841	Leucovorin	Complete Response
+COAD	TCGA-AA-3860	Leucovorin	Complete Response
+COAD	TCGA-AA-3870	Leucovorin	Complete Response
+COAD	TCGA-AA-3967	Leucovorin	Complete Response
+COAD	TCGA-AA-3971	Leucovorin	Complete Response
+COAD	TCGA-AA-3976	Leucovorin	Complete Response
+COAD	TCGA-AA-A00Q	Leucovorin	Complete Response
+COAD	TCGA-AA-A00U	Leucovorin	Complete Response
+COAD	TCGA-AA-A010	Leucovorin	Complete Response
+COAD	TCGA-AA-A01F	Leucovorin	Complete Response
+COAD	TCGA-AA-A01K	Leucovorin	Complete Response
+COAD	TCGA-AA-A01T	Leucovorin	Complete Response
+COAD	TCGA-CA-5254	Leucovorin	Complete Response
+COAD	TCGA-CA-5255	Leucovorin	Complete Response
+COAD	TCGA-CA-5256	Leucovorin	Complete Response
+COAD	TCGA-CA-5796	Leucovorin	Complete Response
+COAD	TCGA-CA-6715	Leucovorin	Complete Response
+COAD	TCGA-CA-6716	Leucovorin	Complete Response
+COAD	TCGA-CA-6717	Leucovorin	Complete Response
+COAD	TCGA-AA-3494	Leucovorin	Partial Response
+COAD	TCGA-AA-3869	Leucovorin	Partial Response
+COAD	TCGA-AA-A00F	Leucovorin	Partial Response
+COAD	TCGA-AA-A01R	Leucovorin	Partial Response
+COAD	TCGA-AA-A02F	Leucovorin	Partial Response
+COAD	TCGA-AA-3973	Leucovorin	Stable Disease
+COAD	TCGA-A6-2671	Irinotecan	Clinical Progressive Disease
+COAD	TCGA-A6-5664	Irinotecan	Clinical Progressive Disease
+COAD	TCGA-AA-3692	Irinotecan	Clinical Progressive Disease
+COAD	TCGA-AA-A01D	Irinotecan	Clinical Progressive Disease
+COAD	TCGA-AA-A02K	Irinotecan	Clinical Progressive Disease
+COAD	TCGA-NH-A6GA	Irinotecan	Clinical Progressive Disease
+COAD	TCGA-AA-3517	Irinotecan	Complete Response
+COAD	TCGA-AA-3548	Irinotecan	Complete Response
+COAD	TCGA-F4-6806	Irinotecan	Complete Response
+COAD	TCGA-AA-3869	Irinotecan	Partial Response
+COAD	TCGA-AA-A01R	Irinotecan	Partial Response
+COAD	TCGA-AA-A02F	Irinotecan	Partial Response
+COAD	TCGA-AA-3494	Irinotecan	Stable Disease
+COAD	TCGA-AA-3973	Irinotecan	Stable Disease
+COAD	TCGA-RU-A8FL	Irinotecan	Clinical Progressive Disease
+COAD	TCGA-CM-4748	Irinotecan	Stable Disease
+COAD	TCGA-A6-2671	Leucovorin	Clinical Progressive Disease
+COAD	TCGA-A6-5664	Leucovorin	Clinical Progressive Disease
+COAD	TCGA-A6-A565	Leucovorin	Clinical Progressive Disease
+COAD	TCGA-A6-A566	Leucovorin	Clinical Progressive Disease
+COAD	TCGA-AZ-6600	Leucovorin	Clinical Progressive Disease
+COAD	TCGA-NH-A6GA	Leucovorin	Clinical Progressive Disease
+COAD	TCGA-NH-A6GB	Leucovorin	Clinical Progressive Disease
+COAD	TCGA-A6-A56B	Leucovorin	Complete Response
+COAD	TCGA-A6-A5ZU	Leucovorin	Complete Response
+COAD	TCGA-AD-6965	Leucovorin	Complete Response
+COAD	TCGA-AZ-4308	Leucovorin	Complete Response
+COAD	TCGA-CK-4950	Leucovorin	Complete Response
+COAD	TCGA-F4-6569	Leucovorin	Complete Response
+COAD	TCGA-F4-6806	Leucovorin	Complete Response
+COAD	TCGA-F4-6856	Leucovorin	Complete Response
+COAD	TCGA-NH-A50V	Leucovorin	Complete Response
+COAD	TCGA-SS-A7HO	Leucovorin	Complete Response
+COAD	TCGA-F4-6806	Leucovorin	Partial Response
+COAD	TCGA-NH-A50U	Leucovorin	Partial Response
+COAD	TCGA-CM-4748	Leucovorin	Stable Disease
+COAD	TCGA-AA-A01D	Mitomycin	Clinical Progressive Disease
+COAD	TCGA-F4-6806	Mitomycin	Complete Response
+COAD	TCGA-A6-A565	Oxaliplatin	Clinical Progressive Disease
+COAD	TCGA-A6-A566	Oxaliplatin	Clinical Progressive Disease
+COAD	TCGA-AA-3680	Oxaliplatin	Clinical Progressive Disease
+COAD	TCGA-AA-3844	Oxaliplatin	Clinical Progressive Disease
+COAD	TCGA-AA-3972	Oxaliplatin	Clinical Progressive Disease
+COAD	TCGA-AA-A01D	Oxaliplatin	Clinical Progressive Disease
+COAD	TCGA-NH-A6GA	Oxaliplatin	Clinical Progressive Disease
+COAD	TCGA-NH-A6GB	Oxaliplatin	Clinical Progressive Disease
+COAD	TCGA-A6-A56B	Oxaliplatin	Complete Response
+COAD	TCGA-A6-A5ZU	Oxaliplatin	Complete Response
+COAD	TCGA-AA-3517	Oxaliplatin	Complete Response
+COAD	TCGA-AA-3542	Oxaliplatin	Complete Response
+COAD	TCGA-AA-3560	Oxaliplatin	Complete Response
+COAD	TCGA-AA-3562	Oxaliplatin	Complete Response
+COAD	TCGA-AA-3841	Oxaliplatin	Complete Response
+COAD	TCGA-AA-3860	Oxaliplatin	Complete Response
+COAD	TCGA-AA-3870	Oxaliplatin	Complete Response
+COAD	TCGA-AA-3955	Oxaliplatin	Complete Response
+COAD	TCGA-AA-3967	Oxaliplatin	Complete Response
+COAD	TCGA-AA-3971	Oxaliplatin	Complete Response
+COAD	TCGA-AA-3976	Oxaliplatin	Complete Response
+COAD	TCGA-AA-A00Q	Oxaliplatin	Complete Response
+COAD	TCGA-AA-A00U	Oxaliplatin	Complete Response
+COAD	TCGA-AA-A010	Oxaliplatin	Complete Response
+COAD	TCGA-AA-A01F	Oxaliplatin	Complete Response
+COAD	TCGA-AA-A01K	Oxaliplatin	Complete Response
+COAD	TCGA-AD-6965	Oxaliplatin	Complete Response
+COAD	TCGA-AY-A8YK	Oxaliplatin	Complete Response
+COAD	TCGA-CA-5254	Oxaliplatin	Complete Response
+COAD	TCGA-CA-5255	Oxaliplatin	Complete Response
+COAD	TCGA-CA-5256	Oxaliplatin	Complete Response
+COAD	TCGA-CA-5796	Oxaliplatin	Complete Response
+COAD	TCGA-CA-6715	Oxaliplatin	Complete Response
+COAD	TCGA-CA-6716	Oxaliplatin	Complete Response
+COAD	TCGA-CA-6717	Oxaliplatin	Complete Response
+COAD	TCGA-CK-4950	Oxaliplatin	Complete Response
+COAD	TCGA-F4-6806	Oxaliplatin	Complete Response
+COAD	TCGA-NH-A50V	Oxaliplatin	Complete Response
+COAD	TCGA-QG-A5YW	Oxaliplatin	Complete Response
+COAD	TCGA-SS-A7HO	Oxaliplatin	Complete Response
+COAD	TCGA-AA-3494	Oxaliplatin	Partial Response
+COAD	TCGA-AA-A00F	Oxaliplatin	Partial Response
+COAD	TCGA-AA-A02F	Oxaliplatin	Partial Response
+COAD	TCGA-F4-6806	Oxaliplatin	Partial Response
+COAD	TCGA-NH-A50U	Oxaliplatin	Partial Response
+COAD	TCGA-NH-A8F7	Oxaliplatin	Partial Response
+COAD	TCGA-A6-6652	Oxaliplatin	Stable Disease
+COAD	TCGA-CM-4748	Oxaliplatin	Stable Disease
+COAD	TCGA-AA-A01D	Panitumumab	Clinical Progressive Disease
+COAD	TCGA-NH-A50U	Regorafenib	Clinical Progressive Disease
+COAD	TCGA-AD-6889	Capecitabine	Complete Response
+COAD	TCGA-AD-6901	Capecitabine	Complete Response
+COAD	TCGA-F4-6805	Capecitabine	Complete Response
+COAD	TCGA-F4-6807	Capecitabine	Complete Response
+COAD	TCGA-QG-A5YV	Capecitabine	Complete Response
+COAD	TCGA-QG-A5YX	Capecitabine	Complete Response
+COAD	TCGA-AZ-4616	Capecitabine	Stable Disease
+ESCA	TCGA-R6-A8W5	Fluorouracil	Clinical Progressive Disease
+ESCA	TCGA-JY-A6FA	Fluorouracil	Partial Response
+ESCA	TCGA-LN-A4A8	Fluorouracil	Complete Response
+ESCA	TCGA-IG-A3I8	Fluorouracil	Complete Response
+ESCA	TCGA-LN-A49O	Capecitabine	Clinical Progressive Disease
+ESCA	TCGA-LN-A49Y	Capecitabine	Clinical Progressive Disease
+ESCA	TCGA-LN-A4A1	Capecitabine	Clinical Progressive Disease
+ESCA	TCGA-LN-A4A3	Capecitabine	Clinical Progressive Disease
+ESCA	TCGA-LN-A49M	Capecitabine	Complete Response
+ESCA	TCGA-LN-A49R	Capecitabine	Complete Response
+ESCA	TCGA-LN-A49U	Capecitabine	Complete Response
+ESCA	TCGA-LN-A49V	Capecitabine	Complete Response
+ESCA	TCGA-LN-A49W	Capecitabine	Complete Response
+ESCA	TCGA-LN-A4A2	Capecitabine	Complete Response
+ESCA	TCGA-LN-A4A6	Capecitabine	Complete Response
+ESCA	TCGA-LN-A4MQ	Capecitabine	Complete Response
+ESCA	TCGA-LN-A4MR	Capecitabine	Complete Response
+ESCA	TCGA-LN-A5U6	Capecitabine	Complete Response
+ESCA	TCGA-LN-A7HV	Capecitabine	Complete Response
+ESCA	TCGA-LN-A7HX	Capecitabine	Complete Response
+ESCA	TCGA-LN-A7HY	Capecitabine	Complete Response
+ESCA	TCGA-LN-A7HZ	Capecitabine	Complete Response
+ESCA	TCGA-LN-A8HZ	Capecitabine	Complete Response
+ESCA	TCGA-LN-A9FP	Capecitabine	Complete Response
+ESCA	TCGA-LN-A9FR	Capecitabine	Complete Response
+ESCA	TCGA-L5-A88W	Carboplatin	Clinical Progressive Disease
+ESCA	TCGA-V5-A7RC	Carboplatin	Clinical Progressive Disease
+ESCA	TCGA-IC-A6RF	Carboplatin	Complete Response
+ESCA	TCGA-IG-A7DP	Carboplatin	Complete Response
+ESCA	TCGA-V5-A7RE	Carboplatin	Partial Response
+ESCA	TCGA-V5-AASV	Carboplatin	Partial Response
+ESCA	TCGA-LN-A4A1	Cisplatin	Clinical Progressive Disease
+ESCA	TCGA-LN-A4A3	Cisplatin	Clinical Progressive Disease
+ESCA	TCGA-IG-A3I8	Cisplatin	Complete Response
+ESCA	TCGA-JY-A6FA	Cisplatin	Complete Response
+ESCA	TCGA-LN-A49R	Cisplatin	Complete Response
+ESCA	TCGA-LN-A49U	Cisplatin	Complete Response
+ESCA	TCGA-LN-A49V	Cisplatin	Complete Response
+ESCA	TCGA-LN-A49W	Cisplatin	Complete Response
+ESCA	TCGA-LN-A4A2	Cisplatin	Complete Response
+ESCA	TCGA-LN-A4A8	Cisplatin	Complete Response
+ESCA	TCGA-LN-A4MQ	Cisplatin	Complete Response
+ESCA	TCGA-LN-A4MR	Cisplatin	Complete Response
+ESCA	TCGA-LN-A7HY	Cisplatin	Complete Response
+ESCA	TCGA-LN-A7HZ	Cisplatin	Complete Response
+ESCA	TCGA-LN-A8HZ	Cisplatin	Complete Response
+ESCA	TCGA-VR-A8ER	Cisplatin	Complete Response
+ESCA	TCGA-L7-A56G	Cisplatin	Stable Disease
+ESCA	TCGA-LN-A4A8	Docetaxel	Complete Response
+ESCA	TCGA-LN-A5U7	Docetaxel	Complete Response
+ESCA	TCGA-JY-A6FA	Epirubicin	Complete Response
+ESCA	TCGA-IG-A3YC	Etoposide	Clinical Progressive Disease
+ESCA	TCGA-VR-AA4D	Fluorouracil	Clinical Progressive Disease
+ESCA	TCGA-JY-A93D	Fluorouracil	Complete Response
+ESCA	TCGA-L7-A6VZ	Fluorouracil	Complete Response
+ESCA	TCGA-LN-A5U7	Fluorouracil	Complete Response
+ESCA	TCGA-VR-A8EQ	Fluorouracil	Complete Response
+ESCA	TCGA-VR-A8ER	Fluorouracil	Complete Response
+ESCA	TCGA-S8-A6BV	FOLFOX	Clinical Progressive Disease
+ESCA	TCGA-L5-A88W	Gemcitabine	Partial Response
+ESCA	TCGA-IG-A7DP	Gemcitabine	Complete Response
+ESCA	TCGA-VR-AA4D	Leucovorin	Clinical Progressive Disease
+ESCA	TCGA-L7-A6VZ	Leucovorin	Complete Response
+ESCA	TCGA-R6-A8W5	Oxaliplatin	Clinical Progressive Disease
+ESCA	TCGA-LN-A4A8	Oxaliplatin	Complete Response
+ESCA	TCGA-LN-A5U7	Oxaliplatin	Complete Response
+ESCA	TCGA-V5-A7RC	Paclitaxel	Clinical Progressive Disease
+ESCA	TCGA-V5-AASV	Paclitaxel	Partial Response
+ESCA	TCGA-L7-A56G	Paclitaxel	Stable Disease
+ESCA	TCGA-L5-A88W	Paclitaxel	Clinical Progressive Disease
+ESCA	TCGA-IC-A6RF	Paclitaxel	Complete Response
+ESCA	TCGA-V5-A7RE	Paclitaxel	Partial Response
+ESCA	TCGA-V5-A7RE	Capecitabine	Clinical Progressive Disease
+GBM	TCGA-06-1806	veliparib	Clinical Progressive Disease
+GBM	TCGA-19-5959	Bevacizumab	Clinical Progressive Disease
+GBM	TCGA-19-5956	Bevacizumab	Stable Disease
+GBM	TCGA-19-5960	Bevacizumab	Stable Disease
+GBM	TCGA-26-A7UX	Bevacizumab	Stable Disease
+GBM	TCGA-06-1806	Cabozantinib	Clinical Progressive Disease
+GBM	TCGA-06-A7TK	Lomustine	Clinical Progressive Disease
+GBM	TCGA-26-A7UX	Lomustine	Stable Disease
+GBM	TCGA-06-A7TK	Procarbazine	Clinical Progressive Disease
+GBM	TCGA-06-A5U0	Temozolomide	Clinical Progressive Disease
+GBM	TCGA-19-5959	Temozolomide	Clinical Progressive Disease
+GBM	TCGA-87-5896	Temozolomide	Complete Response
+GBM	TCGA-19-5956	Temozolomide	Stable Disease
+GBM	TCGA-19-5960	Temozolomide	Stable Disease
+GBM	TCGA-19-A60I	Temozolomide	Stable Disease
+GBM	TCGA-19-A6J5	Temozolomide	Stable Disease
+GBM	TCGA-06-1806	Temozolomide	Clinical Progressive Disease
+GBM	TCGA-06-A6S1	Temozolomide	Clinical Progressive Disease
+GBM	TCGA-4W-AA9S	Temozolomide	Complete Response
+GBM	TCGA-06-1806	Temozolomide	Stable Disease
+GBM	TCGA-06-A7TK	Temozolomide	Stable Disease
+GBM	TCGA-06-A7TL	Temozolomide	Stable Disease
+HNSC	TCGA-DQ-7589	Fluorouracil	Stable Disease
+HNSC	TCGA-QK-A6IH	Fluorouracil	Stable Disease
+HNSC	TCGA-HD-7229	Fluorouracil	Clinical Progressive Disease
+HNSC	TCGA-DQ-7596	Pemetrexed	Complete Response
+HNSC	TCGA-CR-5248	Bevacizumab	Clinical Progressive Disease
+HNSC	TCGA-CN-A498	Carboplatin	Clinical Progressive Disease
+HNSC	TCGA-MZ-A6I9	Carboplatin	Clinical Progressive Disease
+HNSC	TCGA-QK-A6IG	Carboplatin	Clinical Progressive Disease
+HNSC	TCGA-QK-A6IH	Carboplatin	Clinical Progressive Disease
+HNSC	TCGA-QK-A6II	Carboplatin	Clinical Progressive Disease
+HNSC	TCGA-T2-A6WX	Carboplatin	Clinical Progressive Disease
+HNSC	TCGA-BA-A6DL	Carboplatin	Complete Response
+HNSC	TCGA-CN-A498	Carboplatin	Complete Response
+HNSC	TCGA-CN-A49A	Carboplatin	Complete Response
+HNSC	TCGA-CN-A63W	Carboplatin	Complete Response
+HNSC	TCGA-CN-A6UY	Carboplatin	Complete Response
+HNSC	TCGA-CR-5247	Carboplatin	Complete Response
+HNSC	TCGA-CR-5248	Carboplatin	Complete Response
+HNSC	TCGA-CR-6491	Carboplatin	Complete Response
+HNSC	TCGA-CR-6493	Carboplatin	Complete Response
+HNSC	TCGA-CR-7389	Carboplatin	Complete Response
+HNSC	TCGA-CR-7393	Carboplatin	Complete Response
+HNSC	TCGA-CR-7397	Carboplatin	Complete Response
+HNSC	TCGA-CR-7404	Carboplatin	Complete Response
+HNSC	TCGA-DQ-7589	Carboplatin	Complete Response
+HNSC	TCGA-DQ-7590	Carboplatin	Complete Response
+HNSC	TCGA-DQ-7593	Carboplatin	Complete Response
+HNSC	TCGA-DQ-7594	Carboplatin	Complete Response
+HNSC	TCGA-DQ-7596	Carboplatin	Complete Response
+HNSC	TCGA-H7-A6C4	Carboplatin	Complete Response
+HNSC	TCGA-QK-A6IF	Carboplatin	Complete Response
+HNSC	TCGA-QK-A8Z7	Carboplatin	Complete Response
+HNSC	TCGA-QK-A8Z9	Carboplatin	Complete Response
+HNSC	TCGA-CR-7383	Carboplatin	Partial Response
+HNSC	TCGA-DQ-7589	Carboplatin	Stable Disease
+HNSC	TCGA-QK-A6IH	Carboplatin	Stable Disease
+HNSC	TCGA-HD-8224	Cetuximab	Clinical Progressive Disease
+HNSC	TCGA-KU-A6H8	Cetuximab	Clinical Progressive Disease
+HNSC	TCGA-P3-A6T6	Cetuximab	Clinical Progressive Disease
+HNSC	TCGA-T2-A6WX	Cetuximab	Clinical Progressive Disease
+HNSC	TCGA-T2-A6WZ	Cetuximab	Clinical Progressive Disease
+HNSC	TCGA-H7-A6C4	Cetuximab	Complete Response
+HNSC	TCGA-IQ-7630	Cetuximab	Complete Response
+HNSC	TCGA-P3-A5Q6	Cetuximab	Complete Response
+HNSC	TCGA-RS-A6TO	Cetuximab	Complete Response
+HNSC	TCGA-CR-7404	Cetuximab	Partial Response
+HNSC	TCGA-BA-A6DD	Cisplatin	Clinical Progressive Disease
+HNSC	TCGA-CN-6998	Cisplatin	Clinical Progressive Disease
+HNSC	TCGA-CR-5248	Cisplatin	Clinical Progressive Disease
+HNSC	TCGA-HD-7229	Cisplatin	Clinical Progressive Disease
+HNSC	TCGA-IQ-A61G	Cisplatin	Clinical Progressive Disease
+HNSC	TCGA-BA-A4IF	Cisplatin	Complete Response
+HNSC	TCGA-BA-A4IH	Cisplatin	Complete Response
+HNSC	TCGA-BA-A6D8	Cisplatin	Complete Response
+HNSC	TCGA-BA-A6DA	Cisplatin	Complete Response
+HNSC	TCGA-BA-A6DI	Cisplatin	Complete Response
+HNSC	TCGA-BA-A6DJ	Cisplatin	Complete Response
+HNSC	TCGA-BB-7864	Cisplatin	Complete Response
+HNSC	TCGA-BB-7866	Cisplatin	Complete Response
+HNSC	TCGA-BB-7872	Cisplatin	Complete Response
+HNSC	TCGA-BB-A5HU	Cisplatin	Complete Response
+HNSC	TCGA-BB-A5HY	Cisplatin	Complete Response
+HNSC	TCGA-CN-A63T	Cisplatin	Complete Response
+HNSC	TCGA-CN-A63W	Cisplatin	Complete Response
+HNSC	TCGA-CN-A641	Cisplatin	Complete Response
+HNSC	TCGA-CN-A6V3	Cisplatin	Complete Response
+HNSC	TCGA-CN-A6V6	Cisplatin	Complete Response
+HNSC	TCGA-CN-A6V7	Cisplatin	Complete Response
+HNSC	TCGA-DQ-7595	Cisplatin	Complete Response
+HNSC	TCGA-F7-A50J	Cisplatin	Complete Response
+HNSC	TCGA-H7-A6C4	Cisplatin	Complete Response
+HNSC	TCGA-HD-8314	Cisplatin	Complete Response
+HNSC	TCGA-HL-7533	Cisplatin	Complete Response
+HNSC	TCGA-IQ-A61E	Cisplatin	Complete Response
+HNSC	TCGA-IQ-A61J	Cisplatin	Complete Response
+HNSC	TCGA-IQ-A61O	Cisplatin	Complete Response
+HNSC	TCGA-KU-A6H7	Cisplatin	Complete Response
+HNSC	TCGA-MZ-A5BI	Cisplatin	Complete Response
+HNSC	TCGA-MZ-A6I9	Cisplatin	Complete Response
+HNSC	TCGA-MZ-A7D7	Cisplatin	Complete Response
+HNSC	TCGA-P3-A5Q6	Cisplatin	Complete Response
+HNSC	TCGA-P3-A6SW	Cisplatin	Complete Response
+HNSC	TCGA-P3-A6T2	Cisplatin	Complete Response
+HNSC	TCGA-P3-A6T3	Cisplatin	Complete Response
+HNSC	TCGA-P3-A6T7	Cisplatin	Complete Response
+HNSC	TCGA-P3-A6T8	Cisplatin	Complete Response
+HNSC	TCGA-T2-A6X0	Cisplatin	Complete Response
+HNSC	TCGA-TN-A7HJ	Cisplatin	Complete Response
+HNSC	TCGA-TN-A7HL	Cisplatin	Complete Response
+HNSC	TCGA-UF-A7JC	Cisplatin	Complete Response
+HNSC	TCGA-UF-A7JF	Cisplatin	Complete Response
+HNSC	TCGA-UF-A7JJ	Cisplatin	Complete Response
+HNSC	TCGA-UF-A7JK	Cisplatin	Complete Response
+HNSC	TCGA-UF-A7JT	Cisplatin	Complete Response
+HNSC	TCGA-CQ-A4CH	Cisplatin	Partial Response
+HNSC	TCGA-D6-A6EK	Cisplatin	Partial Response
+HNSC	TCGA-CR-5248	Docetaxel	Clinical Progressive Disease
+HNSC	TCGA-HD-7229	Docetaxel	Clinical Progressive Disease
+HNSC	TCGA-MZ-A6I9	Docetaxel	Clinical Progressive Disease
+HNSC	TCGA-IQ-7630	Docetaxel	Complete Response
+HNSC	TCGA-DQ-7589	Docetaxel	Stable Disease
+HNSC	TCGA-T2-A6WZ	Docetaxel	Stable Disease
+HNSC	TCGA-CN-4731	Cetuximab	Clinical Progressive Disease
+HNSC	TCGA-CN-A498	Cetuximab	Clinical Progressive Disease
+HNSC	TCGA-QK-A6II	Cetuximab	Clinical Progressive Disease
+HNSC	TCGA-BA-A4IG	Cetuximab	Complete Response
+HNSC	TCGA-CN-4741	Cetuximab	Complete Response
+HNSC	TCGA-CN-A49C	Cetuximab	Complete Response
+HNSC	TCGA-CN-A6V1	Cetuximab	Complete Response
+HNSC	TCGA-HD-7753	Cetuximab	Complete Response
+HNSC	TCGA-DQ-7596	Cetuximab	Partial Response
+HNSC	TCGA-QK-A6IH	Cetuximab	Stable Disease
+HNSC	TCGA-CN-6989	Gemcitabine	Clinical Progressive Disease
+HNSC	TCGA-CN-6996	HSC vaccine injection	Clinical Progressive Disease
+HNSC	TCGA-BA-A6DL	Lapatinib	Complete Response
+HNSC	TCGA-CN-6989	Methotrexate	Clinical Progressive Disease
+HNSC	TCGA-QK-A6IG	Paclitaxel	Clinical Progressive Disease
+HNSC	TCGA-QK-A6IH	Paclitaxel	Clinical Progressive Disease
+HNSC	TCGA-QK-A6II	Paclitaxel	Clinical Progressive Disease
+HNSC	TCGA-T2-A6WX	Paclitaxel	Clinical Progressive Disease
+HNSC	TCGA-CR-5247	Paclitaxel	Complete Response
+HNSC	TCGA-CR-5248	Paclitaxel	Complete Response
+HNSC	TCGA-CR-6493	Paclitaxel	Complete Response
+HNSC	TCGA-CR-7389	Paclitaxel	Complete Response
+HNSC	TCGA-CR-7393	Paclitaxel	Complete Response
+HNSC	TCGA-CR-7397	Paclitaxel	Complete Response
+HNSC	TCGA-CR-7404	Paclitaxel	Complete Response
+HNSC	TCGA-DQ-7589	Paclitaxel	Complete Response
+HNSC	TCGA-QK-A6IF	Paclitaxel	Complete Response
+HNSC	TCGA-QK-A8Z7	Paclitaxel	Complete Response
+HNSC	TCGA-QK-A8Z9	Paclitaxel	Complete Response
+HNSC	TCGA-CR-7383	Paclitaxel	Partial Response
+HNSC	TCGA-CR-7404	Paclitaxel	Stable Disease
+HNSC	TCGA-T2-A6WZ	px-866	Stable Disease
+HNSC	TCGA-MZ-A6I9	rigosertib	Clinical Progressive Disease
+HNSC	TCGA-CN-A498	Paclitaxel	Clinical Progressive Disease
+HNSC	TCGA-P3-A6T6	Paclitaxel	Clinical Progressive Disease
+HNSC	TCGA-BA-A6DL	Paclitaxel	Complete Response
+HNSC	TCGA-DQ-7590	Paclitaxel	Complete Response
+HNSC	TCGA-DQ-7593	Paclitaxel	Complete Response
+HNSC	TCGA-DQ-7594	Paclitaxel	Complete Response
+HNSC	TCGA-CN-4731	Docetaxel	Clinical Progressive Disease
+HNSC	TCGA-CR-6491	Docetaxel	Complete Response
+HNSC	TCGA-HL-7533	Docetaxel	Complete Response
+HNSC	TCGA-CN-6996	Vorinostat	Clinical Progressive Disease
+HNSC	TCGA-CN-6996	Capecitabine	Clinical Progressive Disease
+HNSC	TCGA-HL-7533	Capecitabine	Complete Response
+KICH	TCGA-KN-8428	Sorafenib	Clinical Progressive Disease
+KICH	TCGA-KM-A7Q8	Sunitinib	Clinical Progressive Disease
+KICH	TCGA-KO-8404	Thalidomide	Clinical Progressive Disease
+KIRC	TCGA-G6-A8L6	Axitinib	Stable Disease
+KIRC	TCGA-B0-4718	Bevacizumab	Clinical Progressive Disease
+KIRC	TCGA-B0-4844	Aldesleukin	Clinical Progressive Disease
+KIRC	TCGA-B0-4841	Infliximab	Clinical Progressive Disease
+KIRC	TCGA-B0-5701	Aldesleukin	Complete Response
+KIRC	TCGA-B0-4718	Pazopanib	Clinical Progressive Disease
+KIRC	TCGA-B0-5694	Pazopanib	Clinical Progressive Disease
+KIRC	TCGA-DV-A4VX	Sorafenib	Clinical Progressive Disease
+KIRC	TCGA-DV-A4VX	Sunitinib	Stable Disease
+KIRC	TCGA-B0-5107	Sunitinib	Clinical Progressive Disease
+KIRC	TCGA-G6-A5PC	Sunitinib	Clinical Progressive Disease
+KIRC	TCGA-G6-A8L6	Sunitinib	Stable Disease
+KIRC	TCGA-B0-4844	Thalidomide	Clinical Progressive Disease
+KIRC	TCGA-B0-5094	Temsirolimus	Clinical Progressive Disease
+KIRC	TCGA-B0-4837	Tyrosine kinase inhibitor	Clinical Progressive Disease
+KIRC	TCGA-B0-5712	Zoledronate	Stable Disease
+KIRP	TCGA-IA-A83W	Doxorubicin	Complete Response
+KIRP	TCGA-A4-A57E	Everolimus	Clinical Progressive Disease
+KIRP	TCGA-G7-A8LD	Everolimus	Stable Disease
+KIRP	TCGA-MH-A855	Pemetrexed	Partial Response
+KIRP	TCGA-A4-7287	Carboplatin	Clinical Progressive Disease
+KIRP	TCGA-MH-A855	Carboplatin	Partial Response
+KIRP	TCGA-A4-7287	Cisplatin	Clinical Progressive Disease
+KIRP	TCGA-IA-A83W	Cyclophosphamide	Complete Response
+KIRP	TCGA-A4-7287	Gemcitabine	Clinical Progressive Disease
+KIRP	TCGA-SX-A7SM	Pazopanib	Partial Response
+KIRP	TCGA-IA-A83W	Rituximab	Complete Response
+KIRP	TCGA-2Z-A9J3	Sunitinib	Clinical Progressive Disease
+KIRP	TCGA-G7-7501	Sunitinib	Clinical Progressive Disease
+KIRP	TCGA-G7-A8LD	Sunitinib	Clinical Progressive Disease
+KIRP	TCGA-AL-A5DJ	Temsirolimus	Clinical Progressive Disease
+KIRP	TCGA-IA-A83W	Vincristine	Complete Response
+KIRP	TCGA-B9-4114	Pazopanib	Stable Disease
+LGG	TCGA-E1-A7YH	Bevacizumab	Clinical Progressive Disease
+LGG	TCGA-E1-A7YJ	Bevacizumab	Clinical Progressive Disease
+LGG	TCGA-E1-A7YL	Bevacizumab	Clinical Progressive Disease
+LGG	TCGA-E1-A7YM	Bevacizumab	Clinical Progressive Disease
+LGG	TCGA-E1-A7YN	Bevacizumab	Clinical Progressive Disease
+LGG	TCGA-E1-A7YV	Bevacizumab	Clinical Progressive Disease
+LGG	TCGA-E1-A7Z4	Bevacizumab	Clinical Progressive Disease
+LGG	TCGA-E1-A7Z6	Bevacizumab	Clinical Progressive Disease
+LGG	TCGA-FG-5963	Bevacizumab	Clinical Progressive Disease
+LGG	TCGA-FG-A4MW	Bevacizumab	Clinical Progressive Disease
+LGG	TCGA-HT-8013	Bevacizumab	Clinical Progressive Disease
+LGG	TCGA-HT-8564	Bevacizumab	Complete Response
+LGG	TCGA-P5-A5F2	Bevacizumab	Partial Response
+LGG	TCGA-E1-A7YH	Bevacizumab	Stable Disease
+LGG	TCGA-E1-A7YM	Bevacizumab	Stable Disease
+LGG	TCGA-E1-A7YV	Bevacizumab	Stable Disease
+LGG	TCGA-E1-A7YW	Bevacizumab	Stable Disease
+LGG	TCGA-E1-A7Z2	Bevacizumab	Stable Disease
+LGG	TCGA-E1-A7Z4	Bevacizumab	Stable Disease
+LGG	TCGA-FG-6688	Bevacizumab	Stable Disease
+LGG	TCGA-FG-5963	Carmustine	Clinical Progressive Disease
+LGG	TCGA-DU-8161	Bevacizumab	Clinical Progressive Disease
+LGG	TCGA-DU-A5TY	Bevacizumab	Clinical Progressive Disease
+LGG	TCGA-DU-A7T8	Bevacizumab	Clinical Progressive Disease
+LGG	TCGA-S9-A6TS	Bevacizumab	Clinical Progressive Disease
+LGG	TCGA-S9-A6WN	Bevacizumab	Clinical Progressive Disease
+LGG	TCGA-S9-A7IX	Bevacizumab	Clinical Progressive Disease
+LGG	TCGA-S9-A7J0	Bevacizumab	Clinical Progressive Disease
+LGG	TCGA-HW-8319	Bevacizumab	Partial Response
+LGG	TCGA-E1-A7YL	Carboplatin	Clinical Progressive Disease
+LGG	TCGA-E1-A7Z4	Carboplatin	Clinical Progressive Disease
+LGG	TCGA-E1-A7YM	Carboplatin	Stable Disease
+LGG	TCGA-FG-A711	Carboplatin	Clinical Progressive Disease
+LGG	TCGA-S9-A6U8	Carmustine	Clinical Progressive Disease
+LGG	TCGA-S9-A6TS	Carmustine	Clinical Progressive Disease
+LGG	TCGA-S9-A6U0	Carmustine	Clinical Progressive Disease
+LGG	TCGA-S9-A7J0	Carmustine	Clinical Progressive Disease
+LGG	TCGA-S9-A7R7	Carmustine	Clinical Progressive Disease
+LGG	TCGA-S9-A7IZ	Carmustine	Stable Disease
+LGG	TCGA-DU-A7TI	Carmustine	Clinical Progressive Disease
+LGG	TCGA-E1-A7YD	Lomustine	Clinical Progressive Disease
+LGG	TCGA-E1-A7YE	Lomustine	Clinical Progressive Disease
+LGG	TCGA-E1-A7YN	Lomustine	Clinical Progressive Disease
+LGG	TCGA-E1-A7YW	Lomustine	Clinical Progressive Disease
+LGG	TCGA-E1-A7Z3	Lomustine	Clinical Progressive Disease
+LGG	TCGA-E1-A7Z4	Lomustine	Clinical Progressive Disease
+LGG	TCGA-FG-A711	Lomustine	Clinical Progressive Disease
+LGG	TCGA-E1-A7YH	Lomustine	Stable Disease
+LGG	TCGA-E1-A7YQ	Lomustine	Stable Disease
+LGG	TCGA-E1-A7YY	Lomustine	Stable Disease
+LGG	TCGA-DU-A76L	Cilengtide	Clinical Progressive Disease
+LGG	TCGA-E1-A7YL	Irinotecan	Clinical Progressive Disease
+LGG	TCGA-E1-A7YV	Irinotecan	Clinical Progressive Disease
+LGG	TCGA-E1-A7Z3	Irinotecan	Clinical Progressive Disease
+LGG	TCGA-E1-A7YJ	Irinotecan	Stable Disease
+LGG	TCGA-E1-A7YM	Irinotecan	Stable Disease
+LGG	TCGA-E1-A7YW	Irinotecan	Stable Disease
+LGG	TCGA-E1-A7Z4	Cyclophosphamide	Clinical Progressive Disease
+LGG	TCGA-E1-A7YH	Erlotinib	Stable Disease
+LGG	TCGA-FG-A711	Etoposide	Clinical Progressive Disease
+LGG	TCGA-E1-A7YV	Imatinib	Clinical Progressive Disease
+LGG	TCGA-FG-A711	Hydroxyurea	Clinical Progressive Disease
+LGG	TCGA-E1-A7Z3	iodine I 131 monoclonal antibody 81C6	Clinical Progressive Disease
+LGG	TCGA-E1-A7YO	iodine I 131 monoclonal antibody 81C6	Stable Disease
+LGG	TCGA-FG-A711	Imatinib	Clinical Progressive Disease
+LGG	TCGA-S9-A7J0	Irinotecan	Clinical Progressive Disease
+LGG	TCGA-DU-8161	Irinotecan	Stable Disease
+LGG	TCGA-S9-A6WN	Lomustine	Clinical Progressive Disease
+LGG	TCGA-DU-A5TY	Lomustine	Clinical Progressive Disease
+LGG	TCGA-HW-7487	Lomustine	Clinical Progressive Disease
+LGG	TCGA-S9-A7IX	Lomustine	Clinical Progressive Disease
+LGG	TCGA-P5-A5F0	Lomustine	Partial Response
+LGG	TCGA-P5-A5F4	Lomustine	Partial Response
+LGG	TCGA-DU-8166	Lomustine	Stable Disease
+LGG	TCGA-QH-A65V	Lomustine	Stable Disease
+LGG	TCGA-QH-A65X	Lomustine	Stable Disease
+LGG	TCGA-QH-A65Z	Lomustine	Stable Disease
+LGG	TCGA-S9-A7J3	Lomustine	Stable Disease
+LGG	TCGA-DU-A7T8	Lomustine	Clinical Progressive Disease
+LGG	TCGA-TM-A84M	Lomustine	Complete Response
+LGG	TCGA-P5-A5F2	Fotemustine	Partial Response
+LGG	TCGA-S9-A7R8	Nilutamide	Clinical Progressive Disease
+LGG	TCGA-DU-A5TY	Procarbazine	Clinical Progressive Disease
+LGG	TCGA-DU-A76L	Procarbazine	Clinical Progressive Disease
+LGG	TCGA-E1-A7Z3	Procarbazine	Clinical Progressive Disease
+LGG	TCGA-HW-7487	Procarbazine	Clinical Progressive Disease
+LGG	TCGA-TM-A84M	Procarbazine	Complete Response
+LGG	TCGA-P5-A5F0	Procarbazine	Partial Response
+LGG	TCGA-P5-A5F4	Procarbazine	Partial Response
+LGG	TCGA-DU-8166	Procarbazine	Stable Disease
+LGG	TCGA-QH-A65V	Procarbazine	Stable Disease
+LGG	TCGA-QH-A65X	Procarbazine	Stable Disease
+LGG	TCGA-QH-A65Z	Procarbazine	Stable Disease
+LGG	TCGA-S9-A7J3	Procarbazine	Stable Disease
+LGG	TCGA-E1-A7Z4	Tamoxifen	Stable Disease
+LGG	TCGA-E1-A7YE	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-E1-A7YH	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-E1-A7YJ	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-E1-A7YL	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-E1-A7YM	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-E1-A7YN	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-E1-A7YQ	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-E1-A7YV	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-E1-A7YW	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-E1-A7YY	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-E1-A7Z2	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-E1-A7Z4	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-E1-A7Z6	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-FG-5963	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-FG-A711	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-HT-8011	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-HT-8013	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-HT-8564	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-HT-A5RC	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-DB-A4XD	Temozolomide	Complete Response
+LGG	TCGA-DH-A7UR	Temozolomide	Complete Response
+LGG	TCGA-FG-8185	Temozolomide	Complete Response
+LGG	TCGA-HT-7477	Temozolomide	Complete Response
+LGG	TCGA-HT-7483	Temozolomide	Complete Response
+LGG	TCGA-HT-8113	Temozolomide	Complete Response
+LGG	TCGA-HT-8114	Temozolomide	Complete Response
+LGG	TCGA-HT-A4DV	Temozolomide	Complete Response
+LGG	TCGA-HT-A619	Temozolomide	Complete Response
+LGG	TCGA-HT-A61C	Temozolomide	Complete Response
+LGG	TCGA-HT-A74K	Temozolomide	Complete Response
+LGG	TCGA-IK-8125	Temozolomide	Complete Response
+LGG	TCGA-DH-A66G	Temozolomide	Partial Response
+LGG	TCGA-HT-7604	Temozolomide	Partial Response
+LGG	TCGA-HT-8113	Temozolomide	Partial Response
+LGG	TCGA-HT-A4DV	Temozolomide	Partial Response
+LGG	TCGA-HT-A5RA	Temozolomide	Partial Response
+LGG	TCGA-VW-A7QS	Temozolomide	Partial Response
+LGG	TCGA-DB-A4XB	Temozolomide	Stable Disease
+LGG	TCGA-DB-A4XF	Temozolomide	Stable Disease
+LGG	TCGA-DB-A4XG	Temozolomide	Stable Disease
+LGG	TCGA-DB-A64O	Temozolomide	Stable Disease
+LGG	TCGA-DB-A64P	Temozolomide	Stable Disease
+LGG	TCGA-DB-A64V	Temozolomide	Stable Disease
+LGG	TCGA-DB-A64W	Temozolomide	Stable Disease
+LGG	TCGA-DB-A64X	Temozolomide	Stable Disease
+LGG	TCGA-DH-A7UT	Temozolomide	Stable Disease
+LGG	TCGA-DH-A7UU	Temozolomide	Stable Disease
+LGG	TCGA-DH-A7UV	Temozolomide	Stable Disease
+LGG	TCGA-DU-A5TS	Temozolomide	Stable Disease
+LGG	TCGA-E1-A7YH	Temozolomide	Stable Disease
+LGG	TCGA-E1-A7YJ	Temozolomide	Stable Disease
+LGG	TCGA-E1-A7YK	Temozolomide	Stable Disease
+LGG	TCGA-E1-A7YN	Temozolomide	Stable Disease
+LGG	TCGA-E1-A7YQ	Temozolomide	Stable Disease
+LGG	TCGA-E1-A7YS	Temozolomide	Stable Disease
+LGG	TCGA-E1-A7YY	Temozolomide	Stable Disease
+LGG	TCGA-E1-A7Z2	Temozolomide	Stable Disease
+LGG	TCGA-E1-A7Z4	Temozolomide	Stable Disease
+LGG	TCGA-E1-A7Z6	Temozolomide	Stable Disease
+LGG	TCGA-FG-6689	Temozolomide	Stable Disease
+LGG	TCGA-FG-7638	Temozolomide	Stable Disease
+LGG	TCGA-FG-8181	Temozolomide	Stable Disease
+LGG	TCGA-FG-8185	Temozolomide	Stable Disease
+LGG	TCGA-FG-8189	Temozolomide	Stable Disease
+LGG	TCGA-FG-8191	Temozolomide	Stable Disease
+LGG	TCGA-FG-A4MW	Temozolomide	Stable Disease
+LGG	TCGA-FG-A6J3	Temozolomide	Stable Disease
+LGG	TCGA-FG-A70Y	Temozolomide	Stable Disease
+LGG	TCGA-FG-A710	Temozolomide	Stable Disease
+LGG	TCGA-HT-7884	Temozolomide	Stable Disease
+LGG	TCGA-HT-8011	Temozolomide	Stable Disease
+LGG	TCGA-VM-A8CE	Temozolomide	Stable Disease
+LGG	TCGA-VM-A8CF	Temozolomide	Stable Disease
+LGG	TCGA-VV-A829	Temozolomide	Stable Disease
+LGG	TCGA-WH-A86K	Temozolomide	Stable Disease
+LGG	TCGA-S9-A6TS	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-S9-A7R8	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-S9-A6TV	Temozolomide	Stable Disease
+LGG	TCGA-S9-A7R1	Temozolomide	Stable Disease
+LGG	TCGA-S9-A7R7	Temozolomide	Stable Disease
+LGG	TCGA-DU-8161	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-DU-8166	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-DU-A5TY	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-DU-A76K	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-DU-A76L	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-DU-A76R	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-DU-A7T8	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-DU-A7TB	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-DU-A7TD	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-DU-A7TI	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-HW-7487	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-HW-A5KJ	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-HW-A5KK	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-KT-A7W1	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-QH-A6X4	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-QH-A6XC	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-S9-A6U8	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-S9-A7IX	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-S9-A89V	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-TM-A84B	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-TM-A84C	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-TM-A84L	Temozolomide	Clinical Progressive Disease
+LGG	TCGA-DB-A75K	Temozolomide	Complete Response
+LGG	TCGA-FN-7833	Temozolomide	Complete Response
+LGG	TCGA-S9-A6TX	Temozolomide	Complete Response
+LGG	TCGA-S9-A6U1	Temozolomide	Complete Response
+LGG	TCGA-HW-8319	Temozolomide	Partial Response
+LGG	TCGA-P5-A5EX	Temozolomide	Partial Response
+LGG	TCGA-DH-A66B	Temozolomide	Stable Disease
+LGG	TCGA-DH-A66D	Temozolomide	Stable Disease
+LGG	TCGA-DU-8161	Temozolomide	Stable Disease
+LGG	TCGA-DU-8162	Temozolomide	Stable Disease
+LGG	TCGA-DU-8163	Temozolomide	Stable Disease
+LGG	TCGA-DU-8165	Temozolomide	Stable Disease
+LGG	TCGA-DU-8168	Temozolomide	Stable Disease
+LGG	TCGA-DU-A5TP	Temozolomide	Stable Disease
+LGG	TCGA-DU-A5TU	Temozolomide	Stable Disease
+LGG	TCGA-DU-A5TY	Temozolomide	Stable Disease
+LGG	TCGA-DU-A6S6	Temozolomide	Stable Disease
+LGG	TCGA-DU-A6S7	Temozolomide	Stable Disease
+LGG	TCGA-DU-A76L	Temozolomide	Stable Disease
+LGG	TCGA-DU-A76O	Temozolomide	Stable Disease
+LGG	TCGA-DU-A7T8	Temozolomide	Stable Disease
+LGG	TCGA-DU-A7TA	Temozolomide	Stable Disease
+LGG	TCGA-DU-A7TB	Temozolomide	Stable Disease
+LGG	TCGA-DU-A7TD	Temozolomide	Stable Disease
+LGG	TCGA-HW-8319	Temozolomide	Stable Disease
+LGG	TCGA-HW-8320	Temozolomide	Stable Disease
+LGG	TCGA-HW-8321	Temozolomide	Stable Disease
+LGG	TCGA-HW-A5KJ	Temozolomide	Stable Disease
+LGG	TCGA-HW-A5KL	Temozolomide	Stable Disease
+LGG	TCGA-KT-A74X	Temozolomide	Stable Disease
+LGG	TCGA-QH-A65R	Temozolomide	Stable Disease
+LGG	TCGA-QH-A65X	Temozolomide	Stable Disease
+LGG	TCGA-QH-A6CS	Temozolomide	Stable Disease
+LGG	TCGA-QH-A6CY	Temozolomide	Stable Disease
+LGG	TCGA-QH-A6X8	Temozolomide	Stable Disease
+LGG	TCGA-S9-A6TW	Temozolomide	Stable Disease
+LGG	TCGA-S9-A6TY	Temozolomide	Stable Disease
+LGG	TCGA-S9-A6U0	Temozolomide	Stable Disease
+LGG	TCGA-S9-A6U8	Temozolomide	Stable Disease
+LGG	TCGA-S9-A6WD	Temozolomide	Stable Disease
+LGG	TCGA-S9-A6WG	Temozolomide	Stable Disease
+LGG	TCGA-S9-A6WM	Temozolomide	Stable Disease
+LGG	TCGA-S9-A6WN	Temozolomide	Stable Disease
+LGG	TCGA-S9-A7J0	Temozolomide	Stable Disease
+LGG	TCGA-S9-A7QW	Temozolomide	Stable Disease
+LGG	TCGA-S9-A7QY	Temozolomide	Stable Disease
+LGG	TCGA-S9-A7R4	Temozolomide	Stable Disease
+LGG	TCGA-S9-A7R7	Temozolomide	Stable Disease
+LGG	TCGA-S9-A89Z	Temozolomide	Stable Disease
+LGG	TCGA-VM-A8C8	Temozolomide	Stable Disease
+LGG	TCGA-E1-A7Z4	Thalidomide	Clinical Progressive Disease
+LGG	TCGA-P5-A5F2	Themozolomide	Partial Response
+LGG	TCGA-E1-A7Z3	Vincristine	Clinical Progressive Disease
+LGG	TCGA-TM-A84M	Vincristine	Complete Response
+LGG	TCGA-P5-A5F0	Vincristine	Partial Response
+LGG	TCGA-P5-A5F4	Vincristine	Partial Response
+LGG	TCGA-QH-A65V	Vincristine	Stable Disease
+LGG	TCGA-QH-A65X	Vincristine	Stable Disease
+LGG	TCGA-QH-A65Z	Vincristine	Stable Disease
+LGG	TCGA-S9-A7J3	Vincristine	Stable Disease
+LGG	TCGA-VM-A8CE	Vincristine	Stable Disease
+LGG	TCGA-HW-7487	Vincristine	Clinical Progressive Disease
+LGG	TCGA-E1-A7YE	Etoposide	Clinical Progressive Disease
+LGG	TCGA-E1-A7YH	Etoposide	Clinical Progressive Disease
+LGG	TCGA-E1-A7YL	Etoposide	Clinical Progressive Disease
+LGG	TCGA-E1-A7YW	Etoposide	Clinical Progressive Disease
+LGG	TCGA-E1-A7YY	Etoposide	Clinical Progressive Disease
+LGG	TCGA-E1-A7YM	Etoposide	Stable Disease
+LIHC	TCGA-UB-A7MB	Fluorouracil	Clinical Progressive Disease
+LIHC	TCGA-DD-A4NS	veliparib	Clinical Progressive Disease
+LIHC	TCGA-DD-A11D	Temozolomide	Partial Response
+LIHC	TCGA-DD-A4ND	doxorubicin/cyclophosphamide	Complete Response
+LIHC	TCGA-ED-A459	NA	Complete Response
+LIHC	TCGA-UB-A7MA	Cisplatin	Clinical Progressive Disease
+LIHC	TCGA-DD-A1EH	Doxorubicin	Partial Response
+LIHC	TCGA-2Y-A9H8	Everolimus	Stable Disease
+LIHC	TCGA-DD-A1EH	Everolimus, Gemcitabine, and Cisplatin	Clinical Progressive Disease
+LIHC	TCGA-DD-A3A4	Gemcitabine	Clinical Progressive Disease
+LIHC	TCGA-FV-A3I0	Gemcitabine	Clinical Progressive Disease
+LIHC	TCGA-UB-A7MA	Gemcitabine	Clinical Progressive Disease
+LIHC	TCGA-DD-A4NS	LY228820	Clinical Progressive Disease
+LIHC	TCGA-2Y-A9GV	Sorafenib	Clinical Progressive Disease
+LIHC	TCGA-BW-A5NP	Sorafenib	Clinical Progressive Disease
+LIHC	TCGA-CC-A8HV	Sorafenib	Clinical Progressive Disease
+LIHC	TCGA-BC-A8YO	Sorafenib	Partial Response
+LIHC	TCGA-UB-A7MB	Oxaliplatin	Clinical Progressive Disease
+LIHC	TCGA-DD-A11D	Sorafenib	Clinical Progressive Disease
+LIHC	TCGA-DD-A1EJ	Sorafenib	Clinical Progressive Disease
+LIHC	TCGA-DD-A1EK	Sorafenib	Clinical Progressive Disease
+LIHC	TCGA-DD-A4NH	Sorafenib	Clinical Progressive Disease
+LIHC	TCGA-DD-A4NS	Sorafenib	Clinical Progressive Disease
+LIHC	TCGA-G3-A25S	Sorafenib	Clinical Progressive Disease
+LIHC	TCGA-G3-A3CJ	Sorafenib	Clinical Progressive Disease
+LIHC	TCGA-G3-A5SI	Sorafenib	Clinical Progressive Disease
+LIHC	TCGA-UB-A7MB	Sorafenib	Clinical Progressive Disease
+LIHC	TCGA-WX-AA47	Sorafenib	Clinical Progressive Disease
+LIHC	TCGA-DD-A1EH	Sorafenib	Partial Response
+LIHC	TCGA-G3-A3CG	Sorafenib	Stable Disease
+LIHC	TCGA-G3-A25S	Sunitinib	Clinical Progressive Disease
+LIHC	TCGA-DD-A4NS	Temozolomide	Clinical Progressive Disease
+LIHC	TCGA-DD-A11D	Temozolomide	Stable Disease
+LUAD	TCGA-53-7624	Paclitaxel	Clinical Progressive Disease
+LUAD	TCGA-50-5055	Pemetrexed	Clinical Progressive Disease
+LUAD	TCGA-55-7281	Pemetrexed	Clinical Progressive Disease
+LUAD	TCGA-55-7914	Pemetrexed	Clinical Progressive Disease
+LUAD	TCGA-55-8615	Pemetrexed	Clinical Progressive Disease
+LUAD	TCGA-44-A47F	Pemetrexed	Complete Response
+LUAD	TCGA-50-8459	Pemetrexed	Complete Response
+LUAD	TCGA-55-7576	Pemetrexed	Complete Response
+LUAD	TCGA-55-8205	Pemetrexed	Complete Response
+LUAD	TCGA-55-8505	Pemetrexed	Complete Response
+LUAD	TCGA-55-A48X	Pemetrexed	Complete Response
+LUAD	TCGA-55-A48Y	Pemetrexed	Complete Response
+LUAD	TCGA-73-4675	Pemetrexed	Complete Response
+LUAD	TCGA-86-A4P8	Pemetrexed	Complete Response
+LUAD	TCGA-55-7283	Pemetrexed	Partial Response
+LUAD	TCGA-97-8176	Pemetrexed	Partial Response
+LUAD	TCGA-55-A48Z	Pemetrexed	Stable Disease
+LUAD	TCGA-95-A4VK	Pemetrexed	Stable Disease
+LUAD	TCGA-64-5815	Pemetrexed	Complete Response
+LUAD	TCGA-55-7914	Bevacizumab	Clinical Progressive Disease
+LUAD	TCGA-50-8459	Bevacizumab	Complete Response
+LUAD	TCGA-55-7281	Bevacizumab	Partial Response
+LUAD	TCGA-55-7574	Bevacizumab	Partial Response
+LUAD	TCGA-50-5066	Bevacizumab	Stable Disease
+LUAD	TCGA-73-4675	Bevacizumab	Stable Disease
+LUAD	TCGA-53-7624	Bevacizumab	Clinical Progressive Disease
+LUAD	TCGA-73-A9RS	Bevacizumab	Clinical Progressive Disease
+LUAD	TCGA-64-5781	Bevacizumab	Complete Response
+LUAD	TCGA-05-5425	Carboplatin	Clinical Progressive Disease
+LUAD	TCGA-50-5055	Carboplatin	Clinical Progressive Disease
+LUAD	TCGA-50-5072	Carboplatin	Clinical Progressive Disease
+LUAD	TCGA-50-6595	Carboplatin	Clinical Progressive Disease
+LUAD	TCGA-55-6712	Carboplatin	Clinical Progressive Disease
+LUAD	TCGA-55-6979	Carboplatin	Clinical Progressive Disease
+LUAD	TCGA-55-7281	Carboplatin	Clinical Progressive Disease
+LUAD	TCGA-55-7914	Carboplatin	Clinical Progressive Disease
+LUAD	TCGA-55-8615	Carboplatin	Clinical Progressive Disease
+LUAD	TCGA-69-7974	Carboplatin	Clinical Progressive Disease
+LUAD	TCGA-73-A9RS	Carboplatin	Clinical Progressive Disease
+LUAD	TCGA-J2-8194	Carboplatin	Clinical Progressive Disease
+LUAD	TCGA-05-4398	Carboplatin	Complete Response
+LUAD	TCGA-05-4402	Carboplatin	Complete Response
+LUAD	TCGA-50-5933	Carboplatin	Complete Response
+LUAD	TCGA-50-6590	Carboplatin	Complete Response
+LUAD	TCGA-55-1596	Carboplatin	Complete Response
+LUAD	TCGA-55-5899	Carboplatin	Complete Response
+LUAD	TCGA-55-7994	Carboplatin	Complete Response
+LUAD	TCGA-55-7995	Carboplatin	Complete Response
+LUAD	TCGA-55-8205	Carboplatin	Complete Response
+LUAD	TCGA-55-A48X	Carboplatin	Complete Response
+LUAD	TCGA-55-A48Y	Carboplatin	Complete Response
+LUAD	TCGA-62-8398	Carboplatin	Complete Response
+LUAD	TCGA-62-A46U	Carboplatin	Complete Response
+LUAD	TCGA-64-5815	Carboplatin	Complete Response
+LUAD	TCGA-73-4675	Carboplatin	Complete Response
+LUAD	TCGA-73-7498	Carboplatin	Complete Response
+LUAD	TCGA-86-7954	Carboplatin	Complete Response
+LUAD	TCGA-97-8547	Carboplatin	Complete Response
+LUAD	TCGA-49-AAR4	Carboplatin	Partial Response
+LUAD	TCGA-50-5051	Carboplatin	Partial Response
+LUAD	TCGA-55-7281	Carboplatin	Partial Response
+LUAD	TCGA-55-7283	Carboplatin	Partial Response
+LUAD	TCGA-55-8301	Carboplatin	Partial Response
+LUAD	TCGA-93-A4JP	Carboplatin	Partial Response
+LUAD	TCGA-97-8176	Carboplatin	Partial Response
+LUAD	TCGA-50-5066	Carboplatin	Stable Disease
+LUAD	TCGA-53-7813	Carboplatin	Stable Disease
+LUAD	TCGA-55-7227	Carboplatin	Stable Disease
+LUAD	TCGA-73-4675	Carboplatin	Stable Disease
+LUAD	TCGA-93-A4JN	Carboplatin	Stable Disease
+LUAD	TCGA-95-A4VP	Carboplatin	Stable Disease
+LUAD	TCGA-NJ-A7XG	Carboplatin	Stable Disease
+LUAD	TCGA-53-7624	Carboplatin	Clinical Progressive Disease
+LUAD	TCGA-55-6984	Chemo, Multi-Agent, NOS	Complete Response
+LUAD	TCGA-55-7815	Chemo, NOS	Clinical Progressive Disease
+LUAD	TCGA-55-6981	Chemo, NOS	Complete Response
+LUAD	TCGA-55-6983	Chemo, NOS	Complete Response
+LUAD	TCGA-05-4384	Cisplatin	Clinical Progressive Disease
+LUAD	TCGA-53-7624	Cisplatin	Clinical Progressive Disease
+LUAD	TCGA-53-7626	Cisplatin	Clinical Progressive Disease
+LUAD	TCGA-71-6725	Cisplatin	Clinical Progressive Disease
+LUAD	TCGA-86-8674	Cisplatin	Clinical Progressive Disease
+LUAD	TCGA-05-4390	Cisplatin	Complete Response
+LUAD	TCGA-05-4427	Cisplatin	Complete Response
+LUAD	TCGA-05-4432	Cisplatin	Complete Response
+LUAD	TCGA-05-5428	Cisplatin	Complete Response
+LUAD	TCGA-44-8117	Cisplatin	Complete Response
+LUAD	TCGA-44-A47F	Cisplatin	Complete Response
+LUAD	TCGA-50-5941	Cisplatin	Complete Response
+LUAD	TCGA-50-8459	Cisplatin	Complete Response
+LUAD	TCGA-53-A4EZ	Cisplatin	Complete Response
+LUAD	TCGA-55-7576	Cisplatin	Complete Response
+LUAD	TCGA-55-7910	Cisplatin	Complete Response
+LUAD	TCGA-55-8505	Cisplatin	Complete Response
+LUAD	TCGA-55-8508	Cisplatin	Complete Response
+LUAD	TCGA-62-A46Y	Cisplatin	Complete Response
+LUAD	TCGA-62-A471	Cisplatin	Complete Response
+LUAD	TCGA-64-5779	Cisplatin	Complete Response
+LUAD	TCGA-64-5781	Cisplatin	Complete Response
+LUAD	TCGA-69-7973	Cisplatin	Complete Response
+LUAD	TCGA-73-4675	Cisplatin	Complete Response
+LUAD	TCGA-73-7498	Cisplatin	Complete Response
+LUAD	TCGA-86-7701	Cisplatin	Complete Response
+LUAD	TCGA-86-7711	Cisplatin	Complete Response
+LUAD	TCGA-86-7713	Cisplatin	Complete Response
+LUAD	TCGA-86-7955	Cisplatin	Complete Response
+LUAD	TCGA-86-8054	Cisplatin	Complete Response
+LUAD	TCGA-86-8075	Cisplatin	Complete Response
+LUAD	TCGA-86-8076	Cisplatin	Complete Response
+LUAD	TCGA-86-8279	Cisplatin	Complete Response
+LUAD	TCGA-86-8280	Cisplatin	Complete Response
+LUAD	TCGA-86-8669	Cisplatin	Complete Response
+LUAD	TCGA-86-8671	Cisplatin	Complete Response
+LUAD	TCGA-86-A4D0	Cisplatin	Complete Response
+LUAD	TCGA-86-A4P8	Cisplatin	Complete Response
+LUAD	TCGA-91-6848	Cisplatin	Complete Response
+LUAD	TCGA-91-7771	Cisplatin	Complete Response
+LUAD	TCGA-L9-A743	Cisplatin	Complete Response
+LUAD	TCGA-L9-A7SV	Cisplatin	Complete Response
+LUAD	TCGA-MP-A4T9	Cisplatin	Complete Response
+LUAD	TCGA-MP-A4TC	Cisplatin	Complete Response
+LUAD	TCGA-MP-A4TD	Cisplatin	Complete Response
+LUAD	TCGA-MP-A4TF	Cisplatin	Partial Response
+LUAD	TCGA-55-6970	Cisplatin	Stable Disease
+LUAD	TCGA-55-A48Z	Cisplatin	Stable Disease
+LUAD	TCGA-69-A59K	Cisplatin	Stable Disease
+LUAD	TCGA-86-8278	Cisplatin	Stable Disease
+LUAD	TCGA-95-A4VK	Cisplatin	Stable Disease
+LUAD	TCGA-NJ-A7XG	Cisplatin	Stable Disease
+LUAD	TCGA-53-7624	Docetaxel	Clinical Progressive Disease
+LUAD	TCGA-73-A9RS	Docetaxel	Clinical Progressive Disease
+LUAD	TCGA-44-8117	Docetaxel	Complete Response
+LUAD	TCGA-50-5941	Docetaxel	Complete Response
+LUAD	TCGA-91-6848	Docetaxel	Complete Response
+LUAD	TCGA-86-7701	Docetaxel	Stable Disease
+LUAD	TCGA-J2-8194	Docetaxel	Stable Disease
+LUAD	TCGA-53-7624	Erlotinib	Clinical Progressive Disease
+LUAD	TCGA-05-4402	Erlotinib	Complete Response
+LUAD	TCGA-71-6725	Etoposide	Clinical Progressive Disease
+LUAD	TCGA-05-4398	Etoposide	Complete Response
+LUAD	TCGA-86-7701	Etoposide	Complete Response
+LUAD	TCGA-86-7711	Etoposide	Complete Response
+LUAD	TCGA-86-7713	Etoposide	Complete Response
+LUAD	TCGA-86-8075	Etoposide	Complete Response
+LUAD	TCGA-86-8076	Etoposide	Complete Response
+LUAD	TCGA-86-8279	Etoposide	Complete Response
+LUAD	TCGA-86-8280	Etoposide	Complete Response
+LUAD	TCGA-86-8669	Etoposide	Complete Response
+LUAD	TCGA-86-8671	Etoposide	Complete Response
+LUAD	TCGA-86-A4D0	Etoposide	Complete Response
+LUAD	TCGA-86-8278	Etoposide	Stable Disease
+LUAD	TCGA-05-5425	Gefitinib	Clinical Progressive Disease
+LUAD	TCGA-53-7624	Gemcitabine	Clinical Progressive Disease
+LUAD	TCGA-J2-8194	Gemcitabine	Clinical Progressive Disease
+LUAD	TCGA-62-A471	Gemcitabine	Complete Response
+LUAD	TCGA-64-5781	Gemcitabine	Complete Response
+LUAD	TCGA-64-5815	Gemcitabine	Complete Response
+LUAD	TCGA-86-7955	Gemcitabine	Complete Response
+LUAD	TCGA-MP-A4T9	Gemcitabine	Complete Response
+LUAD	TCGA-MP-A4TD	Gemcitabine	Complete Response
+LUAD	TCGA-55-6982	Gemcitabine	Clinical Progressive Disease
+LUAD	TCGA-53-7624	Irinotecan	Clinical Progressive Disease
+LUAD	TCGA-55-6982	Vinorelbine	Clinical Progressive Disease
+LUAD	TCGA-53-A4EZ	Vinorelbine	Complete Response
+LUAD	TCGA-62-A46U	Vinorelbine	Complete Response
+LUAD	TCGA-62-A46Y	Vinorelbine	Complete Response
+LUAD	TCGA-MP-A4TC	Vinorelbine	Complete Response
+LUAD	TCGA-MP-A4TF	Vinorelbine	Partial Response
+LUAD	TCGA-05-5425	Paclitaxel	Clinical Progressive Disease
+LUAD	TCGA-50-5055	Paclitaxel	Clinical Progressive Disease
+LUAD	TCGA-73-A9RS	Paclitaxel	Clinical Progressive Disease
+LUAD	TCGA-50-6590	Paclitaxel	Complete Response
+LUAD	TCGA-55-7995	Paclitaxel	Complete Response
+LUAD	TCGA-86-8054	Paclitaxel	Complete Response
+LUAD	TCGA-53-7624	Pemetrexed	Clinical Progressive Disease
+LUAD	TCGA-55-7227	Pemetrexed	Clinical Progressive Disease
+LUAD	TCGA-69-7974	Pemetrexed	Clinical Progressive Disease
+LUAD	TCGA-73-A9RS	Pemetrexed	Clinical Progressive Disease
+LUAD	TCGA-55-8508	Pemetrexed	Complete Response
+LUAD	TCGA-64-5779	Pemetrexed	Complete Response
+LUAD	TCGA-69-7973	Pemetrexed	Complete Response
+LUAD	TCGA-73-7498	Pemetrexed	Complete Response
+LUAD	TCGA-91-7771	Pemetrexed	Complete Response
+LUAD	TCGA-55-7227	Pemetrexed	Stable Disease
+LUAD	TCGA-69-A59K	Pemetrexed	Stable Disease
+LUAD	TCGA-NJ-A7XG	Pemetrexed	Stable Disease
+LUAD	TCGA-L9-A7SV	Pemetrexed	Complete Response
+LUAD	TCGA-44-7660	NA	Clinical Progressive Disease
+LUAD	TCGA-55-6982	Erlotinib	Clinical Progressive Disease
+LUAD	TCGA-55-8513	Erlotinib	Clinical Progressive Disease
+LUAD	TCGA-64-5778	Erlotinib	Clinical Progressive Disease
+LUAD	TCGA-73-4675	Erlotinib	Clinical Progressive Disease
+LUAD	TCGA-50-5055	Tamoxifen	Clinical Progressive Disease
+LUAD	TCGA-50-5068	Paclitaxel	Clinical Progressive Disease
+LUAD	TCGA-50-5072	Paclitaxel	Clinical Progressive Disease
+LUAD	TCGA-50-5936	Paclitaxel	Clinical Progressive Disease
+LUAD	TCGA-55-6712	Paclitaxel	Clinical Progressive Disease
+LUAD	TCGA-55-6979	Paclitaxel	Clinical Progressive Disease
+LUAD	TCGA-55-8615	Paclitaxel	Clinical Progressive Disease
+LUAD	TCGA-49-AAR2	Paclitaxel	Complete Response
+LUAD	TCGA-50-5933	Paclitaxel	Complete Response
+LUAD	TCGA-55-1596	Paclitaxel	Complete Response
+LUAD	TCGA-55-5899	Paclitaxel	Complete Response
+LUAD	TCGA-55-7994	Paclitaxel	Complete Response
+LUAD	TCGA-86-7954	Paclitaxel	Complete Response
+LUAD	TCGA-97-8547	Paclitaxel	Complete Response
+LUAD	TCGA-49-AAR4	Paclitaxel	Partial Response
+LUAD	TCGA-50-5051	Paclitaxel	Partial Response
+LUAD	TCGA-55-7281	Paclitaxel	Partial Response
+LUAD	TCGA-55-8301	Paclitaxel	Partial Response
+LUAD	TCGA-50-5066	Paclitaxel	Stable Disease
+LUAD	TCGA-53-7813	Paclitaxel	Stable Disease
+LUAD	TCGA-95-A4VP	Paclitaxel	Stable Disease
+LUAD	TCGA-50-5055	Docetaxel	Clinical Progressive Disease
+LUAD	TCGA-50-5930	Docetaxel	Clinical Progressive Disease
+LUAD	TCGA-53-7626	Docetaxel	Clinical Progressive Disease
+LUAD	TCGA-L9-A743	Docetaxel	Complete Response
+LUAD	TCGA-55-6970	Docetaxel	Stable Disease
+LUAD	TCGA-73-4675	Docetaxel	Stable Disease
+LUAD	TCGA-55-7574	Topotecan	Partial Response
+LUAD	TCGA-86-7955	Etoposide	Complete Response
+LUAD	TCGA-86-8674	Vinblastine	Clinical Progressive Disease
+LUAD	TCGA-62-8398	Vinorelbine	Complete Response
+LUAD	TCGA-05-4384	Vinorelbine	Clinical Progressive Disease
+LUAD	TCGA-53-7624	Vinorelbine	Clinical Progressive Disease
+LUAD	TCGA-05-4390	Vinorelbine	Complete Response
+LUAD	TCGA-05-4402	Vinorelbine	Complete Response
+LUAD	TCGA-05-4427	Vinorelbine	Complete Response
+LUAD	TCGA-05-4432	Vinorelbine	Complete Response
+LUAD	TCGA-05-5428	Vinorelbine	Complete Response
+LUAD	TCGA-62-A471	Vinorelbine	Complete Response
+LUAD	TCGA-MP-A4T9	Vinorelbine	Complete Response
+LUAD	TCGA-55-6970	Etoposide	Stable Disease
+LUAD	TCGA-05-4384	Zoledronate	Clinical Progressive Disease
+LUAD	TCGA-86-7701	Zoledronate	Stable Disease
+LUSC	TCGA-NC-A5HJ	Pemetrexed	Clinical Progressive Disease
+LUSC	TCGA-56-7222	Carboplatin	Clinical Progressive Disease
+LUSC	TCGA-56-7579	Carboplatin	Clinical Progressive Disease
+LUSC	TCGA-56-8625	Carboplatin	Clinical Progressive Disease
+LUSC	TCGA-66-2757	Carboplatin	Clinical Progressive Disease
+LUSC	TCGA-68-A59I	Carboplatin	Clinical Progressive Disease
+LUSC	TCGA-85-8664	Carboplatin	Clinical Progressive Disease
+LUSC	TCGA-NC-A5HT	Carboplatin	Clinical Progressive Disease
+LUSC	TCGA-NK-A5D1	Carboplatin	Clinical Progressive Disease
+LUSC	TCGA-18-3415	Carboplatin	Complete Response
+LUSC	TCGA-43-6647	Carboplatin	Complete Response
+LUSC	TCGA-43-A474	Carboplatin	Complete Response
+LUSC	TCGA-43-A56V	Carboplatin	Complete Response
+LUSC	TCGA-56-8624	Carboplatin	Complete Response
+LUSC	TCGA-56-A4BW	Carboplatin	Complete Response
+LUSC	TCGA-56-A62T	Carboplatin	Complete Response
+LUSC	TCGA-58-8391	Carboplatin	Complete Response
+LUSC	TCGA-58-A46J	Carboplatin	Complete Response
+LUSC	TCGA-58-A46K	Carboplatin	Complete Response
+LUSC	TCGA-58-A46L	Carboplatin	Complete Response
+LUSC	TCGA-66-2759	Carboplatin	Complete Response
+LUSC	TCGA-66-2771	Carboplatin	Complete Response
+LUSC	TCGA-66-2792	Carboplatin	Complete Response
+LUSC	TCGA-92-8063	Carboplatin	Complete Response
+LUSC	TCGA-96-A4JL	Carboplatin	Complete Response
+LUSC	TCGA-NC-A5HO	Carboplatin	Complete Response
+LUSC	TCGA-NC-A5HQ	Carboplatin	Complete Response
+LUSC	TCGA-NC-A5HR	Carboplatin	Complete Response
+LUSC	TCGA-NC-A5HT	Carboplatin	Partial Response
+LUSC	TCGA-56-8308	Carboplatin	Stable Disease
+LUSC	TCGA-56-A4BX	Chemo, NOS	Complete Response
+LUSC	TCGA-18-3412	Cisplatin	Clinical Progressive Disease
+LUSC	TCGA-56-8625	Cisplatin	Clinical Progressive Disease
+LUSC	TCGA-NC-A5HJ	Cisplatin	Clinical Progressive Disease
+LUSC	TCGA-NC-A5HP	Cisplatin	Clinical Progressive Disease
+LUSC	TCGA-18-3415	Cisplatin	Complete Response
+LUSC	TCGA-34-5240	Cisplatin	Complete Response
+LUSC	TCGA-43-A475	Cisplatin	Complete Response
+LUSC	TCGA-56-7222	Cisplatin	Complete Response
+LUSC	TCGA-56-7823	Cisplatin	Complete Response
+LUSC	TCGA-56-8629	Cisplatin	Complete Response
+LUSC	TCGA-58-8387	Cisplatin	Complete Response
+LUSC	TCGA-66-2758	Cisplatin	Complete Response
+LUSC	TCGA-66-2778	Cisplatin	Complete Response
+LUSC	TCGA-66-2783	Cisplatin	Complete Response
+LUSC	TCGA-85-7697	Cisplatin	Complete Response
+LUSC	TCGA-85-7698	Cisplatin	Complete Response
+LUSC	TCGA-85-7699	Cisplatin	Complete Response
+LUSC	TCGA-85-8276	Cisplatin	Complete Response
+LUSC	TCGA-85-8351	Cisplatin	Complete Response
+LUSC	TCGA-85-A50Z	Cisplatin	Complete Response
+LUSC	TCGA-85-A512	Cisplatin	Complete Response
+LUSC	TCGA-90-6837	Cisplatin	Complete Response
+LUSC	TCGA-90-A4EE	Cisplatin	Complete Response
+LUSC	TCGA-90-A59Q	Cisplatin	Complete Response
+LUSC	TCGA-96-A4JK	Cisplatin	Complete Response
+LUSC	TCGA-J1-A4AH	Cisplatin	Complete Response
+LUSC	TCGA-L3-A524	Cisplatin	Complete Response
+LUSC	TCGA-NC-A5HE	Cisplatin	Complete Response
+LUSC	TCGA-NC-A5HG	Cisplatin	Complete Response
+LUSC	TCGA-NC-A5HI	Cisplatin	Complete Response
+LUSC	TCGA-NC-A5HK	Cisplatin	Complete Response
+LUSC	TCGA-85-6798	Cisplatin	Stable Disease
+LUSC	TCGA-68-A59I	Docetaxel	Clinical Progressive Disease
+LUSC	TCGA-85-7699	Docetaxel	Clinical Progressive Disease
+LUSC	TCGA-NC-A5HP	Docetaxel	Clinical Progressive Disease
+LUSC	TCGA-58-A46L	Docetaxel	Complete Response
+LUSC	TCGA-90-A4EE	Docetaxel	Complete Response
+LUSC	TCGA-56-7822	Oxaliplatin	Clinical Progressive Disease
+LUSC	TCGA-52-7812	Erlotinib	Clinical Progressive Disease
+LUSC	TCGA-85-7697	Etoposide	Complete Response
+LUSC	TCGA-85-7698	Etoposide	Complete Response
+LUSC	TCGA-85-7699	Etoposide	Complete Response
+LUSC	TCGA-85-8276	Etoposide	Complete Response
+LUSC	TCGA-85-8351	Etoposide	Complete Response
+LUSC	TCGA-85-6798	Etoposide	Stable Disease
+LUSC	TCGA-66-2757	Gemcitabine	Clinical Progressive Disease
+LUSC	TCGA-NC-A5HT	Gemcitabine	Clinical Progressive Disease
+LUSC	TCGA-NK-A5D1	Gemcitabine	Clinical Progressive Disease
+LUSC	TCGA-56-7823	Gemcitabine	Complete Response
+LUSC	TCGA-56-8629	Gemcitabine	Complete Response
+LUSC	TCGA-58-8391	Gemcitabine	Complete Response
+LUSC	TCGA-90-6837	Gemcitabine	Complete Response
+LUSC	TCGA-96-A4JK	Gemcitabine	Complete Response
+LUSC	TCGA-J1-A4AH	Gemcitabine	Complete Response
+LUSC	TCGA-L3-A524	Gemcitabine	Complete Response
+LUSC	TCGA-33-AASI	Gemcitabine	Stable Disease
+LUSC	TCGA-43-5668	Gemcitabine	Clinical Progressive Disease
+LUSC	TCGA-56-7579	Gemcitabine	Clinical Progressive Disease
+LUSC	TCGA-56-8625	Gemcitabine	Clinical Progressive Disease
+LUSC	TCGA-NC-A5HP	Gemcitabine	Clinical Progressive Disease
+LUSC	TCGA-56-7222	Gemcitabine	Complete Response
+LUSC	TCGA-96-A4JL	Gemcitabine	Complete Response
+LUSC	TCGA-NC-A5HP	Vinorelbine	Clinical Progressive Disease
+LUSC	TCGA-18-3415	Vinorelbine	Complete Response
+LUSC	TCGA-58-8387	Vinorelbine	Complete Response
+LUSC	TCGA-58-A46J	Vinorelbine	Complete Response
+LUSC	TCGA-58-A46K	Vinorelbine	Complete Response
+LUSC	TCGA-NC-A5HE	Vinorelbine	Complete Response
+LUSC	TCGA-NC-A5HG	Vinorelbine	Complete Response
+LUSC	TCGA-NC-A5HI	Vinorelbine	Complete Response
+LUSC	TCGA-NC-A5HK	Vinorelbine	Complete Response
+LUSC	TCGA-NC-A5HO	Vinorelbine	Complete Response
+LUSC	TCGA-NC-A5HQ	Vinorelbine	Complete Response
+LUSC	TCGA-NC-A5HR	Vinorelbine	Complete Response
+LUSC	TCGA-52-7812	Paclitaxel	Clinical Progressive Disease
+LUSC	TCGA-68-A59I	Paclitaxel	Clinical Progressive Disease
+LUSC	TCGA-56-A62T	Paclitaxel	Complete Response
+LUSC	TCGA-NC-A5HT	Paclitaxel	Partial Response
+LUSC	TCGA-56-8308	Paclitaxel	Stable Disease
+LUSC	TCGA-43-5668	NA	Clinical Progressive Disease
+LUSC	TCGA-56-7579	Erlotinib	Clinical Progressive Disease
+LUSC	TCGA-68-A59I	Erlotinib	Clinical Progressive Disease
+LUSC	TCGA-18-3412	Erlotinib	Clinical Progressive Disease
+LUSC	TCGA-56-7222	Paclitaxel	Clinical Progressive Disease
+LUSC	TCGA-56-7579	Paclitaxel	Clinical Progressive Disease
+LUSC	TCGA-43-6647	Paclitaxel	Complete Response
+LUSC	TCGA-56-8624	Paclitaxel	Complete Response
+LUSC	TCGA-56-A4BW	Paclitaxel	Complete Response
+LUSC	TCGA-56-7579	Docetaxel	Clinical Progressive Disease
+LUSC	TCGA-34-5240	Docetaxel	Complete Response
+LUSC	TCGA-34-8454	Docetaxel	Complete Response
+LUSC	TCGA-43-A474	Docetaxel	Complete Response
+LUSC	TCGA-43-A475	Docetaxel	Complete Response
+LUSC	TCGA-43-A56V	Docetaxel	Complete Response
+LUSC	TCGA-90-6837	Docetaxel	Complete Response
+LUSC	TCGA-33-AASI	Docetaxel	Stable Disease
+LUSC	TCGA-37-A5EL	Temozolomide	Partial Response
+LUSC	TCGA-85-A50Z	Etoposide	Complete Response
+LUSC	TCGA-85-A512	Etoposide	Complete Response
+LUSC	TCGA-18-3412	Vinorelbine	Clinical Progressive Disease
+LUSC	TCGA-56-7579	Vinorelbine	Clinical Progressive Disease
+LUSC	TCGA-66-2757	Vinorelbine	Clinical Progressive Disease
+LUSC	TCGA-66-2758	Vinorelbine	Complete Response
+LUSC	TCGA-66-2759	Vinorelbine	Complete Response
+LUSC	TCGA-66-2771	Vinorelbine	Complete Response
+LUSC	TCGA-66-2778	Vinorelbine	Complete Response
+LUSC	TCGA-66-2783	Vinorelbine	Complete Response
+LUSC	TCGA-66-2792	Vinorelbine	Complete Response
+LUSC	TCGA-85-7699	Zoledronate	Clinical Progressive Disease
+MESO	TCGA-LK-A4O5	Doxorubicin	Clinical Progressive Disease
+MESO	TCGA-LK-A4O5	Pemetrexed	Clinical Progressive Disease
+MESO	TCGA-LK-A4O7	Pemetrexed	Clinical Progressive Disease
+MESO	TCGA-UD-AAC4	Pemetrexed	Clinical Progressive Disease
+MESO	TCGA-MQ-A6BN	Pemetrexed	Complete Response
+MESO	TCGA-MQ-A6BR	Pemetrexed	Complete Response
+MESO	TCGA-MQ-A6BQ	Pemetrexed	Stable Disease
+MESO	TCGA-3H-AB3M	Bevacizumab	Stable Disease
+MESO	TCGA-3H-AB3M	Carboplatin	Clinical Progressive Disease
+MESO	TCGA-3U-A98J	Carboplatin	Clinical Progressive Disease
+MESO	TCGA-LK-A4NW	Carboplatin	Clinical Progressive Disease
+MESO	TCGA-SC-A6LM	Carboplatin	Clinical Progressive Disease
+MESO	TCGA-UD-AAC1	Carboplatin	Clinical Progressive Disease
+MESO	TCGA-SH-A7BC	Carboplatin	Partial Response
+MESO	TCGA-3U-A98F	Carboplatin	Stable Disease
+MESO	TCGA-SC-AA5Z	Carboplatin	Stable Disease
+MESO	TCGA-UD-AAC6	Carboplatin	Stable Disease
+MESO	TCGA-3H-AB3O	AZD2171	Partial Response
+MESO	TCGA-LK-A4NW	Cisplatin	Clinical Progressive Disease
+MESO	TCGA-LK-A4NZ	Cisplatin	Clinical Progressive Disease
+MESO	TCGA-LK-A4O5	Cisplatin	Clinical Progressive Disease
+MESO	TCGA-LK-A4O7	Cisplatin	Clinical Progressive Disease
+MESO	TCGA-SC-A6LP	Cisplatin	Clinical Progressive Disease
+MESO	TCGA-SH-A7BH	Cisplatin	Clinical Progressive Disease
+MESO	TCGA-3H-AB3X	Cisplatin	Complete Response
+MESO	TCGA-MQ-A6BN	Cisplatin	Complete Response
+MESO	TCGA-MQ-A6BR	Cisplatin	Complete Response
+MESO	TCGA-3H-AB3O	Cisplatin	Partial Response
+MESO	TCGA-SH-A7BD	Cisplatin	Partial Response
+MESO	TCGA-SH-A9CT	Cisplatin	Partial Response
+MESO	TCGA-SH-A9CU	Cisplatin	Partial Response
+MESO	TCGA-3H-AB3M	Cisplatin	Stable Disease
+MESO	TCGA-SC-A6LQ	Cisplatin	Stable Disease
+MESO	TCGA-SC-A6LR	Cisplatin	Stable Disease
+MESO	TCGA-UD-AAC4	Cisplatin	Stable Disease
+MESO	TCGA-UT-A88C	Cisplatin	Stable Disease
+MESO	TCGA-UT-A88D	Cisplatin	Stable Disease
+MESO	TCGA-LK-A4O5	Cisplatin	Clinical Progressive Disease
+MESO	TCGA-LK-A4O0	Cisplatin	Complete Response
+MESO	TCGA-MQ-A6BQ	Cisplatin	Stable Disease
+MESO	TCGA-3H-AB3L	Dasatinib	Clinical Progressive Disease
+MESO	TCGA-3H-AB3M	Dasatinib	Clinical Progressive Disease
+MESO	TCGA-3H-AB3S	Dasatinib	Clinical Progressive Disease
+MESO	TCGA-3H-AB3T	Dasatinib	Clinical Progressive Disease
+MESO	TCGA-3H-AB3U	Dasatinib	Clinical Progressive Disease
+MESO	TCGA-3H-AB3K	Dasatinib	Partial Response
+MESO	TCGA-3H-AB3O	Dasatinib	Partial Response
+MESO	TCGA-3H-AB3M	Doxorubicin	Stable Disease
+MESO	TCGA-3H-AB3M	Everolimus	Clinical Progressive Disease
+MESO	TCGA-SC-A6LM	Everolimus	Clinical Progressive Disease
+MESO	TCGA-3H-AB3S	Gemcitabine	Clinical Progressive Disease
+MESO	TCGA-LK-A4NW	Gemcitabine	Clinical Progressive Disease
+MESO	TCGA-SC-A6LM	Gemcitabine	Clinical Progressive Disease
+MESO	TCGA-UD-AAC1	Gemcitabine	Clinical Progressive Disease
+MESO	TCGA-UD-AAC4	Gemcitabine	Stable Disease
+MESO	TCGA-MQ-A6BN	Gemcitabine	Complete Response
+MESO	TCGA-3H-AB3M	Imatinib	Stable Disease
+MESO	TCGA-SC-A6LM	Pemetrexed	Clinical Progressive Disease
+MESO	TCGA-SC-A6LP	Pemetrexed	Clinical Progressive Disease
+MESO	TCGA-SH-A7BH	Pemetrexed	Clinical Progressive Disease
+MESO	TCGA-3H-AB3X	Pemetrexed	Complete Response
+MESO	TCGA-3H-AB3O	Pemetrexed	Partial Response
+MESO	TCGA-SH-A7BC	Pemetrexed	Partial Response
+MESO	TCGA-SH-A7BD	Pemetrexed	Partial Response
+MESO	TCGA-SH-A9CT	Pemetrexed	Partial Response
+MESO	TCGA-SH-A9CU	Pemetrexed	Partial Response
+MESO	TCGA-3H-AB3M	Pemetrexed	Stable Disease
+MESO	TCGA-SC-A6LQ	Pemetrexed	Stable Disease
+MESO	TCGA-SC-A6LR	Pemetrexed	Stable Disease
+MESO	TCGA-SC-AA5Z	Pemetrexed	Stable Disease
+MESO	TCGA-UD-AAC6	Pemetrexed	Stable Disease
+MESO	TCGA-UT-A88C	Pemetrexed	Stable Disease
+MESO	TCGA-UT-A88D	Pemetrexed	Stable Disease
+MESO	TCGA-3U-A98J	Pemetrexed	Clinical Progressive Disease
+MESO	TCGA-3U-A98F	Pemetrexed	Stable Disease
+MESO	TCGA-3H-AB3S	R1507	Clinical Progressive Disease
+MESO	TCGA-UD-AAC4	Sunitinib	Clinical Progressive Disease
+MESO	TCGA-3H-AB3S	Erlotinib	Clinical Progressive Disease
+MESO	TCGA-3H-AB3M	Temsirolimus	Stable Disease
+MESO	TCGA-SC-A6LM	Vinorelbine	Stable Disease
+MESO	TCGA-3H-AB3T	Vorinostat	Clinical Progressive Disease
+OV	TCGA-WR-A838	Carboplatin	Clinical Progressive Disease
+OV	TCGA-29-A5NZ	Carboplatin	Complete Response
+OV	TCGA-5X-AA5U	Carboplatin	Complete Response
+OV	TCGA-OY-A56P	Carboplatin	Complete Response
+OV	TCGA-OY-A56Q	Carboplatin	Complete Response
+OV	TCGA-13-A5FU	Carboplatin	Partial Response
+OV	TCGA-29-A5NZ	Carboplatin	Partial Response
+OV	TCGA-13-A5FT	Cisplatin	Complete Response
+OV	TCGA-5X-AA5U	Cisplatin	Complete Response
+OV	TCGA-29-A5NZ	Doxorubicin	Partial Response
+OV	TCGA-29-A5NZ	Gemcitabine	Clinical Progressive Disease
+OV	TCGA-13-A5FT	Paclitaxel	Complete Response
+OV	TCGA-29-A5NZ	Paclitaxel	Complete Response
+OV	TCGA-13-A5FU	Paclitaxel	Partial Response
+OV	TCGA-3P-A9WA	Carboplatin	Complete Response
+OV	TCGA-WR-A838	Paclitaxel	Clinical Progressive Disease
+OV	TCGA-3P-A9WA	Paclitaxel	Complete Response
+OV	TCGA-OY-A56Q	Paclitaxel	Complete Response
+OV	TCGA-5X-AA5U	Docetaxel	Complete Response
+OV	TCGA-OY-A56P	Docetaxel	Complete Response
+OV	TCGA-42-2582	Topotecan	Stable Disease
+PAAD	TCGA-3A-A9I9	Fluorouracil	Clinical Progressive Disease
+PAAD	TCGA-3A-A9I5	Fluorouracil	Complete Response
+PAAD	TCGA-3A-A9IX	Fluorouracil	Complete Response
+PAAD	TCGA-3A-A9I9	Fluorouracil	Stable Disease
+PAAD	TCGA-3A-A9IC	Fluorouracil	Stable Disease
+PAAD	TCGA-FB-A545	Fluorouracil	Clinical Progressive Disease
+PAAD	TCGA-IB-7645	Fluorouracil	Clinical Progressive Disease
+PAAD	TCGA-IB-7651	Fluorouracil	Clinical Progressive Disease
+PAAD	TCGA-IB-A7LX	Fluorouracil	Clinical Progressive Disease
+PAAD	TCGA-FB-A4P6	Fluorouracil	Complete Response
+PAAD	TCGA-FB-A545	Fluorouracil	Complete Response
+PAAD	TCGA-IB-7645	Fluorouracil	Complete Response
+PAAD	TCGA-IB-7891	Fluorouracil	Complete Response
+PAAD	TCGA-Z5-AAPL	Fluorouracil	Complete Response
+PAAD	TCGA-IB-7891	Fluorouracil	Stable Disease
+PAAD	TCGA-YB-A89D	Fluorouracil	Complete Response
+PAAD	TCGA-HV-AA8V	Fluorouracil	Clinical Progressive Disease
+PAAD	TCGA-HZ-A49I	Fluorouracil	Clinical Progressive Disease
+PAAD	TCGA-OE-A75W	Fluorouracil	Clinical Progressive Disease
+PAAD	TCGA-HZ-7920	Fluorouracil	Complete Response
+PAAD	TCGA-HZ-7918	Fluorouracil	Stable Disease
+PAAD	TCGA-IB-7888	Fluorouracil	Stable Disease
+PAAD	TCGA-LB-A9Q5	Paclitaxel	Clinical Progressive Disease
+PAAD	TCGA-XD-AAUG	Paclitaxel	Clinical Progressive Disease
+PAAD	TCGA-FB-AAPP	Capecitabine	Clinical Progressive Disease
+PAAD	TCGA-IB-7645	Carboplatin	Clinical Progressive Disease
+PAAD	TCGA-HZ-A4BK	Chemo, NOS	Clinical Progressive Disease
+PAAD	TCGA-HZ-8519	Chemo, NOS	Complete Response
+PAAD	TCGA-HV-AA8V	Cisplatin	Clinical Progressive Disease
+PAAD	TCGA-Z5-AAPL	Cyclophosphamide	Complete Response
+PAAD	TCGA-3E-AAAZ	Docetaxel	Partial Response
+PAAD	TCGA-Z5-AAPL	Doxorubicin	Complete Response
+PAAD	TCGA-HV-A7OP	Fluorouracil	Clinical Progressive Disease
+PAAD	TCGA-IB-AAUQ	Fluorouracil	Clinical Progressive Disease
+PAAD	TCGA-IB-7891	Leucovorin	Stable Disease
+PAAD	TCGA-2L-AAQA	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-2L-AAQE	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-2L-AAQI	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-2L-AAQJ	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-3A-A9IC	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-3A-A9IZ	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-3A-A9J0	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-F2-7276	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-FB-A5VM	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-FZ-5919	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-HV-AA8V	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-HZ-8317	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-HZ-A49G	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-HZ-A77O	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-HZ-A9TJ	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-IB-7644	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-IB-7647	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-IB-7651	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-IB-7888	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-IB-7889	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-IB-8126	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-IB-A5SO	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-IB-A5SP	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-IB-A7LX	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-IB-AAUO	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-L1-A7W4	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-RB-AA9M	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-US-A774	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-XD-AAUG	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-XD-AAUI	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-3A-A9I5	Gemcitabine	Complete Response
+PAAD	TCGA-3A-A9IX	Gemcitabine	Complete Response
+PAAD	TCGA-F2-6880	Gemcitabine	Complete Response
+PAAD	TCGA-FB-A545	Gemcitabine	Complete Response
+PAAD	TCGA-FB-A78T	Gemcitabine	Complete Response
+PAAD	TCGA-FB-AAQ6	Gemcitabine	Complete Response
+PAAD	TCGA-H8-A6C1	Gemcitabine	Complete Response
+PAAD	TCGA-HZ-7918	Gemcitabine	Complete Response
+PAAD	TCGA-HZ-7923	Gemcitabine	Complete Response
+PAAD	TCGA-HZ-7924	Gemcitabine	Complete Response
+PAAD	TCGA-HZ-8001	Gemcitabine	Complete Response
+PAAD	TCGA-HZ-8637	Gemcitabine	Complete Response
+PAAD	TCGA-HZ-A49H	Gemcitabine	Complete Response
+PAAD	TCGA-HZ-A77P	Gemcitabine	Complete Response
+PAAD	TCGA-IB-7652	Gemcitabine	Complete Response
+PAAD	TCGA-IB-7885	Gemcitabine	Complete Response
+PAAD	TCGA-IB-8127	Gemcitabine	Complete Response
+PAAD	TCGA-IB-A6UF	Gemcitabine	Complete Response
+PAAD	TCGA-YB-A89D	Gemcitabine	Complete Response
+PAAD	TCGA-YY-A8LH	Gemcitabine	Complete Response
+PAAD	TCGA-3E-AAAZ	Gemcitabine	Partial Response
+PAAD	TCGA-F2-6879	Gemcitabine	Partial Response
+PAAD	TCGA-IB-A5SS	Gemcitabine	Partial Response
+PAAD	TCGA-Q3-A5QY	Gemcitabine	Partial Response
+PAAD	TCGA-YY-A8LH	Gemcitabine	Partial Response
+PAAD	TCGA-3A-A9I9	Gemcitabine	Stable Disease
+PAAD	TCGA-3A-A9IC	Gemcitabine	Stable Disease
+PAAD	TCGA-3A-A9IH	Gemcitabine	Stable Disease
+PAAD	TCGA-F2-7273	Gemcitabine	Stable Disease
+PAAD	TCGA-IB-7645	Gemcitabine	Stable Disease
+PAAD	TCGA-IB-7888	Gemcitabine	Stable Disease
+PAAD	TCGA-IB-7891	Gemcitabine	Stable Disease
+PAAD	TCGA-LB-A9Q5	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-HV-AA8X	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-F2-A8YN	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-FB-AAPP	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-FZ-5922	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-FZ-5923	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-FZ-5924	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-IB-7645	Gemcitabine	Clinical Progressive Disease
+PAAD	TCGA-F2-A44G	Gemcitabine	Complete Response
+PAAD	TCGA-F2-A44H	Gemcitabine	Complete Response
+PAAD	TCGA-FB-AAPY	Gemcitabine	Complete Response
+PAAD	TCGA-LB-A8F3	Gemcitabine	Complete Response
+PAAD	TCGA-S4-A8RM	Gemcitabine	Complete Response
+PAAD	TCGA-IB-AAUQ	Irinotecan	Clinical Progressive Disease
+PAAD	TCGA-FB-A4P6	Irinotecan	Complete Response
+PAAD	TCGA-HZ-7918	Irinotecan	Stable Disease
+PAAD	TCGA-IB-A7LX	Irinotecan	Clinical Progressive Disease
+PAAD	TCGA-IB-7891	Irinotecan	Stable Disease
+PAAD	TCGA-FB-A545	Leucovorin	Clinical Progressive Disease
+PAAD	TCGA-IB-7645	Leucovorin	Clinical Progressive Disease
+PAAD	TCGA-IB-7651	Leucovorin	Clinical Progressive Disease
+PAAD	TCGA-IB-7645	Leucovorin	Complete Response
+PAAD	TCGA-HZ-7918	Leucovorin	Stable Disease
+PAAD	TCGA-IB-A7LX	Leucovorin	Clinical Progressive Disease
+PAAD	TCGA-3A-A9I9	Oxaliplatin	Clinical Progressive Disease
+PAAD	TCGA-FB-A545	Oxaliplatin	Clinical Progressive Disease
+PAAD	TCGA-IB-7645	Oxaliplatin	Clinical Progressive Disease
+PAAD	TCGA-IB-7651	Oxaliplatin	Clinical Progressive Disease
+PAAD	TCGA-IB-A7LX	Oxaliplatin	Clinical Progressive Disease
+PAAD	TCGA-IB-AAUQ	Oxaliplatin	Clinical Progressive Disease
+PAAD	TCGA-FB-A4P6	Oxaliplatin	Complete Response
+PAAD	TCGA-3A-A9I9	Oxaliplatin	Stable Disease
+PAAD	TCGA-3A-A9IH	Oxaliplatin	Stable Disease
+PAAD	TCGA-HZ-7918	Oxaliplatin	Stable Disease
+PAAD	TCGA-IB-7891	Oxaliplatin	Stable Disease
+PAAD	TCGA-FZ-5922	Erlotinib	Clinical Progressive Disease
+PAAD	TCGA-F2-7273	Capecitabine	Clinical Progressive Disease
+PAAD	TCGA-F2-A44G	Capecitabine	Complete Response
+PAAD	TCGA-F2-A44H	Capecitabine	Complete Response
+PAAD	TCGA-H6-8124	Capecitabine	Complete Response
+PAAD	TCGA-HZ-8001	Capecitabine	Complete Response
+PAAD	TCGA-YY-A8LH	Capecitabine	Complete Response
+PCPG	TCGA-WB-A81Q	Cyclophosphamide	Clinical Progressive Disease
+PCPG	TCGA-QR-A70P	cyclophosphamide, vincristine, and dacarbazine	Clinical Progressive Disease
+PCPG	TCGA-QR-A6GT	Cyclophosphamide	Partial Response
+PCPG	TCGA-QR-A6GT	Dacarbazine	Partial Response
+PCPG	TCGA-WB-A81Q	Dacarbazine	Clinical Progressive Disease
+PCPG	TCGA-WB-A81Q	Gemcitabine	Clinical Progressive Disease
+PCPG	TCGA-QT-A5XJ	Temozolomide	Clinical Progressive Disease
+PCPG	TCGA-QR-A6GT	Vincristine	Partial Response
+PCPG	TCGA-WB-A81Q	Vincristine	Clinical Progressive Disease
+PCPG	TCGA-QT-A5XJ	Capecitabine	Clinical Progressive Disease
+PRAD	TCGA-G9-A9S0	Cabazitaxel	Clinical Progressive Disease
+PRAD	TCGA-KK-A59X	Cabazitaxel	Partial Response
+PRAD	TCGA-KK-A59X	Carboplatin	Partial Response
+PRAD	TCGA-G9-A9S0	Bicalutamide	Clinical Progressive Disease
+PRAD	TCGA-FC-A4JI	Bicalutamide	Complete Response
+PRAD	TCGA-VP-A87D	Bicalutamide	Complete Response
+PRAD	TCGA-XK-AAIV	Bicalutamide	Complete Response
+PRAD	TCGA-YL-A8HJ	Bicalutamide	Complete Response
+PRAD	TCGA-YL-A8HK	Bicalutamide	Complete Response
+PRAD	TCGA-YL-A8HL	Bicalutamide	Complete Response
+PRAD	TCGA-YL-A8HM	Bicalutamide	Complete Response
+PRAD	TCGA-YL-A8SB	Bicalutamide	Complete Response
+PRAD	TCGA-YL-A8SL	Bicalutamide	Complete Response
+PRAD	TCGA-YL-A8SO	Bicalutamide	Complete Response
+PRAD	TCGA-YL-A8SP	Bicalutamide	Complete Response
+PRAD	TCGA-YL-A9WH	Bicalutamide	Complete Response
+PRAD	TCGA-VN-A88R	Bicalutamide	Partial Response
+PRAD	TCGA-XJ-A9DI	Bicalutamide	Partial Response
+PRAD	TCGA-YL-A8SC	Bicalutamide	Partial Response
+PRAD	TCGA-YL-A8SP	Bicalutamide	Partial Response
+PRAD	TCGA-KK-A7AU	Bicalutamide	Stable Disease
+PRAD	TCGA-KK-A7B4	Bicalutamide	Stable Disease
+PRAD	TCGA-KK-A8II	Degarelix	Clinical Progressive Disease
+PRAD	TCGA-KK-A8II	Docetaxel	Clinical Progressive Disease
+PRAD	TCGA-VP-A87D	Docetaxel	Complete Response
+PRAD	TCGA-YL-A8SP	Leuprolide	Complete Response
+PRAD	TCGA-YL-A9WK	Leuprolide	Complete Response
+PRAD	TCGA-HC-7742	Leuprolide	Partial Response
+PRAD	TCGA-HC-A9TE	Leuprolide	Stable Disease
+PRAD	TCGA-KK-A8II	Cabazitaxel	Clinical Progressive Disease
+PRAD	TCGA-KK-A59Y	Leuprolide	Complete Response
+PRAD	TCGA-KK-A8I7	Leuprolide	Complete Response
+PRAD	TCGA-CH-5741	Leuprolide	Complete Response
+PRAD	TCGA-KK-A8II	Leuprolide	Clinical Progressive Disease
+PRAD	TCGA-HI-7168	Leuprolide	Complete Response
+PRAD	TCGA-KC-A4BR	Leuprolide	Complete Response
+PRAD	TCGA-KK-A6E0	Leuprolide	Complete Response
+PRAD	TCGA-KK-A6E1	Leuprolide	Complete Response
+PRAD	TCGA-KK-A8I9	Leuprolide	Complete Response
+PRAD	TCGA-KK-A8ID	Leuprolide	Complete Response
+PRAD	TCGA-VP-A87D	Leuprolide	Complete Response
+PRAD	TCGA-YL-A8HL	Leuprolide	Complete Response
+PRAD	TCGA-YL-A8SB	Leuprolide	Complete Response
+PRAD	TCGA-YL-A9WK	Leuprolide	Complete Response
+PRAD	TCGA-YL-A9WL	Leuprolide	Complete Response
+PRAD	TCGA-YL-A8SP	Leuprolide	Partial Response
+PRAD	TCGA-2A-A8VT	Leuprolide	Stable Disease
+PRAD	TCGA-KK-A7AU	Leuprolide	Stable Disease
+PRAD	TCGA-KK-A8I4	Leuprolide	Stable Disease
+PRAD	TCGA-XJ-A9DI	Nilutamide	Partial Response
+PRAD	TCGA-G9-A9S0	Docetaxel	Clinical Progressive Disease
+PRAD	TCGA-YL-A9WH	Trelstar	Complete Response
+PRAD	TCGA-YL-A8SC	Trelstar	Partial Response
+PRAD	TCGA-CH-5788	triptorelin	Clinical Progressive Disease
+PRAD	TCGA-G9-A9S0	Goserelin	Clinical Progressive Disease
+PRAD	TCGA-VP-A878	Goserelin	Complete Response
+PRAD	TCGA-YL-A8HJ	Goserelin	Complete Response
+PRAD	TCGA-YL-A8HM	Goserelin	Complete Response
+PRAD	TCGA-J9-A52B	Goserelin	Partial Response
+READ	TCGA-AG-3584	Fluorouracil	Clinical Progressive Disease
+READ	TCGA-AG-A016	Fluorouracil	Clinical Progressive Disease
+READ	TCGA-F5-6702	Fluorouracil	Clinical Progressive Disease
+READ	TCGA-AG-3593	Fluorouracil	Complete Response
+READ	TCGA-AG-3600	Fluorouracil	Complete Response
+READ	TCGA-AG-3609	Fluorouracil	Complete Response
+READ	TCGA-AG-3611	Fluorouracil	Complete Response
+READ	TCGA-AG-3612	Fluorouracil	Complete Response
+READ	TCGA-AG-3728	Fluorouracil	Complete Response
+READ	TCGA-AG-3893	Fluorouracil	Complete Response
+READ	TCGA-AG-3894	Fluorouracil	Complete Response
+READ	TCGA-AG-3909	Fluorouracil	Complete Response
+READ	TCGA-AG-4005	Fluorouracil	Complete Response
+READ	TCGA-AG-4008	Fluorouracil	Complete Response
+READ	TCGA-AG-4022	Fluorouracil	Complete Response
+READ	TCGA-AG-A00C	Fluorouracil	Complete Response
+READ	TCGA-AG-A00H	Fluorouracil	Complete Response
+READ	TCGA-AG-A01L	Fluorouracil	Complete Response
+READ	TCGA-AG-A01W	Fluorouracil	Complete Response
+READ	TCGA-AG-A01Y	Fluorouracil	Complete Response
+READ	TCGA-AG-A020	Fluorouracil	Complete Response
+READ	TCGA-AG-A036	Fluorouracil	Complete Response
+READ	TCGA-F5-6571	Fluorouracil	Complete Response
+READ	TCGA-F5-6864	Fluorouracil	Complete Response
+READ	TCGA-AG-3731	Fluorouracil	Partial Response
+READ	TCGA-AG-A02G	Fluorouracil	Partial Response
+READ	TCGA-F5-6571	Fluorouracil	Stable Disease
+READ	TCGA-F5-6863	Fluorouracil	Stable Disease
+READ	TCGA-AF-A56L	Fluorouracil	Complete Response
+READ	TCGA-AH-6643	Fluorouracil	Complete Response
+READ	TCGA-AH-6903	Fluorouracil	Complete Response
+READ	TCGA-AH-6544	Fluorouracil	Stable Disease
+READ	TCGA-AH-6544	Bevacizumab	Stable Disease
+READ	TCGA-AF-3914	Bevacizumab	Clinical Progressive Disease
+READ	TCGA-AG-A016	Bevacizumab	Clinical Progressive Disease
+READ	TCGA-DC-6156	Bevacizumab	Clinical Progressive Disease
+READ	TCGA-AG-A02G	Bevacizumab	Partial Response
+READ	TCGA-DY-A1DC	Capecitabine	Partial Response
+READ	TCGA-F5-6863	Etoposide	Stable Disease
+READ	TCGA-CI-6620	Fluorouracil	Clinical Progressive Disease
+READ	TCGA-AF-3914	Fluorouracil	Stable Disease
+READ	TCGA-AF-6136	Fluorouracil	Stable Disease
+READ	TCGA-AF-3914	Fluorouracil	Stable Disease
+READ	TCGA-AG-3584	Leucovorin	Clinical Progressive Disease
+READ	TCGA-AG-A016	Leucovorin	Clinical Progressive Disease
+READ	TCGA-AG-3609	Leucovorin	Complete Response
+READ	TCGA-AG-3611	Leucovorin	Complete Response
+READ	TCGA-AG-3612	Leucovorin	Complete Response
+READ	TCGA-AG-3728	Leucovorin	Complete Response
+READ	TCGA-AG-3893	Leucovorin	Complete Response
+READ	TCGA-AG-3909	Leucovorin	Complete Response
+READ	TCGA-AG-4005	Leucovorin	Complete Response
+READ	TCGA-AG-4008	Leucovorin	Complete Response
+READ	TCGA-AG-A00C	Leucovorin	Complete Response
+READ	TCGA-AG-A020	Leucovorin	Complete Response
+READ	TCGA-AG-A02N	Leucovorin	Complete Response
+READ	TCGA-AG-3731	Leucovorin	Partial Response
+READ	TCGA-AG-A02G	Leucovorin	Partial Response
+READ	TCGA-AG-3584	Irinotecan	Clinical Progressive Disease
+READ	TCGA-AG-3731	Irinotecan	Partial Response
+READ	TCGA-AG-A02G	Irinotecan	Partial Response
+READ	TCGA-F5-6571	Irinotecan	Stable Disease
+READ	TCGA-CI-6620	Leucovorin	Clinical Progressive Disease
+READ	TCGA-AF-A56L	Leucovorin	Complete Response
+READ	TCGA-AH-6643	Leucovorin	Complete Response
+READ	TCGA-AH-6903	Leucovorin	Complete Response
+READ	TCGA-F5-6571	Leucovorin	Complete Response
+READ	TCGA-F5-6864	Leucovorin	Complete Response
+READ	TCGA-AF-3914	Leucovorin	Stable Disease
+READ	TCGA-AF-6136	Leucovorin	Stable Disease
+READ	TCGA-AH-6544	Leucovorin	Stable Disease
+READ	TCGA-F5-6571	Leucovorin	Stable Disease
+READ	TCGA-F5-6863	Leucovorin	Stable Disease
+READ	TCGA-F5-6571	Mitomycin	Clinical Progressive Disease
+READ	TCGA-AG-3584	Oxaliplatin	Clinical Progressive Disease
+READ	TCGA-CI-6620	Oxaliplatin	Clinical Progressive Disease
+READ	TCGA-F5-6702	Oxaliplatin	Clinical Progressive Disease
+READ	TCGA-AF-A56L	Oxaliplatin	Complete Response
+READ	TCGA-AG-3609	Oxaliplatin	Complete Response
+READ	TCGA-AG-3612	Oxaliplatin	Complete Response
+READ	TCGA-AG-3728	Oxaliplatin	Complete Response
+READ	TCGA-AG-3909	Oxaliplatin	Complete Response
+READ	TCGA-AG-4005	Oxaliplatin	Complete Response
+READ	TCGA-AG-A00C	Oxaliplatin	Complete Response
+READ	TCGA-AG-A020	Oxaliplatin	Complete Response
+READ	TCGA-AH-6643	Oxaliplatin	Complete Response
+READ	TCGA-AH-6903	Oxaliplatin	Complete Response
+READ	TCGA-F5-6571	Oxaliplatin	Complete Response
+READ	TCGA-AG-3731	Oxaliplatin	Partial Response
+READ	TCGA-AG-A01N	Oxaliplatin	Partial Response
+READ	TCGA-AG-A02G	Oxaliplatin	Partial Response
+READ	TCGA-AF-3914	Oxaliplatin	Stable Disease
+READ	TCGA-AF-6136	Oxaliplatin	Stable Disease
+READ	TCGA-AH-6544	Oxaliplatin	Stable Disease
+READ	TCGA-F5-6702	Polyplatillen	Clinical Progressive Disease
+READ	TCGA-F5-6863	Capecitabine	Clinical Progressive Disease
+READ	TCGA-AF-A56N	Capecitabine	Complete Response
+READ	TCGA-AH-6544	Capecitabine	Stable Disease
+SARC	TCGA-3B-A9HV	Doxorubicin	Clinical Progressive Disease
+SARC	TCGA-3B-A9I1	Doxorubicin	Clinical Progressive Disease
+SARC	TCGA-DX-A6B8	Doxorubicin	Clinical Progressive Disease
+SARC	TCGA-DX-A8BU	Doxorubicin	Clinical Progressive Disease
+SARC	TCGA-FX-A48G	Doxorubicin	Clinical Progressive Disease
+SARC	TCGA-IE-A3OV	Doxorubicin	Clinical Progressive Disease
+SARC	TCGA-IF-A4AJ	Doxorubicin	Clinical Progressive Disease
+SARC	TCGA-K1-A6RU	Doxorubicin	Clinical Progressive Disease
+SARC	TCGA-DX-AB3B	Doxorubicin	Complete Response
+SARC	TCGA-DX-AB3C	Doxorubicin	Complete Response
+SARC	TCGA-FX-A3RE	Doxorubicin	Complete Response
+SARC	TCGA-HB-A43Z	Doxorubicin	Complete Response
+SARC	TCGA-IE-A6BZ	Doxorubicin	Complete Response
+SARC	TCGA-DX-AB2E	Doxorubicin	Partial Response
+SARC	TCGA-IF-A3RQ	Doxorubicin	Partial Response
+SARC	TCGA-RN-AAAQ	Doxorubicin	Partial Response
+SARC	TCGA-3B-A9HI	Doxorubicin	Stable Disease
+SARC	TCGA-DX-A8BV	Doxorubicin	Stable Disease
+SARC	TCGA-X9-A973	Doxorubicin	Stable Disease
+SARC	TCGA-IE-A3OV	Pemetrexed	Clinical Progressive Disease
+SARC	TCGA-IE-A3OV	ridaforolimus	Clinical Progressive Disease
+SARC	TCGA-SI-A71O	Bevacizumab	Clinical Progressive Disease
+SARC	TCGA-X6-A8C4	Bevacizumab	Clinical Progressive Disease
+SARC	TCGA-FX-A48G	Carboplatin	Clinical Progressive Disease
+SARC	TCGA-DX-A7EQ	Cisplatin	Clinical Progressive Disease
+SARC	TCGA-KD-A5QU	Cisplatin	Complete Response
+SARC	TCGA-3B-A9HT	Cisplatin	Complete Response
+SARC	TCGA-3B-A9HR	Dacarbazine	Clinical Progressive Disease
+SARC	TCGA-DX-A3U7	Dacarbazine	Clinical Progressive Disease
+SARC	TCGA-DX-A3UC	Dacarbazine	Clinical Progressive Disease
+SARC	TCGA-DX-A7EQ	Dacarbazine	Clinical Progressive Disease
+SARC	TCGA-3B-A9HI	Dacarbazine	Stable Disease
+SARC	TCGA-X9-A973	Dacarbazine	Stable Disease
+SARC	TCGA-IE-A3OV	Dacarbazine	Clinical Progressive Disease
+SARC	TCGA-3B-A9HL	Docetaxel	Clinical Progressive Disease
+SARC	TCGA-3B-A9HR	Docetaxel	Clinical Progressive Disease
+SARC	TCGA-3B-A9HS	Docetaxel	Clinical Progressive Disease
+SARC	TCGA-3B-A9HV	Docetaxel	Clinical Progressive Disease
+SARC	TCGA-3B-A9HZ	Docetaxel	Clinical Progressive Disease
+SARC	TCGA-3B-A9I0	Docetaxel	Clinical Progressive Disease
+SARC	TCGA-DX-A6YX	Docetaxel	Clinical Progressive Disease
+SARC	TCGA-DX-A8BU	Docetaxel	Clinical Progressive Disease
+SARC	TCGA-DX-A8BV	Docetaxel	Clinical Progressive Disease
+SARC	TCGA-K1-A3PN	Docetaxel	Clinical Progressive Disease
+SARC	TCGA-X9-A971	Docetaxel	Clinical Progressive Disease
+SARC	TCGA-DX-A6B7	Docetaxel	Complete Response
+SARC	TCGA-DX-A7EN	Docetaxel	Complete Response
+SARC	TCGA-DX-A8BT	Docetaxel	Complete Response
+SARC	TCGA-HS-A5N9	Docetaxel	Complete Response
+SARC	TCGA-JV-A5VE	Docetaxel	Complete Response
+SARC	TCGA-3B-A9HI	Docetaxel	Partial Response
+SARC	TCGA-X6-A8C4	Docetaxel	Clinical Progressive Disease
+SARC	TCGA-DX-A3U7	Doxorubicin	Clinical Progressive Disease
+SARC	TCGA-DX-A7EQ	Doxorubicin	Clinical Progressive Disease
+SARC	TCGA-DX-A8BU	Doxorubicin	Clinical Progressive Disease
+SARC	TCGA-K1-A42X	Doxorubicin	Clinical Progressive Disease
+SARC	TCGA-LI-A67I	Doxorubicin	Clinical Progressive Disease
+SARC	TCGA-X6-A8C6	Doxorubicin	Clinical Progressive Disease
+SARC	TCGA-DX-A3U7	Doxorubicin	Clinical Progressive Disease
+SARC	TCGA-QQ-A8VD	Doxorubicin	Clinical Progressive Disease
+SARC	TCGA-MO-A47P	Doxorubicin	Complete Response
+SARC	TCGA-IS-A3K7	Doxorubicin	Partial Response
+SARC	TCGA-KD-A5QS	Doxorubicin	Partial Response
+SARC	TCGA-3B-A9I0	Doxorubicin	Stable Disease
+SARC	TCGA-DX-A3UC	Doxorubicin	Stable Disease
+SARC	TCGA-IE-A3OV	Enoticumab	Clinical Progressive Disease
+SARC	TCGA-DX-A3UC	Trabectedin	Clinical Progressive Disease
+SARC	TCGA-IE-A3OV	Trabectedin	Clinical Progressive Disease
+SARC	TCGA-DX-AB3C	Etoposide	Complete Response
+SARC	TCGA-SI-A71O	Everolimus	Clinical Progressive Disease
+SARC	TCGA-IE-A3OV	EZN-2968	Clinical Progressive Disease
+SARC	TCGA-3B-A9I1	Letrozole	Clinical Progressive Disease
+SARC	TCGA-3B-A9HL	Gemcitabine	Clinical Progressive Disease
+SARC	TCGA-3B-A9HR	Gemcitabine	Clinical Progressive Disease
+SARC	TCGA-3B-A9HS	Gemcitabine	Clinical Progressive Disease
+SARC	TCGA-3B-A9HV	Gemcitabine	Clinical Progressive Disease
+SARC	TCGA-3B-A9HZ	Gemcitabine	Clinical Progressive Disease
+SARC	TCGA-3B-A9I0	Gemcitabine	Clinical Progressive Disease
+SARC	TCGA-3B-A9I1	Gemcitabine	Clinical Progressive Disease
+SARC	TCGA-DX-A3LU	Gemcitabine	Clinical Progressive Disease
+SARC	TCGA-DX-A3UC	Gemcitabine	Clinical Progressive Disease
+SARC	TCGA-DX-A6YX	Gemcitabine	Clinical Progressive Disease
+SARC	TCGA-DX-A8BU	Gemcitabine	Clinical Progressive Disease
+SARC	TCGA-DX-A8BV	Gemcitabine	Clinical Progressive Disease
+SARC	TCGA-IE-A3OV	Gemcitabine	Clinical Progressive Disease
+SARC	TCGA-K1-A3PN	Gemcitabine	Clinical Progressive Disease
+SARC	TCGA-X6-A8C4	Gemcitabine	Clinical Progressive Disease
+SARC	TCGA-X6-A8C6	Gemcitabine	Clinical Progressive Disease
+SARC	TCGA-X9-A971	Gemcitabine	Clinical Progressive Disease
+SARC	TCGA-DX-A6B7	Gemcitabine	Complete Response
+SARC	TCGA-DX-A7EN	Gemcitabine	Complete Response
+SARC	TCGA-DX-A8BT	Gemcitabine	Complete Response
+SARC	TCGA-IE-A4EH	Gemcitabine	Complete Response
+SARC	TCGA-JV-A5VE	Gemcitabine	Complete Response
+SARC	TCGA-X2-A95T	Gemcitabine	Complete Response
+SARC	TCGA-3B-A9HI	Gemcitabine	Partial Response
+SARC	TCGA-DX-A3U7	Gemcitabine	Partial Response
+SARC	TCGA-3B-A9HP	Gemcitabine	Stable Disease
+SARC	TCGA-X6-A7WC	Gemcitabine	Stable Disease
+SARC	TCGA-FX-A48G	Gemcitabine	Clinical Progressive Disease
+SARC	TCGA-K1-A42X	Gemcitabine	Clinical Progressive Disease
+SARC	TCGA-KD-A5QS	Gemcitabine	Clinical Progressive Disease
+SARC	TCGA-HB-A43Z	Gemcitabine	Complete Response
+SARC	TCGA-IW-A3M4	Gemcitabine	Complete Response
+SARC	TCGA-KD-A5QU	Gemcitabine	Complete Response
+SARC	TCGA-PT-A8TR	Gemcitabine	Complete Response
+SARC	TCGA-KD-A5QS	Gemcitabine	Partial Response
+SARC	TCGA-QQ-A8VD	Imatinib	Stable Disease
+SARC	TCGA-3B-A9HV	Ifosfamide	Clinical Progressive Disease
+SARC	TCGA-DX-A3U7	Ifosfamide	Clinical Progressive Disease
+SARC	TCGA-DX-A7EQ	Ifosfamide	Clinical Progressive Disease
+SARC	TCGA-DX-A8BU	Ifosfamide	Clinical Progressive Disease
+SARC	TCGA-FX-A48G	Ifosfamide	Clinical Progressive Disease
+SARC	TCGA-DX-AB3B	Ifosfamide	Complete Response
+SARC	TCGA-DX-AB3C	Ifosfamide	Complete Response
+SARC	TCGA-FX-A8OO	Ifosfamide	Complete Response
+SARC	TCGA-IE-A6BZ	Ifosfamide	Complete Response
+SARC	TCGA-RN-AAAQ	Ifosfamide	Complete Response
+SARC	TCGA-SI-A71P	Ifosfamide	Complete Response
+SARC	TCGA-DX-A3U6	Ifosfamide	Partial Response
+SARC	TCGA-DX-AB2E	Ifosfamide	Partial Response
+SARC	TCGA-KD-A5QS	Ifosfamide	Partial Response
+SARC	TCGA-RN-AAAQ	Ifosfamide	Partial Response
+SARC	TCGA-DX-A8BV	Ifosfamide	Stable Disease
+SARC	TCGA-X9-A973	Ifosfamide	Stable Disease
+SARC	TCGA-DX-A6YX	Doxorubicin	Clinical Progressive Disease
+SARC	TCGA-IS-A3KA	Megestrol acetate	Clinical Progressive Disease
+SARC	TCGA-IE-A6BZ	Mycophenolic acid	Complete Response
+SARC	TCGA-DX-A3UF	anti-endosialin/TEM1 monoclonal antibody MORAb-004?	Clinical Progressive Disease
+SARC	TCGA-3B-A9HR	Pazopanib	Clinical Progressive Disease
+SARC	TCGA-3B-A9HZ	Pazopanib	Clinical Progressive Disease
+SARC	TCGA-DX-A3U7	Pazopanib	Clinical Progressive Disease
+SARC	TCGA-DX-A3UC	Pazopanib	Clinical Progressive Disease
+SARC	TCGA-QQ-A8VD	Raloxifene	Clinical Progressive Disease
+SARC	TCGA-DX-A7EQ	Sorafenib	Clinical Progressive Disease
+SARC	TCGA-QQ-A8VD	Sulindac	Clinical Progressive Disease
+SARC	TCGA-IS-A3KA	Tamoxifen	Clinical Progressive Disease
+SARC	TCGA-QQ-A8VD	Tamoxifen	Clinical Progressive Disease
+SARC	TCGA-DX-A3LU	Docetaxel	Clinical Progressive Disease
+SARC	TCGA-DX-A3U7	Docetaxel	Clinical Progressive Disease
+SARC	TCGA-DX-A3UC	Docetaxel	Clinical Progressive Disease
+SARC	TCGA-FX-A48G	Docetaxel	Clinical Progressive Disease
+SARC	TCGA-IE-A3OV	Docetaxel	Clinical Progressive Disease
+SARC	TCGA-HB-A43Z	Docetaxel	Complete Response
+SARC	TCGA-IE-A4EH	Docetaxel	Complete Response
+SARC	TCGA-IW-A3M4	Docetaxel	Complete Response
+SARC	TCGA-KF-A41W	Docetaxel	Complete Response
+SARC	TCGA-PT-A8TR	Docetaxel	Complete Response
+SARC	TCGA-X2-A95T	Docetaxel	Complete Response
+SARC	TCGA-DX-A3U7	Docetaxel	Partial Response
+SARC	TCGA-KD-A5QS	Docetaxel	Partial Response
+SARC	TCGA-3B-A9HP	Docetaxel	Stable Disease
+SARC	TCGA-IE-A3OV	Threshold-302	Clinical Progressive Disease
+SARC	TCGA-3B-A9HR	Trabectedin	Clinical Progressive Disease
+SARC	TCGA-DX-A7EQ	Vorinostat	Clinical Progressive Disease
+SKCM	TCGA-GN-A9SD	Dactinomycin	Clinical Progressive Disease
+SKCM	TCGA-D3-A51E	Dactinomycin	Complete Response
+SKCM	TCGA-D3-A51G	Dactinomycin	Complete Response
+SKCM	TCGA-EE-A2MM	autologous vaccine	Clinical Progressive Disease
+SKCM	TCGA-GF-A3OT	Bevacizumab	Clinical Progressive Disease
+SKCM	TCGA-GN-A4U9	Axitinib	Clinical Progressive Disease
+SKCM	TCGA-GN-A4U4	Axitinib	Partial Response
+SKCM	TCGA-EB-A5UL	Bleomycin	Complete Response
+SKCM	TCGA-EE-A3AD	BRAF inhibitor	Clinical Progressive Disease
+SKCM	TCGA-EE-A2ME	Cancer Vax	Clinical Progressive Disease
+SKCM	TCGA-EE-A2MG	Cancer Vax	Clinical Progressive Disease
+SKCM	TCGA-EB-A5FP	Carboplatin	Clinical Progressive Disease
+SKCM	TCGA-GF-A3OT	Carboplatin	Clinical Progressive Disease
+SKCM	TCGA-GN-A8LK	Carboplatin	Clinical Progressive Disease
+SKCM	TCGA-EB-A553	Carboplatin	Complete Response
+SKCM	TCGA-EB-A6QY	Carboplatin	Complete Response
+SKCM	TCGA-FS-A1ZE	Carboplatin	Clinical Progressive Disease
+SKCM	TCGA-FS-A1ZE	Carboplatin	Clinical Progressive Disease
+SKCM	TCGA-W3-AA1O	Carmustine	Clinical Progressive Disease
+SKCM	TCGA-EB-A57M	Cyclosporine	Complete Response
+SKCM	TCGA-W3-AA1O	Cisplatin	Clinical Progressive Disease
+SKCM	TCGA-D3-A1Q3	Cisplatin	Complete Response
+SKCM	TCGA-D3-A51H	Cisplatin	Complete Response
+SKCM	TCGA-EB-A57M	Cisplatin	Complete Response
+SKCM	TCGA-EB-A5KH	Cisplatin	Complete Response
+SKCM	TCGA-EB-A5SH	Cisplatin	Complete Response
+SKCM	TCGA-W3-A825	Cisplatin	Partial Response
+SKCM	TCGA-D3-A1Q1	Cyclophosphamide	Clinical Progressive Disease
+SKCM	TCGA-EE-A29C	Dabrafenib	Clinical Progressive Disease
+SKCM	TCGA-EE-A2GS	Dabrafenib	Clinical Progressive Disease
+SKCM	TCGA-FR-A728	Dabrafenib	Partial Response
+SKCM	TCGA-EE-A2MN	Dacarbazine	Clinical Progressive Disease
+SKCM	TCGA-EB-A5FP	Dacarbazine	Clinical Progressive Disease
+SKCM	TCGA-EE-A185	Dacarbazine	Clinical Progressive Disease
+SKCM	TCGA-EE-A29Q	Dacarbazine	Clinical Progressive Disease
+SKCM	TCGA-EE-A29V	Dacarbazine	Clinical Progressive Disease
+SKCM	TCGA-EE-A2MD	Dacarbazine	Clinical Progressive Disease
+SKCM	TCGA-EE-A2ML	Dacarbazine	Clinical Progressive Disease
+SKCM	TCGA-EE-A2MQ	Dacarbazine	Clinical Progressive Disease
+SKCM	TCGA-EE-A3JI	Dacarbazine	Clinical Progressive Disease
+SKCM	TCGA-GN-A8LK	Dacarbazine	Clinical Progressive Disease
+SKCM	TCGA-HR-A2OH	Dacarbazine	Clinical Progressive Disease
+SKCM	TCGA-W3-AA1O	Dacarbazine	Clinical Progressive Disease
+SKCM	TCGA-D3-A51H	Dacarbazine	Complete Response
+SKCM	TCGA-EB-A3XC	Dacarbazine	Complete Response
+SKCM	TCGA-EB-A3Y6	Dacarbazine	Complete Response
+SKCM	TCGA-EB-A553	Dacarbazine	Complete Response
+SKCM	TCGA-EB-A57M	Dacarbazine	Complete Response
+SKCM	TCGA-EB-A5KH	Dacarbazine	Complete Response
+SKCM	TCGA-EB-A5SH	Dacarbazine	Complete Response
+SKCM	TCGA-EB-A5UL	Dacarbazine	Complete Response
+SKCM	TCGA-EB-A6QY	Dacarbazine	Complete Response
+SKCM	TCGA-EB-A85J	Dacarbazine	Complete Response
+SKCM	TCGA-EB-A6QZ	Dacarbazine	Partial Response
+SKCM	TCGA-W3-A825	Dacarbazine	Partial Response
+SKCM	TCGA-EB-A57M	Dexamethasone	Complete Response
+SKCM	TCGA-ER-A19H	Dacarbazine	Clinical Progressive Disease
+SKCM	TCGA-FS-A1ZE	Dacarbazine	Clinical Progressive Disease
+SKCM	TCGA-FS-A4F0	Dacarbazine	Clinical Progressive Disease
+SKCM	TCGA-EB-A57M	Epoetin alfa	Complete Response
+SKCM	TCGA-EB-A4OY	Toremifene	Complete Response
+SKCM	TCGA-EE-A2ML	Fotemustine	Clinical Progressive Disease
+SKCM	TCGA-EE-A3AF	Fotemustine	Clinical Progressive Disease
+SKCM	TCGA-FS-A4F0	Gemcitabine	Clinical Progressive Disease
+SKCM	TCGA-W3-AA1Q	Gemcitabine	Clinical Progressive Disease
+SKCM	TCGA-D3-A51G	GP100	Complete Response
+SKCM	TCGA-D3-A1Q9	GP-100	Clinical Progressive Disease
+SKCM	TCGA-EE-A29C	Dabrafenib	Clinical Progressive Disease
+SKCM	TCGA-W3-AA1Q	Trastuzumab	Clinical Progressive Disease
+SKCM	TCGA-W3-AA1R	Aldesleukin	Clinical Progressive Disease
+SKCM	TCGA-ER-A19M	Interferon alfacon-1	Clinical Progressive Disease
+SKCM	TCGA-FW-A3TV	Interferon alfacon-1	Clinical Progressive Disease
+SKCM	TCGA-W3-AA1Q	Interferon alfacon-1	Clinical Progressive Disease
+SKCM	TCGA-W3-AA1W	Interferon alfacon-1	Clinical Progressive Disease
+SKCM	TCGA-D3-A8GB	Interferon alfacon-1	Complete Response
+SKCM	TCGA-FR-A44A	Interferon alfacon-1	Complete Response
+SKCM	TCGA-FW-A3R5	Interferon alfacon-1	Complete Response
+SKCM	TCGA-GN-A4U5	Interferon alfacon-1	Complete Response
+SKCM	TCGA-HR-A2OH	Interferon alfacon-1	Complete Response
+SKCM	TCGA-FR-A7U8	Interferon alfacon-1	Partial Response
+SKCM	TCGA-YG-AA3O	Interferon alfacon-1	Partial Response
+SKCM	TCGA-EB-A5SH	Interferon alfa-n1	Complete Response
+SKCM	TCGA-D3-A2JP	Interferon alfa-n1	Partial Response
+SKCM	TCGA-FS-A1ZS	Interferon alfa-n1	Stable Disease
+SKCM	TCGA-FS-A1ZT	Interferon alfa-n1	Stable Disease
+SKCM	TCGA-FS-A1ZW	Interferon alfa-n1	Stable Disease
+SKCM	TCGA-FS-A4F0	Interferon alfa-n1	Stable Disease
+SKCM	TCGA-W3-A825	Interferon alfa-n1	Partial Response
+SKCM	TCGA-HR-A2OH	Aldesleukin	Clinical Progressive Disease
+SKCM	TCGA-D3-A3MV	Aldesleukin	Clinical Progressive Disease
+SKCM	TCGA-GN-A4U3	Aldesleukin	Complete Response
+SKCM	TCGA-W3-A825	Aldesleukin	Partial Response
+SKCM	TCGA-EE-A2GS	Ipilimumab	Clinical Progressive Disease
+SKCM	TCGA-EE-A3JI	Ipilimumab	Clinical Progressive Disease
+SKCM	TCGA-GN-A8LK	Ipilimumab	Clinical Progressive Disease
+SKCM	TCGA-QB-AA9O	Ipilimumab	Clinical Progressive Disease
+SKCM	TCGA-WE-A8K5	Ipilimumab	Clinical Progressive Disease
+SKCM	TCGA-WE-AAA0	Ipilimumab	Clinical Progressive Disease
+SKCM	TCGA-FR-A3YN	Ipilimumab	Complete Response
+SKCM	TCGA-DA-A3F2	Ipilimumab	Partial Response
+SKCM	TCGA-GN-A4U4	Ipilimumab	Partial Response
+SKCM	TCGA-GN-A4U9	Ipilimumab	Partial Response
+SKCM	TCGA-GN-A8LN	Ipilimumab	Partial Response
+SKCM	TCGA-FR-A3YO	Ipilimumab	Stable Disease
+SKCM	TCGA-FR-A8YD	Ipilimumab	Stable Disease
+SKCM	TCGA-EB-A6QY	recombinant interferon-¦Á2b?	Complete Response
+SKCM	TCGA-EB-A5KH	Sargramostim	Complete Response
+SKCM	TCGA-EB-A4OY	Lomustine	Complete Response
+SKCM	TCGA-EB-A6R0	Lomustine	Complete Response
+SKCM	TCGA-D3-A1Q9	Leuprolide	Clinical Progressive Disease
+SKCM	TCGA-D3-A3CB	MEL-44	Complete Response
+SKCM	TCGA-D3-A8GK	MEL-44	Complete Response
+SKCM	TCGA-GN-A9SD	Melphalan	Clinical Progressive Disease
+SKCM	TCGA-D3-A51E	Melphalan	Complete Response
+SKCM	TCGA-D3-A51G	Melphalan	Complete Response
+SKCM	TCGA-GN-A4U9	Melphalan	Complete Response
+SKCM	TCGA-WE-AAA4	Melphalan	Complete Response
+SKCM	TCGA-EE-A2ML	anti-endosialin/TEM1 monoclonal antibody MORAb-004?	Clinical Progressive Disease
+SKCM	TCGA-WE-A8ZN	nivolumab	Clinical Progressive Disease
+SKCM	TCGA-FS-A1ZE	Paclitaxel	Clinical Progressive Disease
+SKCM	TCGA-FS-A1ZE	Paclitaxel	Clinical Progressive Disease
+SKCM	TCGA-FS-A1ZE	Paclitaxel	Clinical Progressive Disease
+SKCM	TCGA-EE-A3AH	PI-88	Clinical Progressive Disease
+SKCM	TCGA-EE-A2M5	PNU-159548	Clinical Progressive Disease
+SKCM	TCGA-D3-A1QA	recMAGE- A3	Clinical Progressive Disease
+SKCM	TCGA-EB-A57M	RenAmin	Complete Response
+SKCM	TCGA-D3-A51G	Resiquimod	Complete Response
+SKCM	TCGA-FR-A7U9	Talimogene Laherparepvec (T-VEC)	Partial Response
+SKCM	TCGA-FR-A8YC	Doxorubicin	Clinical Progressive Disease
+SKCM	TCGA-W3-AA1O	Tamoxifen	Clinical Progressive Disease
+SKCM	TCGA-W3-AA1Q	Tamoxifen	Clinical Progressive Disease
+SKCM	TCGA-EB-A550	Tamoxifen	Complete Response
+SKCM	TCGA-W3-A825	Tamoxifen	Partial Response
+SKCM	TCGA-GF-A3OT	Paclitaxel	Clinical Progressive Disease
+SKCM	TCGA-W3-AA21	Paclitaxel	Clinical Progressive Disease
+SKCM	TCGA-W3-AA21	Temozolomide	Clinical Progressive Disease
+SKCM	TCGA-EE-A29C	Trametinib	Clinical Progressive Disease
+SKCM	TCGA-FR-A728	Trametinib	Partial Response
+SKCM	TCGA-DA-A3F5	Vemurafenib	Clinical Progressive Disease
+SKCM	TCGA-EE-A2GS	Vemurafenib	Clinical Progressive Disease
+SKCM	TCGA-GN-A9SD	Vemurafenib	Clinical Progressive Disease
+SKCM	TCGA-WE-A8ZR	Vemurafenib	Clinical Progressive Disease
+SKCM	TCGA-D3-A51H	Vinblastine	Complete Response
+SKCM	TCGA-EB-A57M	Vinblastine	Complete Response
+SKCM	TCGA-EB-A5KH	Vinblastine	Complete Response
+SKCM	TCGA-EB-A5UL	Vinblastine	Complete Response
+SKCM	TCGA-W3-A825	Vinblastine	Partial Response
+SKCM	TCGA-EB-A85J	Vincristine	Complete Response
+SKCM	TCGA-EB-A6QZ	Vincristine	Partial Response
+SKCM	TCGA-EE-A2MM	NA	Clinical Progressive Disease
+SKCM	TCGA-GF-A3OT	Yervoy	Clinical Progressive Disease
+SKCM	TCGA-EE-A29C	Yervoy	Stable Disease
+SKCM	TCGA-EB-A57M	Ondansetron	Complete Response
+STAD	TCGA-CD-5802	Fluorouracil	Complete Response
+STAD	TCGA-CD-8525	Fluorouracil	Complete Response
+STAD	TCGA-CD-8528	Fluorouracil	Complete Response
+STAD	TCGA-CD-8530	Fluorouracil	Complete Response
+STAD	TCGA-CD-8531	Fluorouracil	Complete Response
+STAD	TCGA-CD-8535	Fluorouracil	Complete Response
+STAD	TCGA-CD-A4MH	Fluorouracil	Complete Response
+STAD	TCGA-CD-A4MJ	Fluorouracil	Complete Response
+STAD	TCGA-BR-6707	Fluorouracil	Clinical Progressive Disease
+STAD	TCGA-BR-8297	Fluorouracil	Clinical Progressive Disease
+STAD	TCGA-BR-8362	Fluorouracil	Clinical Progressive Disease
+STAD	TCGA-BR-8367	Fluorouracil	Clinical Progressive Disease
+STAD	TCGA-BR-8371	Fluorouracil	Clinical Progressive Disease
+STAD	TCGA-BR-A4QI	Fluorouracil	Clinical Progressive Disease
+STAD	TCGA-CD-8524	Fluorouracil	Clinical Progressive Disease
+STAD	TCGA-CG-4477	Fluorouracil	Clinical Progressive Disease
+STAD	TCGA-CG-5717	Fluorouracil	Clinical Progressive Disease
+STAD	TCGA-CG-5725	Fluorouracil	Clinical Progressive Disease
+STAD	TCGA-CG-5732	Fluorouracil	Clinical Progressive Disease
+STAD	TCGA-BR-6457	Fluorouracil	Complete Response
+STAD	TCGA-BR-6458	Fluorouracil	Complete Response
+STAD	TCGA-BR-6706	Fluorouracil	Complete Response
+STAD	TCGA-BR-6710	Fluorouracil	Complete Response
+STAD	TCGA-BR-6802	Fluorouracil	Complete Response
+STAD	TCGA-BR-8291	Fluorouracil	Complete Response
+STAD	TCGA-BR-8296	Fluorouracil	Complete Response
+STAD	TCGA-BR-8362	Fluorouracil	Complete Response
+STAD	TCGA-BR-8367	Fluorouracil	Complete Response
+STAD	TCGA-BR-8370	Fluorouracil	Complete Response
+STAD	TCGA-BR-8372	Fluorouracil	Complete Response
+STAD	TCGA-BR-8373	Fluorouracil	Complete Response
+STAD	TCGA-BR-8380	Fluorouracil	Complete Response
+STAD	TCGA-BR-8381	Fluorouracil	Complete Response
+STAD	TCGA-BR-8590	Fluorouracil	Complete Response
+STAD	TCGA-BR-8592	Fluorouracil	Complete Response
+STAD	TCGA-BR-8690	Fluorouracil	Complete Response
+STAD	TCGA-BR-A44T	Fluorouracil	Complete Response
+STAD	TCGA-BR-A4QL	Fluorouracil	Complete Response
+STAD	TCGA-BR-A4QM	Fluorouracil	Complete Response
+STAD	TCGA-CG-4305	Fluorouracil	Complete Response
+STAD	TCGA-CG-4444	Fluorouracil	Complete Response
+STAD	TCGA-KB-A93J	Fluorouracil	Complete Response
+STAD	TCGA-BR-6709	Fluorouracil	Partial Response
+STAD	TCGA-CG-4460	Fluorouracil	Partial Response
+STAD	TCGA-BR-A44T	Fluorouracil	Stable Disease
+STAD	TCGA-D7-8579	Fluorouracil	Complete Response
+STAD	TCGA-FP-8210	Fluorouracil	Clinical Progressive Disease
+STAD	TCGA-F1-A448	Fluorouracil	Complete Response
+STAD	TCGA-D7-A748	Fluorouracil	Clinical Progressive Disease
+STAD	TCGA-FP-7829	Fluorouracil	Complete Response
+STAD	TCGA-FP-7998	Fluorouracil	Complete Response
+STAD	TCGA-FP-8209	Fluorouracil	Complete Response
+STAD	TCGA-FP-A4BE	Fluorouracil	Complete Response
+STAD	TCGA-FP-A9TM	Fluorouracil	Complete Response
+STAD	TCGA-HU-8243	Fluorouracil	Complete Response
+STAD	TCGA-3M-AB47	Fluorouracil	Stable Disease
+STAD	TCGA-HJ-7597	Irinotecan	Complete Response
+STAD	TCGA-CD-8527	Capecitabine	Clinical Progressive Disease
+STAD	TCGA-CD-8533	Capecitabine	Clinical Progressive Disease
+STAD	TCGA-CD-5804	Capecitabine	Complete Response
+STAD	TCGA-CD-8526	Capecitabine	Complete Response
+STAD	TCGA-CD-8529	Capecitabine	Complete Response
+STAD	TCGA-CD-8536	Capecitabine	Complete Response
+STAD	TCGA-CD-A486	Capecitabine	Complete Response
+STAD	TCGA-CD-A487	Capecitabine	Complete Response
+STAD	TCGA-CD-A48A	Capecitabine	Complete Response
+STAD	TCGA-EQ-A4SO	Capecitabine	Complete Response
+STAD	TCGA-F1-A448	Capecitabine	Complete Response
+STAD	TCGA-F1-A72C	Capecitabine	Complete Response
+STAD	TCGA-CG-4460	Capecitabine	Partial Response
+STAD	TCGA-MX-A666	Capecitabine	Stable Disease
+STAD	TCGA-D7-A747	Capecitabine	Clinical Progressive Disease
+STAD	TCGA-D7-A748	Capecitabine	Clinical Progressive Disease
+STAD	TCGA-IN-A7NU	Carboplatin	Clinical Progressive Disease
+STAD	TCGA-BR-8690	Carboplatin	Complete Response
+STAD	TCGA-BR-6709	Carboplatin	Partial Response
+STAD	TCGA-HU-A4GX	Cisplatin	Clinical Progressive Disease
+STAD	TCGA-CG-5725	Cetuximab	Clinical Progressive Disease
+STAD	TCGA-BR-8362	Cisplatin	Clinical Progressive Disease
+STAD	TCGA-BR-8371	Cisplatin	Clinical Progressive Disease
+STAD	TCGA-CD-8524	Cisplatin	Clinical Progressive Disease
+STAD	TCGA-CD-8527	Cisplatin	Clinical Progressive Disease
+STAD	TCGA-CG-4477	Cisplatin	Clinical Progressive Disease
+STAD	TCGA-CG-5717	Cisplatin	Clinical Progressive Disease
+STAD	TCGA-CG-5724	Cisplatin	Clinical Progressive Disease
+STAD	TCGA-CG-5732	Cisplatin	Clinical Progressive Disease
+STAD	TCGA-IN-A6RP	Cisplatin	Clinical Progressive Disease
+STAD	TCGA-VQ-A91V	Cisplatin	Clinical Progressive Disease
+STAD	TCGA-B7-A5TN	Cisplatin	Complete Response
+STAD	TCGA-BR-A4J2	Cisplatin	Complete Response
+STAD	TCGA-BR-A4QM	Cisplatin	Complete Response
+STAD	TCGA-CD-5802	Cisplatin	Complete Response
+STAD	TCGA-CD-5804	Cisplatin	Complete Response
+STAD	TCGA-CD-8525	Cisplatin	Complete Response
+STAD	TCGA-CD-8526	Cisplatin	Complete Response
+STAD	TCGA-CD-8528	Cisplatin	Complete Response
+STAD	TCGA-CD-8529	Cisplatin	Complete Response
+STAD	TCGA-CD-8530	Cisplatin	Complete Response
+STAD	TCGA-CD-8531	Cisplatin	Complete Response
+STAD	TCGA-CD-8535	Cisplatin	Complete Response
+STAD	TCGA-CD-8536	Cisplatin	Complete Response
+STAD	TCGA-CD-A486	Cisplatin	Complete Response
+STAD	TCGA-CD-A487	Cisplatin	Complete Response
+STAD	TCGA-CD-A4MH	Cisplatin	Complete Response
+STAD	TCGA-CD-A4MJ	Cisplatin	Complete Response
+STAD	TCGA-CG-4305	Cisplatin	Complete Response
+STAD	TCGA-FP-7998	Cisplatin	Complete Response
+STAD	TCGA-IN-A6RO	Cisplatin	Complete Response
+STAD	TCGA-BR-6709	Cisplatin	Partial Response
+STAD	TCGA-CG-4460	Cisplatin	Partial Response
+STAD	TCGA-CG-4472	Cisplatin	Partial Response
+STAD	TCGA-3M-AB47	Cisplatin	Stable Disease
+STAD	TCGA-HU-A4GJ	Cisplatin	Stable Disease
+STAD	TCGA-SW-A7EB	Cisplatin	Stable Disease
+STAD	TCGA-D7-6520	Cisplatin	Clinical Progressive Disease
+STAD	TCGA-D7-A747	Cisplatin	Clinical Progressive Disease
+STAD	TCGA-HU-8238	Copolang	Stable Disease
+STAD	TCGA-HU-A4GD	Copolang	Stable Disease
+STAD	TCGA-HU-A4GN	Copolang	Stable Disease
+STAD	TCGA-HU-A4GP	Copolang	Stable Disease
+STAD	TCGA-HU-A4GT	Copolang	Stable Disease
+STAD	TCGA-HU-A4G3	COPOLANG CAPS	Stable Disease
+STAD	TCGA-BR-6563	Cyclophosphamide	Complete Response
+STAD	TCGA-BR-6563	Dacarbazine	Complete Response
+STAD	TCGA-BR-8682	Dexamethasone	Complete Response
+STAD	TCGA-BR-A4IU	Dexamethasone	Complete Response
+STAD	TCGA-BR-A4IV	Dexamethasone	Complete Response
+STAD	TCGA-BR-A4IY	Dexamethasone	Complete Response
+STAD	TCGA-BR-A4J2	Dexamethasone	Complete Response
+STAD	TCGA-HU-8238	Didox	Stable Disease
+STAD	TCGA-HU-A4GP	Didox	Stable Disease
+STAD	TCGA-HU-A4GT	Didox	Stable Disease
+STAD	TCGA-CG-5725	Docetaxel	Clinical Progressive Disease
+STAD	TCGA-CG-5732	Docetaxel	Clinical Progressive Disease
+STAD	TCGA-CD-8535	Docetaxel	Complete Response
+STAD	TCGA-D7-6520	Docetaxel	Clinical Progressive Disease
+STAD	TCGA-HU-A4G3	Fluorouracil	Stable Disease
+STAD	TCGA-HU-A4GD	Fluorouracil	Stable Disease
+STAD	TCGA-BR-6563	Doxorubicin	Complete Response
+STAD	TCGA-SW-A7EB	Doxorubicin	Stable Disease
+STAD	TCGA-B7-A5TI	Oxaliplatin	Complete Response
+STAD	TCGA-HU-A4H3	Oxaliplatin	Clinical Progressive Disease
+STAD	TCGA-CD-8524	Epirubicin	Clinical Progressive Disease
+STAD	TCGA-CD-8527	Epirubicin	Clinical Progressive Disease
+STAD	TCGA-IN-8462	Epirubicin	Clinical Progressive Disease
+STAD	TCGA-BR-8680	Epirubicin	Complete Response
+STAD	TCGA-BR-8682	Epirubicin	Complete Response
+STAD	TCGA-BR-A4IU	Epirubicin	Complete Response
+STAD	TCGA-BR-A4IV	Epirubicin	Complete Response
+STAD	TCGA-BR-A4IY	Epirubicin	Complete Response
+STAD	TCGA-BR-A4J2	Epirubicin	Complete Response
+STAD	TCGA-CD-5802	Epirubicin	Complete Response
+STAD	TCGA-CD-5804	Epirubicin	Complete Response
+STAD	TCGA-CD-8525	Epirubicin	Complete Response
+STAD	TCGA-CD-8526	Epirubicin	Complete Response
+STAD	TCGA-CD-8528	Epirubicin	Complete Response
+STAD	TCGA-CD-8529	Epirubicin	Complete Response
+STAD	TCGA-CD-8530	Epirubicin	Complete Response
+STAD	TCGA-CD-8531	Epirubicin	Complete Response
+STAD	TCGA-CD-8536	Epirubicin	Complete Response
+STAD	TCGA-CD-A487	Epirubicin	Complete Response
+STAD	TCGA-CD-A4MH	Epirubicin	Complete Response
+STAD	TCGA-CD-A4MJ	Epirubicin	Complete Response
+STAD	TCGA-IN-7806	Epirubicin	Complete Response
+STAD	TCGA-3M-AB47	Epirubicin	Stable Disease
+STAD	TCGA-MX-A666	Epirubicin	Stable Disease
+STAD	TCGA-D7-A747	Epirubicin	Clinical Progressive Disease
+STAD	TCGA-D7-A748	Epirubicin	Clinical Progressive Disease
+STAD	TCGA-BR-8297	Etoposide	Clinical Progressive Disease
+STAD	TCGA-BR-8371	Etoposide	Clinical Progressive Disease
+STAD	TCGA-BR-A4QI	Etoposide	Clinical Progressive Disease
+STAD	TCGA-BR-6458	Etoposide	Complete Response
+STAD	TCGA-BR-6706	Etoposide	Complete Response
+STAD	TCGA-BR-7959	Etoposide	Complete Response
+STAD	TCGA-BR-8291	Etoposide	Complete Response
+STAD	TCGA-BR-8296	Etoposide	Complete Response
+STAD	TCGA-BR-8362	Etoposide	Complete Response
+STAD	TCGA-BR-8367	Etoposide	Complete Response
+STAD	TCGA-BR-8372	Etoposide	Complete Response
+STAD	TCGA-BR-8373	Etoposide	Complete Response
+STAD	TCGA-BR-8590	Etoposide	Complete Response
+STAD	TCGA-BR-8592	Etoposide	Complete Response
+STAD	TCGA-BR-8690	Etoposide	Complete Response
+STAD	TCGA-BR-A44T	Etoposide	Stable Disease
+STAD	TCGA-VQ-A8DU	Fluorouracil	Clinical Progressive Disease
+STAD	TCGA-VQ-A8DZ	Fluorouracil	Clinical Progressive Disease
+STAD	TCGA-VQ-A8E0	Fluorouracil	Clinical Progressive Disease
+STAD	TCGA-VQ-A8PD	Fluorouracil	Clinical Progressive Disease
+STAD	TCGA-VQ-A8PP	Fluorouracil	Clinical Progressive Disease
+STAD	TCGA-VQ-A91D	Fluorouracil	Clinical Progressive Disease
+STAD	TCGA-VQ-A91N	Fluorouracil	Clinical Progressive Disease
+STAD	TCGA-VQ-A91V	Fluorouracil	Clinical Progressive Disease
+STAD	TCGA-VQ-A91Y	Fluorouracil	Clinical Progressive Disease
+STAD	TCGA-VQ-A922	Fluorouracil	Clinical Progressive Disease
+STAD	TCGA-VQ-A928	Fluorouracil	Clinical Progressive Disease
+STAD	TCGA-VQ-A94O	Fluorouracil	Clinical Progressive Disease
+STAD	TCGA-VQ-A94R	Fluorouracil	Clinical Progressive Disease
+STAD	TCGA-VQ-AA6F	Fluorouracil	Clinical Progressive Disease
+STAD	TCGA-VQ-AA6G	Fluorouracil	Clinical Progressive Disease
+STAD	TCGA-VQ-AA6K	Fluorouracil	Clinical Progressive Disease
+STAD	TCGA-3M-AB46	Fluorouracil	Complete Response
+STAD	TCGA-HJ-7597	Fluorouracil	Complete Response
+STAD	TCGA-KB-A6F7	Fluorouracil	Complete Response
+STAD	TCGA-MX-A666	Fluorouracil	Complete Response
+STAD	TCGA-VQ-A8DT	Fluorouracil	Complete Response
+STAD	TCGA-VQ-A8E2	Fluorouracil	Complete Response
+STAD	TCGA-VQ-A8P3	Fluorouracil	Complete Response
+STAD	TCGA-VQ-A8PB	Fluorouracil	Complete Response
+STAD	TCGA-VQ-A8PT	Fluorouracil	Complete Response
+STAD	TCGA-VQ-A8PU	Fluorouracil	Complete Response
+STAD	TCGA-VQ-A8PY	Fluorouracil	Complete Response
+STAD	TCGA-VQ-A8PZ	Fluorouracil	Complete Response
+STAD	TCGA-VQ-A91E	Fluorouracil	Complete Response
+STAD	TCGA-VQ-A91K	Fluorouracil	Complete Response
+STAD	TCGA-VQ-A91Q	Fluorouracil	Complete Response
+STAD	TCGA-VQ-A91S	Fluorouracil	Complete Response
+STAD	TCGA-VQ-A91W	Fluorouracil	Complete Response
+STAD	TCGA-VQ-A91Z	Fluorouracil	Complete Response
+STAD	TCGA-VQ-AA64	Fluorouracil	Complete Response
+STAD	TCGA-VQ-AA68	Fluorouracil	Complete Response
+STAD	TCGA-VQ-AA6B	Fluorouracil	Complete Response
+STAD	TCGA-VQ-AA6D	Fluorouracil	Complete Response
+STAD	TCGA-SW-A7EB	Fluorouracil	Stable Disease
+STAD	TCGA-D7-6520	Fluorouracil	Clinical Progressive Disease
+STAD	TCGA-CG-5717	Leucovorin	Clinical Progressive Disease
+STAD	TCGA-CG-5725	Leucovorin	Clinical Progressive Disease
+STAD	TCGA-CG-5732	Leucovorin	Clinical Progressive Disease
+STAD	TCGA-CG-4305	Leucovorin	Complete Response
+STAD	TCGA-CG-4460	Leucovorin	Partial Response
+STAD	TCGA-BR-8680	Eribulin	Complete Response
+STAD	TCGA-IN-A6RP	Irinotecan	Clinical Progressive Disease
+STAD	TCGA-IN-A6RO	Irinotecan	Complete Response
+STAD	TCGA-BR-6707	Leucovorin	Clinical Progressive Disease
+STAD	TCGA-BR-8297	Leucovorin	Clinical Progressive Disease
+STAD	TCGA-BR-8362	Leucovorin	Clinical Progressive Disease
+STAD	TCGA-BR-8367	Leucovorin	Clinical Progressive Disease
+STAD	TCGA-BR-8371	Leucovorin	Clinical Progressive Disease
+STAD	TCGA-BR-A4QI	Leucovorin	Clinical Progressive Disease
+STAD	TCGA-FP-8210	Leucovorin	Clinical Progressive Disease
+STAD	TCGA-3M-AB46	Leucovorin	Complete Response
+STAD	TCGA-BR-6457	Leucovorin	Complete Response
+STAD	TCGA-BR-6458	Leucovorin	Complete Response
+STAD	TCGA-BR-6706	Leucovorin	Complete Response
+STAD	TCGA-BR-6710	Leucovorin	Complete Response
+STAD	TCGA-BR-6802	Leucovorin	Complete Response
+STAD	TCGA-BR-8291	Leucovorin	Complete Response
+STAD	TCGA-BR-8296	Leucovorin	Complete Response
+STAD	TCGA-BR-8362	Leucovorin	Complete Response
+STAD	TCGA-BR-8367	Leucovorin	Complete Response
+STAD	TCGA-BR-8370	Leucovorin	Complete Response
+STAD	TCGA-BR-8372	Leucovorin	Complete Response
+STAD	TCGA-BR-8373	Leucovorin	Complete Response
+STAD	TCGA-BR-8380	Leucovorin	Complete Response
+STAD	TCGA-BR-8381	Leucovorin	Complete Response
+STAD	TCGA-BR-8590	Leucovorin	Complete Response
+STAD	TCGA-BR-8592	Leucovorin	Complete Response
+STAD	TCGA-BR-8690	Leucovorin	Complete Response
+STAD	TCGA-BR-A44T	Leucovorin	Complete Response
+STAD	TCGA-BR-A4QL	Leucovorin	Complete Response
+STAD	TCGA-BR-A4QM	Leucovorin	Complete Response
+STAD	TCGA-FP-8209	Leucovorin	Complete Response
+STAD	TCGA-FP-A9TM	Leucovorin	Complete Response
+STAD	TCGA-MX-A666	Leucovorin	Complete Response
+STAD	TCGA-VQ-A91Z	Leucovorin	Complete Response
+STAD	TCGA-BR-6709	Leucovorin	Partial Response
+STAD	TCGA-BR-A44T	Leucovorin	Stable Disease
+STAD	TCGA-BR-A4J2	Sargramostim	Complete Response
+STAD	TCGA-BR-8680	Methylprednisolone	Complete Response
+STAD	TCGA-HJ-7597	Methotrexate	Clinical Progressive Disease
+STAD	TCGA-HU-A4GD	Mitomycin	Stable Disease
+STAD	TCGA-CG-5732	Mitomycin	Complete Response
+STAD	TCGA-HU-A4GN	Mitomycin	Stable Disease
+STAD	TCGA-HU-A4G3	Mitomycin	Stable Disease
+STAD	TCGA-BR-6707	Oxaliplatin	Clinical Progressive Disease
+STAD	TCGA-BR-8367	Oxaliplatin	Clinical Progressive Disease
+STAD	TCGA-CG-5725	Oxaliplatin	Clinical Progressive Disease
+STAD	TCGA-IN-8462	Oxaliplatin	Clinical Progressive Disease
+STAD	TCGA-BR-8370	Oxaliplatin	Complete Response
+STAD	TCGA-BR-8381	Oxaliplatin	Complete Response
+STAD	TCGA-BR-8680	Oxaliplatin	Complete Response
+STAD	TCGA-BR-8682	Oxaliplatin	Complete Response
+STAD	TCGA-BR-A4IU	Oxaliplatin	Complete Response
+STAD	TCGA-BR-A4IV	Oxaliplatin	Complete Response
+STAD	TCGA-BR-A4IY	Oxaliplatin	Complete Response
+STAD	TCGA-BR-A4J2	Oxaliplatin	Complete Response
+STAD	TCGA-BR-A4QL	Oxaliplatin	Complete Response
+STAD	TCGA-EQ-A4SO	Oxaliplatin	Complete Response
+STAD	TCGA-F1-A448	Oxaliplatin	Complete Response
+STAD	TCGA-FP-8211	Oxaliplatin	Complete Response
+STAD	TCGA-IN-7806	Oxaliplatin	Complete Response
+STAD	TCGA-MX-A666	Oxaliplatin	Stable Disease
+STAD	TCGA-D7-A748	Oxaliplatin	Clinical Progressive Disease
+STAD	TCGA-D7-8570	NA	Clinical Progressive Disease
+STAD	TCGA-BR-8371	Polyplatillen	Clinical Progressive Disease
+STAD	TCGA-BR-8380	Polyplatillen	Complete Response
+STAD	TCGA-HU-A4GX	Paclitaxel	Clinical Progressive Disease
+STAD	TCGA-IN-8462	Paclitaxel	Clinical Progressive Disease
+STAD	TCGA-IN-A7NU	Paclitaxel	Clinical Progressive Disease
+STAD	TCGA-CD-A486	Paclitaxel	Complete Response
+STAD	TCGA-HU-A4H3	tegafur-gimeracil-oteracil potassium??	Complete Response
+STAD	TCGA-HU-A4H4	tegafur-gimeracil-oteracil potassium??	Complete Response
+STAD	TCGA-HU-A4GJ	tegafur-gimeracil-oteracil potassium??	Stable Disease
+STAD	TCGA-BR-6563	Vincristine	Complete Response
+STAD	TCGA-FP-8210	Etoposide	Clinical Progressive Disease
+STAD	TCGA-FP-7916	Capecitabine	Clinical Progressive Disease
+STAD	TCGA-IN-8462	Capecitabine	Clinical Progressive Disease
+STAD	TCGA-B7-A5TK	Capecitabine	Complete Response
+STAD	TCGA-BR-6802	Capecitabine	Complete Response
+STAD	TCGA-BR-8682	Capecitabine	Complete Response
+STAD	TCGA-BR-A4IV	Capecitabine	Complete Response
+STAD	TCGA-BR-A4IY	Capecitabine	Complete Response
+STAD	TCGA-BR-A4J8	Capecitabine	Complete Response
+STAD	TCGA-BR-A4QL	Capecitabine	Complete Response
+STAD	TCGA-EQ-A4SO	Capecitabine	Complete Response
+STAD	TCGA-FP-8211	Capecitabine	Complete Response
+STAD	TCGA-HU-8249	Capecitabine	Complete Response
+STAD	TCGA-HU-8602	Capecitabine	Complete Response
+STAD	TCGA-IN-7806	Capecitabine	Complete Response
+STAD	TCGA-HU-A4GJ	Capecitabine	Stable Disease
+STAD	TCGA-HU-A4H3	Capecitabine	Clinical Progressive Disease
+STAD	TCGA-VQ-AA6I	Capecitabine	Clinical Progressive Disease
+STAD	TCGA-VQ-A8PT	Capecitabine	Complete Response
+TGCT	TCGA-XE-AANJ	Bleomycin	Clinical Progressive Disease
+TGCT	TCGA-2G-AAF6	Bleomycin	Complete Response
+TGCT	TCGA-2G-AAFG	Bleomycin	Complete Response
+TGCT	TCGA-2G-AAFH	Bleomycin	Complete Response
+TGCT	TCGA-2G-AAFL	Bleomycin	Complete Response
+TGCT	TCGA-2G-AAFM	Bleomycin	Complete Response
+TGCT	TCGA-2G-AAFO	Bleomycin	Complete Response
+TGCT	TCGA-2G-AAFY	Bleomycin	Complete Response
+TGCT	TCGA-2G-AAG0	Bleomycin	Complete Response
+TGCT	TCGA-2G-AAG5	Bleomycin	Complete Response
+TGCT	TCGA-2G-AAG8	Bleomycin	Complete Response
+TGCT	TCGA-2G-AAGA	Bleomycin	Complete Response
+TGCT	TCGA-2G-AAGC	Bleomycin	Complete Response
+TGCT	TCGA-2G-AAGE	Bleomycin	Complete Response
+TGCT	TCGA-2G-AAGF	Bleomycin	Complete Response
+TGCT	TCGA-2G-AAGJ	Bleomycin	Complete Response
+TGCT	TCGA-2G-AAGK	Bleomycin	Complete Response
+TGCT	TCGA-2G-AAGN	Bleomycin	Complete Response
+TGCT	TCGA-2G-AAGO	Bleomycin	Complete Response
+TGCT	TCGA-2G-AAGP	Bleomycin	Complete Response
+TGCT	TCGA-2G-AAGS	Bleomycin	Complete Response
+TGCT	TCGA-2G-AAGV	Bleomycin	Complete Response
+TGCT	TCGA-2G-AAH0	Bleomycin	Complete Response
+TGCT	TCGA-2G-AAHC	Bleomycin	Complete Response
+TGCT	TCGA-2G-AAKG	Bleomycin	Complete Response
+TGCT	TCGA-2G-AAKH	Bleomycin	Complete Response
+TGCT	TCGA-2G-AAL7	Bleomycin	Complete Response
+TGCT	TCGA-4K-AA1G	Bleomycin	Complete Response
+TGCT	TCGA-4K-AAAL	Bleomycin	Complete Response
+TGCT	TCGA-VF-A8AD	Bleomycin	Complete Response
+TGCT	TCGA-XE-A8H1	Bleomycin	Complete Response
+TGCT	TCGA-XE-AANV	Bleomycin	Complete Response
+TGCT	TCGA-XE-AAOD	Bleomycin	Complete Response
+TGCT	TCGA-YU-A912	Bleomycin	Complete Response
+TGCT	TCGA-YU-A94D	Bleomycin	Complete Response
+TGCT	TCGA-YU-AA61	Bleomycin	Complete Response
+TGCT	TCGA-ZM-AA05	Bleomycin	Complete Response
+TGCT	TCGA-ZM-AA06	Bleomycin	Complete Response
+TGCT	TCGA-2G-AAFZ	Bleomycin	Partial Response
+TGCT	TCGA-2G-AAG9	Bleomycin	Partial Response
+TGCT	TCGA-2G-AAGG	Bleomycin	Partial Response
+TGCT	TCGA-2G-AAGT	Bleomycin	Partial Response
+TGCT	TCGA-2G-AAGZ	Bleomycin	Partial Response
+TGCT	TCGA-2G-AAH4	Bleomycin	Partial Response
+TGCT	TCGA-2G-AAH8	Bleomycin	Partial Response
+TGCT	TCGA-2G-AAHA	Bleomycin	Partial Response
+TGCT	TCGA-2G-AAKD	Bleomycin	Partial Response
+TGCT	TCGA-2G-AAKL	Bleomycin	Partial Response
+TGCT	TCGA-2G-AAKM	Bleomycin	Partial Response
+TGCT	TCGA-XE-AAOJ	Bleomycin	Partial Response
+TGCT	TCGA-YU-AA4L	Bleomycin	Stable Disease
+TGCT	TCGA-2G-AAF1	Carboplatin	Complete Response
+TGCT	TCGA-WZ-A7V4	Carboplatin	Complete Response
+TGCT	TCGA-YU-A90Q	Carboplatin	Complete Response
+TGCT	TCGA-2G-AAF6	Cisplatin	Complete Response
+TGCT	TCGA-2G-AAF8	Cisplatin	Complete Response
+TGCT	TCGA-2G-AAFE	Cisplatin	Complete Response
+TGCT	TCGA-2G-AAFG	Cisplatin	Complete Response
+TGCT	TCGA-2G-AAFH	Cisplatin	Complete Response
+TGCT	TCGA-2G-AAFL	Cisplatin	Complete Response
+TGCT	TCGA-2G-AAFM	Cisplatin	Complete Response
+TGCT	TCGA-2G-AAFN	Cisplatin	Complete Response
+TGCT	TCGA-2G-AAFO	Cisplatin	Complete Response
+TGCT	TCGA-2G-AAFY	Cisplatin	Complete Response
+TGCT	TCGA-2G-AAG0	Cisplatin	Complete Response
+TGCT	TCGA-2G-AAG5	Cisplatin	Complete Response
+TGCT	TCGA-2G-AAG8	Cisplatin	Complete Response
+TGCT	TCGA-2G-AAGA	Cisplatin	Complete Response
+TGCT	TCGA-2G-AAGC	Cisplatin	Complete Response
+TGCT	TCGA-2G-AAGE	Cisplatin	Complete Response
+TGCT	TCGA-2G-AAGF	Cisplatin	Complete Response
+TGCT	TCGA-2G-AAGJ	Cisplatin	Complete Response
+TGCT	TCGA-2G-AAGK	Cisplatin	Complete Response
+TGCT	TCGA-2G-AAGN	Cisplatin	Complete Response
+TGCT	TCGA-2G-AAGO	Cisplatin	Complete Response
+TGCT	TCGA-2G-AAGP	Cisplatin	Complete Response
+TGCT	TCGA-2G-AAGS	Cisplatin	Complete Response
+TGCT	TCGA-2G-AAGV	Cisplatin	Complete Response
+TGCT	TCGA-2G-AAH0	Cisplatin	Complete Response
+TGCT	TCGA-2G-AAHC	Cisplatin	Complete Response
+TGCT	TCGA-2G-AAKG	Cisplatin	Complete Response
+TGCT	TCGA-2G-AAKH	Cisplatin	Complete Response
+TGCT	TCGA-2G-AAL7	Cisplatin	Complete Response
+TGCT	TCGA-2X-A9D5	Cisplatin	Complete Response
+TGCT	TCGA-4K-AA1G	Cisplatin	Complete Response
+TGCT	TCGA-4K-AAAL	Cisplatin	Complete Response
+TGCT	TCGA-S6-A8JY	Cisplatin	Complete Response
+TGCT	TCGA-VF-A8AD	Cisplatin	Complete Response
+TGCT	TCGA-XE-AANV	Cisplatin	Complete Response
+TGCT	TCGA-XE-AAOD	Cisplatin	Complete Response
+TGCT	TCGA-ZM-AA05	Cisplatin	Complete Response
+TGCT	TCGA-ZM-AA06	Cisplatin	Complete Response
+TGCT	TCGA-2G-AAFZ	Cisplatin	Partial Response
+TGCT	TCGA-2G-AAG9	Cisplatin	Partial Response
+TGCT	TCGA-2G-AAGG	Cisplatin	Partial Response
+TGCT	TCGA-2G-AAGT	Cisplatin	Partial Response
+TGCT	TCGA-2G-AAGZ	Cisplatin	Partial Response
+TGCT	TCGA-2G-AAH4	Cisplatin	Partial Response
+TGCT	TCGA-2G-AAH8	Cisplatin	Partial Response
+TGCT	TCGA-2G-AAHA	Cisplatin	Partial Response
+TGCT	TCGA-2G-AAKD	Cisplatin	Partial Response
+TGCT	TCGA-2G-AAKL	Cisplatin	Partial Response
+TGCT	TCGA-2G-AAKM	Cisplatin	Partial Response
+TGCT	TCGA-XE-AAOJ	Cisplatin	Partial Response
+TGCT	TCGA-2G-AAGK	Etoposide	Complete Response
+TGCT	TCGA-XE-AANJ	Etoposide	Clinical Progressive Disease
+TGCT	TCGA-2G-AAF6	Etoposide	Complete Response
+TGCT	TCGA-2G-AAF8	Etoposide	Complete Response
+TGCT	TCGA-2G-AAFE	Etoposide	Complete Response
+TGCT	TCGA-2G-AAFG	Etoposide	Complete Response
+TGCT	TCGA-2G-AAFH	Etoposide	Complete Response
+TGCT	TCGA-2G-AAFL	Etoposide	Complete Response
+TGCT	TCGA-2G-AAFM	Etoposide	Complete Response
+TGCT	TCGA-2G-AAFN	Etoposide	Complete Response
+TGCT	TCGA-2G-AAFO	Etoposide	Complete Response
+TGCT	TCGA-2G-AAFY	Etoposide	Complete Response
+TGCT	TCGA-2G-AAG0	Etoposide	Complete Response
+TGCT	TCGA-2G-AAG5	Etoposide	Complete Response
+TGCT	TCGA-2G-AAG8	Etoposide	Complete Response
+TGCT	TCGA-2G-AAGA	Etoposide	Complete Response
+TGCT	TCGA-2G-AAGC	Etoposide	Complete Response
+TGCT	TCGA-2G-AAGE	Etoposide	Complete Response
+TGCT	TCGA-2G-AAGF	Etoposide	Complete Response
+TGCT	TCGA-2G-AAGJ	Etoposide	Complete Response
+TGCT	TCGA-2G-AAGN	Etoposide	Complete Response
+TGCT	TCGA-2G-AAGO	Etoposide	Complete Response
+TGCT	TCGA-2G-AAGP	Etoposide	Complete Response
+TGCT	TCGA-2G-AAGS	Etoposide	Complete Response
+TGCT	TCGA-2G-AAGV	Etoposide	Complete Response
+TGCT	TCGA-2G-AAH0	Etoposide	Complete Response
+TGCT	TCGA-2G-AAHC	Etoposide	Complete Response
+TGCT	TCGA-2G-AAKG	Etoposide	Complete Response
+TGCT	TCGA-2G-AAKH	Etoposide	Complete Response
+TGCT	TCGA-2G-AAL7	Etoposide	Complete Response
+TGCT	TCGA-2X-A9D5	Etoposide	Complete Response
+TGCT	TCGA-4K-AA1G	Etoposide	Complete Response
+TGCT	TCGA-4K-AAAL	Etoposide	Complete Response
+TGCT	TCGA-S6-A8JY	Etoposide	Complete Response
+TGCT	TCGA-VF-A8AD	Etoposide	Complete Response
+TGCT	TCGA-XE-A8H1	Etoposide	Complete Response
+TGCT	TCGA-XE-AANV	Etoposide	Complete Response
+TGCT	TCGA-XE-AAOD	Etoposide	Complete Response
+TGCT	TCGA-ZM-AA05	Etoposide	Complete Response
+TGCT	TCGA-ZM-AA06	Etoposide	Complete Response
+TGCT	TCGA-2G-AAFZ	Etoposide	Partial Response
+TGCT	TCGA-2G-AAG9	Etoposide	Partial Response
+TGCT	TCGA-2G-AAGG	Etoposide	Partial Response
+TGCT	TCGA-2G-AAGT	Etoposide	Partial Response
+TGCT	TCGA-2G-AAGZ	Etoposide	Partial Response
+TGCT	TCGA-2G-AAH4	Etoposide	Partial Response
+TGCT	TCGA-2G-AAH8	Etoposide	Partial Response
+TGCT	TCGA-2G-AAHA	Etoposide	Partial Response
+TGCT	TCGA-2G-AAKD	Etoposide	Partial Response
+TGCT	TCGA-2G-AAKL	Etoposide	Partial Response
+TGCT	TCGA-2G-AAKM	Etoposide	Partial Response
+TGCT	TCGA-XE-AAOJ	Etoposide	Partial Response
+TGCT	TCGA-YU-AA4L	Gemox	Complete Response
+TGCT	TCGA-2G-AAFE	Ifosfamid	Complete Response
+TGCT	TCGA-XE-AANJ	Ifosfamide	Complete Response
+TGCT	TCGA-XE-AANJ	Paclitaxel	Complete Response
+TGCT	TCGA-XE-AANJ	Platinum	Clinical Progressive Disease
+TGCT	TCGA-XE-A8H1	Platinum	Complete Response
+TGCT	TCGA-XE-AANJ	Platinum	Complete Response
+THCA	TCGA-E3-A3E0	Liothyronine	Complete Response
+THCA	TCGA-KS-A4I1	Liothyronine	Complete Response
+THCA	TCGA-KS-A4I3	Liothyronine	Complete Response
+THCA	TCGA-KS-A4I9	Liothyronine	Complete Response
+THCA	TCGA-KS-A4IB	Liothyronine	Complete Response
+THCA	TCGA-KS-A4IC	Liothyronine	Complete Response
+THCA	TCGA-KS-A4ID	Liothyronine	Complete Response
+THCA	TCGA-CE-A481	Doxorubicin	Complete Response
+THCA	TCGA-CE-A482	Doxorubicin	Complete Response
+THCA	TCGA-E3-A3DY	Levothyroxine	Complete Response
+THCA	TCGA-BJ-A2N7	Levothyroxine	Stable Disease
+THYM	TCGA-X7-A8M6	Cisplatin	Clinical Progressive Disease
+THYM	TCGA-5U-AB0D	Cisplatin	Partial Response
+THYM	TCGA-XM-AAZ1	Cisplatin	Stable Disease
+THYM	TCGA-4V-A9QQ	Cisplatin	Complete Response
+THYM	TCGA-X7-A8M6	Cyclophosphamide	Clinical Progressive Disease
+THYM	TCGA-X7-A8M6	Doxorubicin	Clinical Progressive Disease
+THYM	TCGA-4V-A9QQ	Etoposide	Complete Response
+THYM	TCGA-5U-AB0D	Etoposide	Partial Response
+THYM	TCGA-X7-A8M6	Pemetrexed	Clinical Progressive Disease
+UCEC	TCGA-BG-A2AE	Paclitaxel	Complete Response
+UCEC	TCGA-AJ-A2QL	Doxorubicin	Complete Response
+UCEC	TCGA-AJ-A3OK	Doxorubicin	Complete Response
+UCEC	TCGA-AJ-A4ZG	Doxorubicin	Complete Response
+UCEC	TCGA-BG-A0VZ	Doxorubicin	Complete Response
+UCEC	TCGA-AJ-A23N	Carboplatin	Clinical Progressive Disease
+UCEC	TCGA-AJ-A3I9	Carboplatin	Clinical Progressive Disease
+UCEC	TCGA-AP-A3K1	Carboplatin	Clinical Progressive Disease
+UCEC	TCGA-EO-A2CH	Carboplatin	Clinical Progressive Disease
+UCEC	TCGA-EY-A2ON	Carboplatin	Clinical Progressive Disease
+UCEC	TCGA-EY-A4KR	Carboplatin	Clinical Progressive Disease
+UCEC	TCGA-QS-A8F1	Carboplatin	Clinical Progressive Disease
+UCEC	TCGA-2E-A9G8	Carboplatin	Complete Response
+UCEC	TCGA-5S-A9Q8	Carboplatin	Complete Response
+UCEC	TCGA-A5-A1OH	Carboplatin	Complete Response
+UCEC	TCGA-A5-A3LP	Carboplatin	Complete Response
+UCEC	TCGA-A5-A7WK	Carboplatin	Complete Response
+UCEC	TCGA-A5-AB3J	Carboplatin	Complete Response
+UCEC	TCGA-AJ-A2QM	Carboplatin	Complete Response
+UCEC	TCGA-AJ-A3BD	Carboplatin	Complete Response
+UCEC	TCGA-AJ-A3BF	Carboplatin	Complete Response
+UCEC	TCGA-AJ-A3BG	Carboplatin	Complete Response
+UCEC	TCGA-AJ-A3BI	Carboplatin	Complete Response
+UCEC	TCGA-AJ-A3EK	Carboplatin	Complete Response
+UCEC	TCGA-AJ-A3NH	Carboplatin	Complete Response
+UCEC	TCGA-AJ-A3OJ	Carboplatin	Complete Response
+UCEC	TCGA-AJ-A3OK	Carboplatin	Complete Response
+UCEC	TCGA-AJ-A3OL	Carboplatin	Complete Response
+UCEC	TCGA-AJ-A3QS	Carboplatin	Complete Response
+UCEC	TCGA-AP-A5FX	Carboplatin	Complete Response
+UCEC	TCGA-AX-A2H5	Carboplatin	Complete Response
+UCEC	TCGA-AX-A2HF	Carboplatin	Complete Response
+UCEC	TCGA-BG-A0VT	Carboplatin	Complete Response
+UCEC	TCGA-BG-A2AE	Carboplatin	Complete Response
+UCEC	TCGA-BG-A2L7	Carboplatin	Complete Response
+UCEC	TCGA-BG-A3PP	Carboplatin	Complete Response
+UCEC	TCGA-D1-A3DA	Carboplatin	Complete Response
+UCEC	TCGA-E6-A8L9	Carboplatin	Complete Response
+UCEC	TCGA-EO-A1Y5	Carboplatin	Complete Response
+UCEC	TCGA-EO-A22X	Carboplatin	Complete Response
+UCEC	TCGA-EO-A2CG	Carboplatin	Complete Response
+UCEC	TCGA-EO-A3AV	Carboplatin	Complete Response
+UCEC	TCGA-EO-A3B1	Carboplatin	Complete Response
+UCEC	TCGA-EO-A3KU	Carboplatin	Complete Response
+UCEC	TCGA-EY-A3L3	Carboplatin	Complete Response
+UCEC	TCGA-EY-A3QX	Carboplatin	Complete Response
+UCEC	TCGA-EY-A54A	Carboplatin	Complete Response
+UCEC	TCGA-JU-AAVI	Carboplatin	Complete Response
+UCEC	TCGA-QF-A5YS	Carboplatin	Complete Response
+UCEC	TCGA-QS-A5YQ	Carboplatin	Complete Response
+UCEC	TCGA-AP-A3K1	Carboplatin	Stable Disease
+UCEC	TCGA-PG-A7D5	Carboplatin	Complete Response
+UCEC	TCGA-FI-A2D5	Carboplatin	Clinical Progressive Disease
+UCEC	TCGA-FI-A2EW	Carboplatin	Clinical Progressive Disease
+UCEC	TCGA-FI-A2CY	Carboplatin	Complete Response
+UCEC	TCGA-FI-A2D2	Carboplatin	Complete Response
+UCEC	TCGA-FI-A2EU	Carboplatin	Complete Response
+UCEC	TCGA-FI-A2EW	Carboplatin	Complete Response
+UCEC	TCGA-FI-A2EX	Carboplatin	Complete Response
+UCEC	TCGA-FI-A2EY	Carboplatin	Complete Response
+UCEC	TCGA-FI-A2D4	Carboplatin	Partial Response
+UCEC	TCGA-AJ-A3NF	Chemo, NOS	Complete Response
+UCEC	TCGA-AJ-A2QL	Cisplatin	Complete Response
+UCEC	TCGA-AJ-A3QS	Cisplatin	Complete Response
+UCEC	TCGA-AJ-A4ZG	Cisplatin	Complete Response
+UCEC	TCGA-BG-A0VZ	Cisplatin	Complete Response
+UCEC	TCGA-D1-A3JQ	Cisplatin	Complete Response
+UCEC	TCGA-FI-A2F8	Cisplatin	Complete Response
+UCEC	TCGA-QF-A5YT	Cisplatin	Complete Response
+UCEC	TCGA-QS-A5YQ	Cisplatin	Complete Response
+UCEC	TCGA-JU-AAVI	Cisplatin	Partial Response
+UCEC	TCGA-5S-A9Q8	Docetaxel	Complete Response
+UCEC	TCGA-A5-A7WK	Doxorubicin	Clinical Progressive Disease
+UCEC	TCGA-FI-A2EW	Doxorubicin	Clinical Progressive Disease
+UCEC	TCGA-K6-A3WQ	Doxorubicin	Clinical Progressive Disease
+UCEC	TCGA-FI-A2EX	Doxorubicin	Partial Response
+UCEC	TCGA-EO-A2CH	Doxorubicin	Clinical Progressive Disease
+UCEC	TCGA-D1-A3JQ	Doxorubicin	Complete Response
+UCEC	TCGA-FI-A2F8	Doxorubicin	Complete Response
+UCEC	TCGA-B5-A1MS	Gemcitabine	Clinical Progressive Disease
+UCEC	TCGA-AP-A3K1	Doxorubicin	Clinical Progressive Disease
+UCEC	TCGA-AP-A3K1	Paclitaxel	Clinical Progressive Disease
+UCEC	TCGA-FI-A2D5	Paclitaxel	Clinical Progressive Disease
+UCEC	TCGA-FI-A2EW	Paclitaxel	Clinical Progressive Disease
+UCEC	TCGA-QS-A8F1	Paclitaxel	Clinical Progressive Disease
+UCEC	TCGA-A5-AB3J	Paclitaxel	Complete Response
+UCEC	TCGA-AJ-A2QL	Paclitaxel	Complete Response
+UCEC	TCGA-AJ-A3BI	Paclitaxel	Complete Response
+UCEC	TCGA-AJ-A4ZG	Paclitaxel	Complete Response
+UCEC	TCGA-AP-A5FX	Paclitaxel	Complete Response
+UCEC	TCGA-AX-A2H5	Paclitaxel	Complete Response
+UCEC	TCGA-AX-A2HC	Paclitaxel	Complete Response
+UCEC	TCGA-AX-A2HF	Paclitaxel	Complete Response
+UCEC	TCGA-D1-A3DA	Paclitaxel	Complete Response
+UCEC	TCGA-D1-A3JQ	Paclitaxel	Complete Response
+UCEC	TCGA-DI-A2QY	Paclitaxel	Complete Response
+UCEC	TCGA-E6-A8L9	Paclitaxel	Complete Response
+UCEC	TCGA-FI-A2D2	Paclitaxel	Complete Response
+UCEC	TCGA-FI-A2EU	Paclitaxel	Complete Response
+UCEC	TCGA-FI-A2EW	Paclitaxel	Complete Response
+UCEC	TCGA-FI-A2EX	Paclitaxel	Complete Response
+UCEC	TCGA-FI-A2EY	Paclitaxel	Complete Response
+UCEC	TCGA-FI-A2F8	Paclitaxel	Complete Response
+UCEC	TCGA-JU-AAVI	Paclitaxel	Complete Response
+UCEC	TCGA-QF-A5YS	Paclitaxel	Complete Response
+UCEC	TCGA-QS-A5YQ	Paclitaxel	Complete Response
+UCEC	TCGA-PG-A7D5	Paclitaxel	Complete Response
+UCEC	TCGA-FI-A2D4	Paclitaxel	Partial Response
+UCEC	TCGA-AP-A3K1	Paclitaxel	Stable Disease
+UCEC	TCGA-EO-A1Y7	NA	Stable Disease
+UCEC	TCGA-AJ-A23N	Paclitaxel	Clinical Progressive Disease
+UCEC	TCGA-AJ-A3I9	Paclitaxel	Clinical Progressive Disease
+UCEC	TCGA-EO-A2CH	Paclitaxel	Clinical Progressive Disease
+UCEC	TCGA-EY-A2ON	Paclitaxel	Clinical Progressive Disease
+UCEC	TCGA-EY-A4KR	Paclitaxel	Clinical Progressive Disease
+UCEC	TCGA-2E-A9G8	Paclitaxel	Complete Response
+UCEC	TCGA-AJ-A2QM	Paclitaxel	Complete Response
+UCEC	TCGA-AJ-A3BD	Paclitaxel	Complete Response
+UCEC	TCGA-AJ-A3BF	Paclitaxel	Complete Response
+UCEC	TCGA-AJ-A3EK	Paclitaxel	Complete Response
+UCEC	TCGA-AJ-A3NH	Paclitaxel	Complete Response
+UCEC	TCGA-AJ-A3OJ	Paclitaxel	Complete Response
+UCEC	TCGA-AJ-A3OL	Paclitaxel	Complete Response
+UCEC	TCGA-AJ-A3QS	Paclitaxel	Complete Response
+UCEC	TCGA-BG-A0VT	Paclitaxel	Complete Response
+UCEC	TCGA-BG-A0VZ	Paclitaxel	Complete Response
+UCEC	TCGA-BG-A2AE	Paclitaxel	Complete Response
+UCEC	TCGA-BG-A3PP	Paclitaxel	Complete Response
+UCEC	TCGA-EO-A1Y5	Paclitaxel	Complete Response
+UCEC	TCGA-EO-A22X	Paclitaxel	Complete Response
+UCEC	TCGA-EO-A2CG	Paclitaxel	Complete Response
+UCEC	TCGA-EO-A3AV	Paclitaxel	Complete Response
+UCEC	TCGA-EO-A3B1	Paclitaxel	Complete Response
+UCEC	TCGA-EO-A3KU	Paclitaxel	Complete Response
+UCEC	TCGA-EY-A3L3	Paclitaxel	Complete Response
+UCEC	TCGA-EY-A3QX	Paclitaxel	Complete Response
+UCEC	TCGA-EY-A54A	Paclitaxel	Complete Response
+UCEC	TCGA-AJ-A3BG	Docetaxel	Complete Response
+UCEC	TCGA-AJ-A3OK	Docetaxel	Complete Response
+UCEC	TCGA-FI-A2CY	Docetaxel	Complete Response
+UCEC	TCGA-B5-A1MS	Topotecan	Clinical Progressive Disease
+UCEC	TCGA-FI-A2EW	Topotecan	Clinical Progressive Disease
+UCS	TCGA-NG-A4VW	Doxorubicin	Complete Response
+UCS	TCGA-N6-A4VG	Bevacizumab	Partial Response
+UCS	TCGA-N5-A4RM	Carboplatin	Clinical Progressive Disease
+UCS	TCGA-N6-A4VC	Carboplatin	Clinical Progressive Disease
+UCS	TCGA-N6-A4VE	Carboplatin	Clinical Progressive Disease
+UCS	TCGA-N7-A4Y0	Carboplatin	Clinical Progressive Disease
+UCS	TCGA-N8-A4PO	Carboplatin	Clinical Progressive Disease
+UCS	TCGA-N9-A4PZ	Carboplatin	Clinical Progressive Disease
+UCS	TCGA-N9-A4Q1	Carboplatin	Clinical Progressive Disease
+UCS	TCGA-N9-A4Q8	Carboplatin	Clinical Progressive Disease
+UCS	TCGA-N5-A4R8	Carboplatin	Complete Response
+UCS	TCGA-N5-A4RF	Carboplatin	Complete Response
+UCS	TCGA-N5-A4RJ	Carboplatin	Complete Response
+UCS	TCGA-N5-A4RN	Carboplatin	Complete Response
+UCS	TCGA-N5-A4RT	Carboplatin	Complete Response
+UCS	TCGA-N5-A59E	Carboplatin	Complete Response
+UCS	TCGA-N5-A59F	Carboplatin	Complete Response
+UCS	TCGA-N6-A4V9	Carboplatin	Complete Response
+UCS	TCGA-N7-A59B	Carboplatin	Complete Response
+UCS	TCGA-N8-A4PM	Carboplatin	Complete Response
+UCS	TCGA-N8-A4PN	Carboplatin	Complete Response
+UCS	TCGA-N8-A4PQ	Carboplatin	Complete Response
+UCS	TCGA-N9-A4PZ	Carboplatin	Complete Response
+UCS	TCGA-N9-A4Q7	Carboplatin	Complete Response
+UCS	TCGA-ND-A4WC	Carboplatin	Complete Response
+UCS	TCGA-NF-A4WX	Carboplatin	Complete Response
+UCS	TCGA-N6-A4VG	Carboplatin	Partial Response
+UCS	TCGA-N8-A4PI	Carboplatin	Partial Response
+UCS	TCGA-N9-A4Q3	Carboplatin	Partial Response
+UCS	TCGA-N5-A4RO	Carboplatin	Stable Disease
+UCS	TCGA-N7-A4Y8	Carboplatin	Stable Disease
+UCS	TCGA-N8-A56S	Carboplatin	Stable Disease
+UCS	TCGA-N5-A4RS	Cisplatin	Complete Response
+UCS	TCGA-N5-A4RT	Cisplatin	Complete Response
+UCS	TCGA-N5-A4RU	Cisplatin	Complete Response
+UCS	TCGA-N9-A4Q1	Cisplatin	Complete Response
+UCS	TCGA-NG-A4VW	Cisplatin	Complete Response
+UCS	TCGA-N7-A4Y0	Cisplatin	Stable Disease
+UCS	TCGA-NG-A4VW	Cyclophosphamide	Complete Response
+UCS	TCGA-N9-A4PZ	Docetaxel	Clinical Progressive Disease
+UCS	TCGA-N7-A59B	Docetaxel	Complete Response
+UCS	TCGA-N9-A4Q7	Docetaxel	Complete Response
+UCS	TCGA-N9-A4Q3	Doxorubicin	Clinical Progressive Disease
+UCS	TCGA-N9-A4PZ	Gemcitabine	Clinical Progressive Disease
+UCS	TCGA-N6-A4VF	Ifosfamide	Complete Response
+UCS	TCGA-NG-A4VU	Ifosfamide	Clinical Progressive Disease
+UCS	TCGA-N5-A4R8	Ifosfamide	Complete Response
+UCS	TCGA-N5-A4RS	Ifosfamide	Complete Response
+UCS	TCGA-N5-A4RU	Ifosfamide	Complete Response
+UCS	TCGA-N5-A4RV	Ifosfamide	Complete Response
+UCS	TCGA-N5-A4RO	Ifosfamide	Stable Disease
+UCS	TCGA-N7-A4Y0	Ifosfamide	Stable Disease
+UCS	TCGA-NG-A4VU	Mycophenolic acid	Clinical Progressive Disease
+UCS	TCGA-N6-A4VF	Mycophenolic acid	Complete Response
+UCS	TCGA-N7-A4Y0	Mycophenolic acid	Stable Disease
+UCS	TCGA-N5-A4RM	Paclitaxel	Clinical Progressive Disease
+UCS	TCGA-N7-A4Y0	Paclitaxel	Clinical Progressive Disease
+UCS	TCGA-N9-A4Q1	Paclitaxel	Clinical Progressive Disease
+UCS	TCGA-N9-A4Q8	Paclitaxel	Clinical Progressive Disease
+UCS	TCGA-N5-A4RF	Paclitaxel	Complete Response
+UCS	TCGA-N5-A4RJ	Paclitaxel	Complete Response
+UCS	TCGA-N5-A4RN	Paclitaxel	Complete Response
+UCS	TCGA-N5-A4RT	Paclitaxel	Complete Response
+UCS	TCGA-N5-A4RV	Paclitaxel	Complete Response
+UCS	TCGA-N5-A59E	Paclitaxel	Complete Response
+UCS	TCGA-N5-A59F	Paclitaxel	Complete Response
+UCS	TCGA-N7-A59B	Paclitaxel	Complete Response
+UCS	TCGA-N9-A4PZ	Paclitaxel	Complete Response
+UCS	TCGA-N9-A4Q1	Paclitaxel	Complete Response
+UCS	TCGA-N9-A4Q7	Paclitaxel	Complete Response
+UCS	TCGA-N5-A4RO	Paclitaxel	Partial Response
+UCS	TCGA-N6-A4VG	Paclitaxel	Partial Response
+UCS	TCGA-N9-A4Q3	Paclitaxel	Partial Response
+UCS	TCGA-N7-A4Y8	Paclitaxel	Stable Disease
+UCS	TCGA-N6-A4VE	Paclitaxel	Clinical Progressive Disease
+UCS	TCGA-N8-A4PO	Paclitaxel	Clinical Progressive Disease
+UCS	TCGA-NG-A4VU	Paclitaxel	Clinical Progressive Disease
+UCS	TCGA-N6-A4V9	Paclitaxel	Complete Response
+UCS	TCGA-N6-A4VF	Paclitaxel	Complete Response
+UCS	TCGA-N8-A4PM	Paclitaxel	Complete Response
+UCS	TCGA-N8-A4PN	Paclitaxel	Complete Response
+UCS	TCGA-N8-A4PQ	Paclitaxel	Complete Response
+UCS	TCGA-NA-A4QW	Paclitaxel	Complete Response
+UCS	TCGA-NF-A4WX	Paclitaxel	Complete Response
+UCS	TCGA-N6-A4VG	Paclitaxel	Partial Response
+UCS	TCGA-N8-A4PI	Paclitaxel	Partial Response
+UCS	TCGA-N8-A56S	Paclitaxel	Stable Disease
